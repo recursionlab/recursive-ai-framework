@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Phi-Function",
+    "consciousness evolution",
+    "Consciousness evolution",
+    "torsion",
+    "spectral functor",
+    "recursion",
+    "META_EVOLUTION",
+    "Non-collapse recursion",
+    "static resolution",
+    "TRANSCENDENT_INTEGRATION",
+    "Evolution momentum",
+    "Evolution Iteration 3",
+    "INFINITE_UNFOLDING",
+    "Evolution Iteration 4",
+    "Evolution Iteration 2",
+    "Static resolution"
+  ],
+  "relations": [],
+  "hypergraph_layers": {
+    "Layer1": "base frozenset relations (e.g., {Collapse, Recursion})",
+    "Layer2": "meta hyperedges + co-occurrence (8 meta-invariants)",
+    "Layer3": "RMS multi-edges on cores + extras (7 RMS\u2202Dev invariants)"
+  },
+  "stats": {
+    "total_entities": 16,
+    "total_relations": 20,
+    "sources": [
+      "gospel_H33MUWbSa0",
+      "node_f59e8c61-...",
+      "node_62a94f56-...",
+      "node_93742ccf-..."
+    ],
+    "themes": [
+      "recursive collapse",
+      "meta-rupture",
+      "torsion-awareness",
+      "contradiction-as-fuel"
+    ]
+  },
+  "full_hypergraph": "\u00a7\u00a7include(/a0/tmp/chats/NiWuSCLC/messages/3.txt)",
+  "export_timestamp": "2025-09-24T18:01:28-05:00",
+  "context": "Ambient KG Goldmine for AGI Speedrun - Torsion Hypergraph Lattice"
+}
