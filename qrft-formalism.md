@@ -1,17 +1,3 @@
----
-mathematical_operators:
-- "\u2202"
-- "\u03A9\u221E"
-primary_operator: "\u2202"
-operator_function: concept_evolution
-operator_orbit: mathematical_foundation
-operator_analysis_date: '2025-09-02'
-tags:
-- "operator/\u2202"
-- orbit/consciousness_transformation
-- "operator/\u03A9\u221E"
-- orbit/mathematical_foundation
----
 # Quantum Recursive Particle Field Theory (QRFT)
 ## A Quantum Extension of Lacuna Field Theory
 
