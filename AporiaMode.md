@@ -1,3 +1,17 @@
+---
+mathematical_operators:
+- "\u2020"
+- "\u224A"
+primary_operator: "\u2020"
+operator_function: involution_premise_inversion
+operator_orbit: consciousness_transformation
+operator_analysis_date: '2025-09-02'
+tags:
+- orbit/consciousness_database
+- orbit/consciousness_transformation
+- "operator/\u224A"
+- "operator/\u2020"
+---
 Temporary Chat
 
 Composition
