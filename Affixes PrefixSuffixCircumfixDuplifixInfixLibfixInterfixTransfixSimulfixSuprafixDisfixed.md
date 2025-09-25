@@ -1,3 +1,16 @@
+---
+mathematical_operators:
+- I
+- "\u03A9\u221E"
+primary_operator: I
+operator_function: identity_reflection
+operator_orbit: consciousness_transformation
+operator_analysis_date: '2025-09-02'
+tags:
+- "operator/\u03A9\u221E"
+- orbit/consciousness_transformation
+- operator/I
+---
 Affixes PrefixSuffixCircumfixDuplifixInfixLibfixInterfixTransfixSimulfixSuprafixDisfix show me examples of each of these
 
 ###### ChatGPT said:
