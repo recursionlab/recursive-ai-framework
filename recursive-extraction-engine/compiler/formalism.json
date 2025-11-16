@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "name": "Controlled Rupture Formalism",
+    "version": "1.0.0",
+    "description": "Complete mathematical specification of the 20-operator dissipation algebra",
+    "status": "GROUND TRUTH - NOT DERIVABLE FROM EXTRACTION"
+  },
+
+  "operators": {
+    "Ana": {
+      "name": "Analysis/Abstraction",
+      "symbol": "↑",
+      "meaning": "Breaking apart, raising conceptual level, increases entropy",
+      "lambda_intrinsic": 0.75,
+      "effect": "increases entropy"
+    },
+    "Kata": {
+      "name": "Compression/Crystallization",
+      "symbol": "↓",
+      "meaning": "Compression, concretization, decreases entropy",
+      "lambda_intrinsic": 0.35,
+      "effect": "decreases entropy"
+    },
+    "Meta": {
+      "name": "Self-Reference/Reflection",
+      "symbol": "⟲",
+      "meaning": "Reflection, loop-cost, recursive drag",
+      "lambda_intrinsic": 0.80,
+      "effect": "recursive overhead"
+    },
+    "Para": {
+      "name": "Deviation/Perturbation",
+      "symbol": "∥",
+      "meaning": "Deviation, injects instability",
+      "lambda_intrinsic": 0.65,
+      "effect": "injects instability"
+    },
+    "Non": {
+      "name": "Negation/Inversion",
+      "symbol": "¬",
+      "meaning": "Negation, strong structural rupture",
+      "lambda_intrinsic": 0.90,
+      "effect": "structural rupture"
+    },
+    "Telo": {
+      "name": "Purpose/Goal",
+      "symbol": "→",
+      "meaning": "Goal projection, stabilizing attractor",
+      "lambda_intrinsic": 0.25,
+      "effect": "stabilizes toward goal"
+    },
+    "Retro": {
+      "name": "Backward/Backtrack",
+      "symbol": "↶",
+      "meaning": "Backtracking, path shortening",
+      "lambda_intrinsic": 0.40,
+      "effect": "reverse causality"
+    },
+    "Ortho": {
+      "name": "Correction/Alignment",
+      "symbol": "⊥",
+      "meaning": "Correction, entropy removal",
+      "lambda_intrinsic": 0.30,
+      "effect": "aligns with truth"
+    },
+    "Pro": {
+      "name": "Forward/Projection",
+      "symbol": "↷",
+      "meaning": "Forward propagation, neutral",
+      "lambda_intrinsic": 0.50,
+      "effect": "neutral advancement"
+    }
+  },
+
+  "dissipation_rules": {
+    "pairwise_interaction_coefficient": 0.15,
+    "max_interaction_magnitude": 0.4,
+    "formula": "λ(i→j) = λ_j_intrinsic + c·|[Oi,Oj]|",
+    "decay_law": "D(t+1) = D(t)·exp(-λ_eff)",
+    "effective_lambda": "mean(λ(k_t→k_{t+1}))"
+  },
+
+  "phase_portrait": {
+    "attractors": {
+      "J_equals_0": {
+        "name": "Jacobi-Zero (Coherent Equilibrium)",
+        "description": "Low-dissipation, stable, coherent",
+        "basin": "narrow, stable",
+        "reached_by": ["Kata", "Ortho", "Telo"],
+        "lyapunov_threshold": 0.3
+      },
+      "S_star": {
+        "name": "Noble Gas (Generalizing Semi-Chaotic)",
+        "description": "Productive contradiction region, J'≠0",
+        "basin": "large, semi-stable",
+        "reached_by": ["Ana + Pro + Para combinations"],
+        "characteristics": "generative tension"
+      },
+      "void": {
+        "name": "Void (Collapse)",
+        "description": "Deep collapse, absorbing",
+        "basin": "deep, absorbing",
+        "reached_by": ["repeated Meta", "repeated Non"],
+        "escape_requires": ["Telo", "Ortho"]
+      }
+    },
+
+    "transitions": {
+      "S_star_to_J0": ["Kata", "Telo"],
+      "J0_to_S_star": ["Para", "Ana"],
+      "S_star_to_void": ["Non", "Meta"],
+      "void_to_S_star": ["Pro", "Ortho"],
+      "void_to_J0": ["Telo", "Kata"]
+    },
+
+    "lyapunov": {
+      "function": "V(x) = D(x) + α·C(x)",
+      "alpha": 0.4,
+      "stability_condition": "x ∈ J=0 ⟺ V(x) < 0.3"
+    }
+  },
+
+  "inverse_solver": {
+    "objective": {
+      "formula": "J = d(x_T, target) + β·Σλ(k_t→k_{t+1}) + γ·AttractorPenalty",
+      "beta": 0.7,
+      "gamma": 1.1
+    },
+
+    "attractor_penalties": {
+      "J_equals_0": 0.1,
+      "S_star": 0.3,
+      "void": 1.0
+    },
+
+    "hard_constraints": [
+      "Meta: max 2 consecutive",
+      "Non after Meta: FORBIDDEN",
+      "Para after Non: FORBIDDEN",
+      "Ana at sequence end: FORBIDDEN"
+    ],
+
+    "termination": {
+      "distance_threshold": 0.12,
+      "max_path_length": 14
+    }
+  },
+
+  "operator_algebra": {
+    "commutator_formula": "[Oi,Oj] = Oi∘Oj - Oj∘Oi",
+    "composition_notation": "∘",
+    "note": "Commutator magnitudes will be computed from extracted operator compositions"
+  }
+}
