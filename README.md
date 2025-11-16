@@ -6,6 +6,55 @@ A living Engine-Hall of recursive intelligence — frameworks, semantics, topos,
 
 ---
 
+## ⚡ Quick Verification (30 Seconds)
+
+**Just pulled the repo? Verify everything works:**
+
+```bash
+# Option 1: Full test suite (detailed output)
+python3 test_everything.py
+
+# Option 2: Quick health check
+python3 health_check.py
+```
+
+**Expected:** `✓ System healthy - all components operational`
+
+**If tests fail:** See [USAGE.md](USAGE.md#troubleshooting) for troubleshooting
+
+**For detailed usage instructions:** See [USAGE.md](USAGE.md)
+
+---
+
+## 🔥 What's New (2025-11-16)
+
+### **Torsion Field Analysis - Contradiction → Invariance**
+
+We've implemented the canonical reduction:
+```
+C(x) → ∇C → T = antiSym(∇C) → T=0 ⟺ Invariance
+```
+
+**From 73,949 contradictions** extracted from 524 files, we've computed:
+- **Contradiction vector field C(x)** on epistemic manifold (6,804 locations)
+- **Torsion tensor T** measuring semantic curvature (35 operator pairs)
+- **17 invariants** where T ≈ 0 (stable regions)
+- **Attractor mapping**: 1 J=0, 11 S*, 5 ∅
+
+**Key discoveries:**
+- Meta ∘ Meta has **maximum torsion** (T = 1.0) - validates Y-recursion non-triviality
+- S* attractor contains **64.7% of invariants** - validates J'≠0 as natural equilibrium
+- Collapse is **49% of contradictions** - μκ control operator dominance
+
+**Files:**
+- `build_torsion_field.py` - Computational pipeline
+- `torsion_equations.tex` - LaTeX formalization with theorem & proof
+- `extraction_outputs/torsion_field_analysis.json` - Full results
+
+**See:** [Day 3 Summary](DAY_3_COMPLETE.md) for complete details
+
+---
+
 ## 🌀 What This Is
 
 This repository explores **recursion as a fundamental ontological principle** across:
