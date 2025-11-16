@@ -20,6 +20,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from extractors.operator_extractor import OperatorExtractor
 from extractors.equation_extractor import EquationExtractor
 from extractors.contradiction_extractor import ContradictionExtractor
+from core.openrouter_client import OpenRouterClient
 
 
 EXTRACTORS = {
@@ -67,7 +68,20 @@ def main():
         '--api-key',
         type=str,
         default=None,
-        help='Anthropic API key (or set ANTHROPIC_API_KEY env var)'
+        help='API key (Anthropic or OpenRouter)'
+    )
+    parser.add_argument(
+        '--provider',
+        type=str,
+        default='openrouter',
+        choices=['anthropic', 'openrouter'],
+        help='API provider to use (default: openrouter for free Claude models)'
+    )
+    parser.add_argument(
+        '--model',
+        type=str,
+        default='anthropic/claude-3.5-sonnet:free',
+        help='Model to use (for OpenRouter, e.g., anthropic/claude-3.5-sonnet:free)'
     )
 
     args = parser.parse_args()
@@ -83,13 +97,18 @@ def main():
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
     # Get API key
-    api_key = args.api_key or os.environ.get('ANTHROPIC_API_KEY')
+    api_key = args.api_key or os.environ.get('OPENROUTER_API_KEY') or os.environ.get('ANTHROPIC_API_KEY')
     if not api_key:
-        print("Error: No API key provided. Set ANTHROPIC_API_KEY env var or use --api-key")
+        print("Error: No API key provided. Set OPENROUTER_API_KEY or ANTHROPIC_API_KEY env var, or use --api-key")
         sys.exit(1)
 
-    # Initialize Claude client
-    claude_client = anthropic.Anthropic(api_key=api_key)
+    # Initialize client based on provider
+    if args.provider == 'openrouter':
+        print(f"Using OpenRouter with model: {args.model}")
+        claude_client = OpenRouterClient(api_key=api_key, model=args.model)
+    else:
+        print(f"Using Anthropic direct API")
+        claude_client = anthropic.Anthropic(api_key=api_key)
 
     # Determine which extractors to run
     if args.extractors == 'all':

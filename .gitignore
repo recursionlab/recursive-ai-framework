@@ -1,3 +1,5 @@
 __pycache__/
 extraction_log.txt
 *.log
+extraction_outputs/
+extraction_run.log
