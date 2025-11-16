@@ -39,6 +39,32 @@ class DissipationCalculator:
         # Commutator magnitudes (will be filled from extraction)
         self.commutators = {}
 
+    def load_commutators_from_skeleton(self, skeleton_path: Path = None):
+        """
+        Load default commutator magnitudes from commutator_skeleton.json.
+        Uses sign as magnitude estimate: 0 → 0.0, ±1 → 1.0
+
+        Args:
+            skeleton_path: Path to commutator_skeleton.json (default: same dir as formalism)
+        """
+        if skeleton_path is None:
+            skeleton_path = Path(__file__).parent / "commutator_skeleton.json"
+
+        with open(skeleton_path) as f:
+            skeleton = json.load(f)
+
+        commutator_matrix = skeleton['commutator_matrix']
+
+        # Convert sign to magnitude
+        for op_i, pairs in commutator_matrix.items():
+            for op_j, (sign, _) in pairs.items():
+                # Use absolute value of sign as magnitude estimate
+                # Extraction will refine these values
+                if sign != 0:
+                    self.commutators[(op_i, op_j)] = 1.0  # Default magnitude for non-zero commutator
+                else:
+                    self.commutators[(op_i, op_j)] = 0.0  # Neutral commutation
+
     def set_commutators(self, commutator_dict: Dict[Tuple[str, str], float]):
         """
         Set commutator magnitudes from extraction.
@@ -46,7 +72,7 @@ class DissipationCalculator:
         Args:
             commutator_dict: {(Op_i, Op_j): magnitude}
         """
-        self.commutators = commutator_dict
+        self.commutators.update(commutator_dict)  # Update instead of replace to preserve skeleton values
 
     def lambda_pairwise(self, op_i: str, op_j: str) -> float:
         """
@@ -210,21 +236,20 @@ def example_usage():
 
     calc = DissipationCalculator()
 
-    # Example: Set some commutator magnitudes
-    # (These would come from extraction in real use)
-    calc.set_commutators({
-        ('Meta', 'Non'): 0.8,   # High non-commutativity
-        ('Ana', 'Kata'): 0.6,   # Medium
-        ('Telo', 'Ortho'): 0.1, # Low
-        ('Para', 'Pro'): 0.3,
-    })
+    # Load default commutator magnitudes from skeleton
+    calc.load_commutators_from_skeleton()
 
-    # Test sequences
+    print(f"Loaded {len(calc.commutators)} commutator pairs from skeleton")
+    print(f"Available operators: {list(calc.operators.keys())}")
+
+    # Test sequences (mix of old and new operators)
     sequences = [
-        ['Ana', 'Meta', 'Non'],         # High dissipation
-        ['Kata', 'Telo', 'Ortho'],      # Low dissipation
-        ['Para', 'Pro', 'Para', 'Pro'], # Oscillating
+        ['Ana', 'Meta', 'Non'],         # High dissipation (original 9)
+        ['Kata', 'Telo', 'Ortho'],      # Low dissipation (original 9)
+        ['Seed', 'Weave', 'Bind'],      # New operators (constructive)
+        ['Echo', 'Braid', 'Fold'],      # New operators (mixed)
         ['Meta', 'Meta', 'Meta'],       # Collapse risk
+        ['Vale', 'Flux', 'Crux'],       # New operators (disruptive + reflexive)
     ]
 
     print("="*60)

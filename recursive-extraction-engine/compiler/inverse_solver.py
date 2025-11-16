@@ -352,23 +352,20 @@ class InverseSolver:
 
 
 def example_usage():
-    """Example: Solve inverse problems"""
+    """Example: Solve inverse problems with 20-operator algebra"""
 
     solver = InverseSolver()
 
-    # Set some commutators (would come from extraction)
-    solver.dissipation.set_commutators({
-        ('Meta', 'Non'): 0.8,
-        ('Ana', 'Kata'): 0.6,
-        ('Telo', 'Ortho'): 0.1,
-        ('Para', 'Pro'): 0.3,
-    })
+    # Load commutators from skeleton (ground truth structure)
+    solver.dissipation.load_commutators_from_skeleton()
 
     print("="*60)
-    print("INVERSE PROBLEM SOLVER")
+    print("INVERSE PROBLEM SOLVER - 20 OPERATORS")
     print("="*60)
+    print(f"Available operators: {solver.operators}")
+    print(f"Loaded {len(solver.dissipation.commutators)} commutator pairs\n")
 
-    # Test cases
+    # Test cases (solver can now use all 20 operators)
     problems = [
         {
             'name': 'Stabilize (chaos → coherence)',
@@ -384,6 +381,11 @@ def example_usage():
             'name': 'Escape void',
             'initial': (0.9, 0.85), # Deep void
             'target': (0.4, 0.4),   # S*
+        },
+        {
+            'name': 'Gentle stabilization (prefer new constructive ops)',
+            'initial': (0.6, 0.6),  # Moderate S*
+            'target': (0.15, 0.15), # J=0
         },
     ]
 

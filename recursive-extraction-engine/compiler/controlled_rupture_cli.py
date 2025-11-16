@@ -25,8 +25,9 @@ class ControlledRuptureCompiler:
         self.portrait = PhasePortrait()
         self.solver = InverseSolver()
 
-        # Set default commutators (would come from extraction in production)
-        self._set_default_commutators()
+        # Load commutators from skeleton (ground truth structure)
+        # In production, extraction will refine these magnitudes
+        self._load_commutators()
 
         # Problem templates
         self.problem_templates = {
@@ -62,19 +63,16 @@ class ControlledRuptureCompiler:
             }
         }
 
-    def _set_default_commutators(self):
-        """Set default commutator magnitudes"""
-        commutators = {
-            ('Meta', 'Non'): 0.8,
-            ('Ana', 'Kata'): 0.6,
-            ('Telo', 'Ortho'): 0.1,
-            ('Para', 'Pro'): 0.3,
-            ('Meta', 'Meta'): 0.7,
-            ('Non', 'Non'): 0.6,
-            ('Ana', 'Meta'): 0.5,
-            ('Kata', 'Telo'): 0.2,
-        }
-        self.dissipation.set_commutators(commutators)
+    def _load_commutators(self):
+        """
+        Load commutator magnitudes from skeleton.
+        All 3 calculators (dissipation, solver.dissipation) share ground truth structure.
+        """
+        # Load for main dissipation calculator
+        self.dissipation.load_commutators_from_skeleton()
+
+        # Load for solver's dissipation calculator
+        self.solver.dissipation.load_commutators_from_skeleton()
 
     def diagnose(self, problem_key: str) -> Dict:
         """

@@ -116,16 +116,23 @@ class PhasePortrait:
     ) -> List[str]:
         """
         Suggest operators to transition between attractors.
+        Now includes all 20 operators for richer suggestions.
 
         Returns:
             List of required operators
         """
         transition_map = {
-            (Attractor.S_STAR, Attractor.J_EQUALS_0): ['Kata', 'Telo'],
-            (Attractor.J_EQUALS_0, Attractor.S_STAR): ['Para', 'Ana'],
-            (Attractor.S_STAR, Attractor.VOID): ['Non', 'Meta'],
-            (Attractor.VOID, Attractor.S_STAR): ['Pro', 'Ortho'],
-            (Attractor.VOID, Attractor.J_EQUALS_0): ['Telo', 'Kata'],
+            # Stabilizing transitions (→ J=0)
+            (Attractor.S_STAR, Attractor.J_EQUALS_0): ['Kata', 'Telo', 'Seed', 'Latch'],
+            (Attractor.VOID, Attractor.J_EQUALS_0): ['Telo', 'Kata', 'Axis', 'Bind'],
+
+            # Activating transitions (→ S*)
+            (Attractor.J_EQUALS_0, Attractor.S_STAR): ['Para', 'Ana', 'Crux', 'Echo'],
+            (Attractor.VOID, Attractor.S_STAR): ['Pro', 'Ortho', 'Weave', 'Seed'],
+
+            # Destabilizing transitions (→ ∅)
+            (Attractor.S_STAR, Attractor.VOID): ['Non', 'Meta', 'Vale', 'Fold'],
+            (Attractor.J_EQUALS_0, Attractor.VOID): ['Non', 'Vale', 'Flux'],
         }
 
         return transition_map.get((from_attractor, to_attractor), [])
@@ -212,19 +219,39 @@ class PhasePortrait:
         """
         Default effects of operators on (D, C).
 
+        Operator classes guide effects:
+        - A-Constructive (low λ): negative ΔD, ΔC (stabilizing)
+        - B-Disruptive (high λ): positive ΔD, ΔC (destabilizing)
+        - C-Reflexive (medium λ): mixed or small changes
+        - D-Structural: specialized effects
+
         Returns:
             {operator: (ΔD, ΔC)}
         """
         return {
-            'Ana': (0.15, 0.1),    # Increases both
-            'Kata': (-0.20, -0.15), # Decreases both
-            'Meta': (0.10, 0.05),   # Slight increase
-            'Para': (0.12, 0.18),   # High C increase
-            'Non': (0.25, 0.20),    # Strong increase
-            'Telo': (-0.18, -0.10), # Decrease, stabilize
-            'Retro': (-0.05, 0.0),  # Slight D decrease
-            'Ortho': (-0.15, -0.12),# Decrease both
-            'Pro': (0.05, 0.02),    # Slight increase
+            # Original 9 operators
+            'Ana': (0.15, 0.1),     # B-Disruptive: Increases both
+            'Kata': (-0.20, -0.15), # A-Constructive: Decreases both (idempotent)
+            'Meta': (0.10, 0.05),   # C-Reflexive: Slight increase
+            'Para': (0.12, 0.18),   # C-Reflexive: High C increase
+            'Non': (0.25, 0.20),    # B-Disruptive: Strong increase
+            'Telo': (-0.18, -0.10), # A-Constructive: Decrease, stabilize (absorbing)
+            'Retro': (-0.05, 0.0),  # D-Structural: Slight D decrease
+            'Ortho': (-0.15, -0.12),# A-Constructive: Decrease both
+            'Pro': (0.05, 0.02),    # D-Structural: Slight increase
+
+            # New 11 operators
+            'Echo': (0.08, 0.06),   # C-Reflexive (λ=0.45): Small increase, reflection
+            'Braid': (0.10, 0.12),  # C-Reflexive (λ=0.55): Moderate increase, interweaving
+            'Fold': (0.18, 0.14),   # B-Disruptive (λ=0.70): High increase, compression stress
+            'Seed': (-0.17, -0.11), # A-Constructive (λ=0.28): Strong decrease, foundation
+            'Crux': (0.07, 0.09),   # C-Reflexive (λ=0.42): Small increase, pivot point
+            'Weave': (-0.16, -0.13),# A-Constructive (λ=0.33): Decrease, integration
+            'Bind': (-0.14, -0.10), # A-Constructive (λ=0.38): Decrease, cohesion
+            'Axis': (-0.16, -0.12), # A-Constructive (λ=0.31): Decrease, alignment
+            'Vale': (0.22, 0.18),   # B-Disruptive (λ=0.88): Strong increase, deep descent
+            'Flux': (0.14, 0.11),   # B-Disruptive (λ=0.60): Moderate increase, flow
+            'Latch': (-0.17, -0.12),# A-Constructive (λ=0.29): Strong decrease, fixation
         }
 
     def analyze_basin_structure(
@@ -289,15 +316,19 @@ def example_usage():
     portrait = PhasePortrait()
 
     print("="*60)
-    print("PHASE PORTRAIT ANALYSIS")
+    print("PHASE PORTRAIT ANALYSIS - 20 OPERATORS")
     print("="*60)
 
-    # Test sequences
+    # Test sequences (mix of original and new operators)
     sequences = {
-        'Stabilize': ['Kata', 'Telo', 'Ortho'],
-        'Destabilize': ['Ana', 'Para', 'Non'],
+        'Stabilize (original)': ['Kata', 'Telo', 'Ortho'],
+        'Stabilize (new)': ['Seed', 'Latch', 'Axis'],
+        'Destabilize (original)': ['Ana', 'Para', 'Non'],
+        'Destabilize (new)': ['Vale', 'Flux', 'Fold'],
+        'Reflect': ['Echo', 'Braid', 'Crux'],
         'Collapse': ['Meta', 'Meta', 'Non'],
-        'Rescue': ['Pro', 'Ortho', 'Telo'],
+        'Rescue (original)': ['Pro', 'Ortho', 'Telo'],
+        'Rescue (new)': ['Weave', 'Bind', 'Seed'],
     }
 
     for name, seq in sequences.items():

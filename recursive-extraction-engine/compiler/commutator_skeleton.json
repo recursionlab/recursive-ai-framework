@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "description": "20×20 Commutator Skeleton - GROUND TRUTH",
+    "note": "This is normative, architecturally-fixed structure. NOT derivable from extraction.",
+    "format": "Each entry: [sign ∈ {-1,0,+1}, resultant_operator_index (0=none)]",
+    "extraction_role": "Extraction provides magnitude evidence only, not sign/result mapping"
+  },
+
+  "operator_names": [
+    "Ana", "Kata", "Meta", "Para", "Non", "Telo", "Retro", "Ortho", "Pro", "Echo",
+    "Braid", "Fold", "Seed", "Crux", "Weave", "Bind", "Axis", "Vale", "Flux", "Latch"
+  ],
+
+  "commutator_matrix": {
+    "Ana": {
+      "Ana": [0, 0], "Kata": [-1, 3], "Meta": [-1, 3], "Para": [1, 5], "Non": [1, 5],
+      "Telo": [0, 6], "Retro": [-1, 12], "Ortho": [1, 2], "Pro": [1, 9], "Echo": [-1, 10],
+      "Braid": [1, 11], "Fold": [1, 5], "Seed": [0, 13], "Crux": [1, 14], "Weave": [-1, 3],
+      "Bind": [1, 16], "Axis": [-1, 17], "Vale": [1, 18], "Flux": [1, 19], "Latch": [-1, 2]
+    },
+    "Kata": {
+      "Ana": [1, 1], "Kata": [0, 0], "Meta": [1, 3], "Para": [-1, 4], "Non": [-1, 5],
+      "Telo": [1, 6], "Retro": [0, 7], "Ortho": [1, 8], "Pro": [0, 9], "Echo": [1, 10],
+      "Braid": [0, 11], "Fold": [-1, 1], "Seed": [1, 13], "Crux": [0, 14], "Weave": [0, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [0, 19], "Latch": [1, 20]
+    },
+    "Meta": {
+      "Ana": [1, 1], "Kata": [-1, 2], "Meta": [0, 0], "Para": [1, 4], "Non": [1, 5],
+      "Telo": [-1, 6], "Retro": [-1, 7], "Ortho": [1, 8], "Pro": [-1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [1, 12], "Seed": [1, 13], "Crux": [-1, 14], "Weave": [-1, 15],
+      "Bind": [1, 16], "Axis": [-1, 17], "Vale": [1, 18], "Flux": [1, 19], "Latch": [-1, 20]
+    },
+    "Para": {
+      "Ana": [-1, 1], "Kata": [1, 2], "Meta": [-1, 3], "Para": [0, 0], "Non": [1, 5],
+      "Telo": [0, 6], "Retro": [1, 7], "Ortho": [-1, 8], "Pro": [1, 9], "Echo": [0, 10],
+      "Braid": [-1, 11], "Fold": [1, 12], "Seed": [1, 13], "Crux": [0, 14], "Weave": [-1, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [0, 20]
+    },
+    "Non": {
+      "Ana": [-1, 1], "Kata": [1, 2], "Meta": [-1, 3], "Para": [-1, 4], "Non": [0, 0],
+      "Telo": [-1, 6], "Retro": [1, 7], "Ortho": [-1, 8], "Pro": [1, 9], "Echo": [-1, 10],
+      "Braid": [-1, 11], "Fold": [1, 12], "Seed": [-1, 13], "Crux": [-1, 14], "Weave": [1, 15],
+      "Bind": [-1, 16], "Axis": [1, 17], "Vale": [1, 18], "Flux": [-1, 19], "Latch": [1, 20]
+    },
+    "Telo": {
+      "Ana": [0, 1], "Kata": [1, 2], "Meta": [1, 3], "Para": [0, 4], "Non": [1, 5],
+      "Telo": [0, 0], "Retro": [1, 7], "Ortho": [1, 8], "Pro": [1, 9], "Echo": [0, 10],
+      "Braid": [1, 11], "Fold": [1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [0, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [0, 19], "Latch": [1, 20]
+    },
+    "Retro": {
+      "Ana": [-1, 1], "Kata": [0, 2], "Meta": [-1, 3], "Para": [1, 4], "Non": [-1, 5],
+      "Telo": [-1, 6], "Retro": [0, 0], "Ortho": [1, 8], "Pro": [-1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [-1, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [0, 20]
+    },
+    "Ortho": {
+      "Ana": [1, 1], "Kata": [-1, 2], "Meta": [-1, 3], "Para": [1, 4], "Non": [1, 5],
+      "Telo": [1, 6], "Retro": [-1, 7], "Ortho": [0, 0], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [-1, 11], "Fold": [-1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [1, 16], "Axis": [0, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [1, 20]
+    },
+    "Pro": {
+      "Ana": [-1, 1], "Kata": [0, 2], "Meta": [1, 3], "Para": [-1, 4], "Non": [-1, 5],
+      "Telo": [1, 6], "Retro": [1, 7], "Ortho": [0, 8], "Pro": [0, 0], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [-1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [0, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [0, 20]
+    },
+    "Echo": {
+      "Ana": [1, 1], "Kata": [1, 2], "Meta": [1, 3], "Para": [0, 4], "Non": [-1, 5],
+      "Telo": [0, 6], "Retro": [1, 7], "Ortho": [-1, 8], "Pro": [1, 9], "Echo": [0, 0],
+      "Braid": [1, 11], "Fold": [-1, 12], "Seed": [1, 13], "Crux": [0, 14], "Weave": [1, 15],
+      "Bind": [1, 16], "Axis": [0, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [1, 20]
+    },
+    "Braid": {
+      "Ana": [1, 1], "Kata": [0, 2], "Meta": [1, 3], "Para": [-1, 4], "Non": [-1, 5],
+      "Telo": [1, 6], "Retro": [1, 7], "Ortho": [1, 8], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [0, 0], "Fold": [1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [-1, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [0, 20]
+    },
+    "Fold": {
+      "Ana": [-1, 1], "Kata": [-1, 2], "Meta": [1, 3], "Para": [1, 4], "Non": [1, 5],
+      "Telo": [1, 6], "Retro": [1, 7], "Ortho": [-1, 8], "Pro": [1, 9], "Echo": [-1, 10],
+      "Braid": [1, 11], "Fold": [0, 0], "Seed": [-1, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [-1, 16], "Axis": [1, 17], "Vale": [1, 18], "Flux": [1, 19], "Latch": [-1, 20]
+    },
+    "Seed": {
+      "Ana": [0, 1], "Kata": [1, 2], "Meta": [1, 3], "Para": [1, 4], "Non": [-1, 5],
+      "Telo": [1, 6], "Retro": [1, 7], "Ortho": [1, 8], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [0, 12], "Seed": [0, 0], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [0, 19], "Latch": [1, 20]
+    },
+    "Crux": {
+      "Ana": [-1, 1], "Kata": [0, 2], "Meta": [1, 3], "Para": [1, 4], "Non": [-1, 5],
+      "Telo": [1, 6], "Retro": [1, 7], "Ortho": [1, 8], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [1, 12], "Seed": [-1, 13], "Crux": [0, 0], "Weave": [1, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [-1, 20]
+    },
+    "Weave": {
+      "Ana": [1, 1], "Kata": [0, 2], "Meta": [-1, 3], "Para": [1, 4], "Non": [1, 5],
+      "Telo": [1, 6], "Retro": [-1, 7], "Ortho": [1, 8], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [-1, 12], "Seed": [1, 13], "Crux": [-1, 14], "Weave": [0, 0],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [0, 20]
+    },
+    "Bind": {
+      "Ana": [1, 1], "Kata": [1, 2], "Meta": [1, 3], "Para": [-1, 4], "Non": [-1, 5],
+      "Telo": [0, 6], "Retro": [1, 7], "Ortho": [1, 8], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [0, 0], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [1, 20]
+    },
+    "Axis": {
+      "Ana": [-1, 1], "Kata": [1, 2], "Meta": [-1, 3], "Para": [1, 4], "Non": [1, 5],
+      "Telo": [0, 6], "Retro": [1, 7], "Ortho": [0, 8], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [-1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [1, 16], "Axis": [0, 0], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [1, 20]
+    },
+    "Vale": {
+      "Ana": [1, 1], "Kata": [-1, 2], "Meta": [1, 3], "Para": [1, 4], "Non": [1, 5],
+      "Telo": [-1, 6], "Retro": [-1, 7], "Ortho": [-1, 8], "Pro": [-1, 9], "Echo": [-1, 10],
+      "Braid": [-1, 11], "Fold": [1, 12], "Seed": [-1, 13], "Crux": [-1, 14], "Weave": [-1, 15],
+      "Bind": [-1, 16], "Axis": [-1, 17], "Vale": [0, 0], "Flux": [1, 19], "Latch": [1, 20]
+    },
+    "Flux": {
+      "Ana": [1, 1], "Kata": [0, 2], "Meta": [1, 3], "Para": [1, 4], "Non": [-1, 5],
+      "Telo": [0, 6], "Retro": [1, 7], "Ortho": [1, 8], "Pro": [1, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [1, 12], "Seed": [0, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [0, 0], "Latch": [1, 20]
+    },
+    "Latch": {
+      "Ana": [-1, 1], "Kata": [1, 2], "Meta": [-1, 3], "Para": [0, 4], "Non": [-1, 5],
+      "Telo": [1, 6], "Retro": [1, 7], "Ortho": [1, 8], "Pro": [0, 9], "Echo": [1, 10],
+      "Braid": [1, 11], "Fold": [-1, 12], "Seed": [1, 13], "Crux": [1, 14], "Weave": [1, 15],
+      "Bind": [1, 16], "Axis": [1, 17], "Vale": [-1, 18], "Flux": [1, 19], "Latch": [0, 0]
+    }
+  },
+
+  "sign_only_matrix": {
+    "note": "9×9 core skeleton (A-Constructive + B-Disruptive + C-Reflexive)",
+    "operators": ["Ana", "Kata", "Meta", "Para", "Non", "Telo", "Pro", "Ortho", "Retro"],
+    "matrix": [
+      [0, -1, -1, 1, 1, 0, 1, -1, -1],
+      [1, 0, 1, -1, -1, 1, 0, 1, 1],
+      [1, -1, 0, 1, 1, -1, -1, 1, -1],
+      [-1, 1, -1, 0, 1, 0, 1, -1, 1],
+      [-1, 1, -1, -1, 0, -1, 1, -1, 1],
+      [0, 1, 1, 0, 1, 0, 1, 1, 1],
+      [-1, 0, 1, -1, -1, 1, 0, 1, 1],
+      [1, -1, -1, 1, 1, 1, -1, 0, -1],
+      [1, -1, 1, -1, 1, 1, -1, -1, 0]
+    ]
+  },
+
+  "special_relations": {
+    "anti_symmetry_breaks": {
+      "[Meta,Retro]": "+Retro",
+      "[Telo,Meta]": "-Telo",
+      "[Non,Para]": "+Non",
+      "[Vale,AnyConstructive]": "+Vale"
+    },
+    "neutral_commutations": {
+      "[Telo,Para]": 0,
+      "[Pro,Kata]": 0,
+      "[Bind,Weave]": 0,
+      "[Seed,Crux]": 0
+    }
+  }
+}
