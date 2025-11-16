@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 HEALTH CHECK - One-Command System Verification
 
@@ -8,8 +9,15 @@ Run this anytime to verify the system is working:
 Quick, simple output - just tells you if things are broken.
 """
 
+import sys
 import json
 from pathlib import Path
+
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
 
 def check():
     """Quick health check - returns True if system is healthy"""

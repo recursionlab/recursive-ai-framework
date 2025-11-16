@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 MASTER TEST SUITE - Validates All Components End-to-End
 
@@ -12,6 +13,12 @@ import sys
 import json
 from pathlib import Path
 import subprocess
+
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
 
 class Colors:
     GREEN = '\033[92m'

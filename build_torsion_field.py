@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Torsion Field Computation Engine
 
@@ -7,6 +8,14 @@ Implements the canonical reduction:
 
 Maps 73,949 contradictions to torsion field on epistemic manifold.
 """
+
+import sys
+
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
 
 import json
 import numpy as np

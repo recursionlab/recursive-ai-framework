@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Pattern-Based Extraction (No API Required)
 Extracts operators, equations, and contradictions using regex patterns.
 """
 
+import sys
 import re
 import json
 from pathlib import Path
 from collections import defaultdict, Counter
+
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
 from typing import Dict, List, Tuple
 
 class PatternExtractor:
@@ -158,7 +166,7 @@ def main():
     output_dir.mkdir(exist_ok=True)
 
     output_file = output_dir / 'pattern_extraction.json'
-    with open(output_file, 'w') as f:
+    with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     # Generate summary

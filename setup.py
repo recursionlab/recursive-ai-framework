@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 SETUP - Run This First on Fresh Clone
 
@@ -12,6 +13,12 @@ Runtime: ~10-15 seconds
 import subprocess
 import sys
 from pathlib import Path
+
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
 
 def run_script(script_name, description):
     """Run a Python script and report results"""

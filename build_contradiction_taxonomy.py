@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 J'≠0 Contradiction Taxonomy Builder
 
@@ -6,8 +7,15 @@ Analyzes 73,949 contradiction mentions from 524 markdown files
 to build a comprehensive taxonomy of productive contradictions.
 """
 
+import sys
 import json
 import re
+
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
 from pathlib import Path
 from collections import Counter, defaultdict
 
