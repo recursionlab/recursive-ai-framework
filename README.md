@@ -6,23 +6,42 @@ A living Engine-Hall of recursive intelligence — frameworks, semantics, topos,
 
 ---
 
-## ⚡ Quick Verification (30 Seconds)
+## ⚡ First Time Setup (Required)
 
-**Just pulled the repo? Verify everything works:**
+**Just cloned the repo? Run this FIRST:**
 
 ```bash
-# Option 1: Full test suite (detailed output)
+python3 setup.py
+```
+
+**What it does:**
+- Extracts patterns from 524 markdown files
+- Maps 13 symbolic → normative operators
+- Computes torsion field from 73,949 contradictions
+- Generates all test data (extraction_outputs/)
+- **Runtime:** ~10-15 seconds
+
+**Note:** Data files are gitignored (24MB), so you must generate them locally.
+
+---
+
+## ✅ Verification
+
+**After setup, verify everything works:**
+
+```bash
+# Option 1: Full test suite (31 tests)
 python3 test_everything.py
 
 # Option 2: Quick health check
 python3 health_check.py
 ```
 
-**Expected:** `✓ System healthy - all components operational`
+**Expected:** `✓ ALL TESTS PASSED - SYSTEM FULLY OPERATIONAL`
 
 **If tests fail:** See [USAGE.md](USAGE.md#troubleshooting) for troubleshooting
 
-**For detailed usage instructions:** See [USAGE.md](USAGE.md)
+**For detailed usage:** See [USAGE.md](USAGE.md)
 
 ---
 

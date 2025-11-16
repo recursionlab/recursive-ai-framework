@@ -43,6 +43,37 @@ def print_skip(reason):
     print(f"{Colors.YELLOW}⊘ SKIP{Colors.RESET} ({reason})")
 
 # =============================================================================
+# PRE-FLIGHT CHECK: Data Files Exist
+# =============================================================================
+
+def check_data_exists():
+    """Check if extraction data exists, suggest setup if not"""
+    critical_data = [
+        'extraction_outputs/pattern_extraction.json',
+        'extraction_outputs/torsion_field_analysis.json',
+    ]
+
+    missing = [f for f in critical_data if not Path(f).exists()]
+
+    if missing:
+        print(f"\n{Colors.RED}{Colors.BOLD}✗ DATA FILES MISSING{Colors.RESET}")
+        print(f"\n{Colors.YELLOW}The following required files don't exist:{Colors.RESET}")
+        for f in missing:
+            print(f"  • {f}")
+
+        print(f"\n{Colors.YELLOW}This is expected on a fresh clone (data is gitignored).{Colors.RESET}")
+        print(f"\n{Colors.GREEN}To generate data, run:{Colors.RESET}")
+        print(f"  {Colors.BOLD}python3 setup.py{Colors.RESET}")
+        print(f"\nThis will:")
+        print(f"  • Extract patterns from 524 markdown files")
+        print(f"  • Map operators and compute torsion field")
+        print(f"  • Generate all test data (~10-15 seconds)")
+        print(f"\nThen run this test suite again.")
+        return False
+
+    return True
+
+# =============================================================================
 # TEST 1: File Structure
 # =============================================================================
 
@@ -383,6 +414,10 @@ def test_end_to_end():
 def main():
     print(f"\n{Colors.BOLD}RECURSIVE AI FRAMEWORK - MASTER TEST SUITE{Colors.RESET}")
     print(f"Validates all components end-to-end\n")
+
+    # Pre-flight check: Ensure data files exist
+    if not check_data_exists():
+        return 1
 
     results = {
         'File Structure': test_file_structure(),
