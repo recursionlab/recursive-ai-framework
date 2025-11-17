@@ -1,0 +1,27 @@
+[
+  {
+    "mapping": {
+      "node_1": {
+        "message": {
+          "role": "user",
+          "content": {"parts": ["What is recursive intelligence?"]},
+          "create_time": 1700000000
+        }
+      },
+      "node_2": {
+        "message": {
+          "role": "assistant",
+          "content": {"parts": ["Recursive intelligence refers to systems that can apply their reasoning capabilities to themselves, creating self-referential loops that enable meta-cognition and self-improvement."]},
+          "create_time": 1700000010
+        }
+      },
+      "node_3": {
+        "message": {
+          "role": "user",
+          "content": {"parts": ["Can you give me an example of φ-state collapse?"]},
+          "create_time": 1700000020
+        }
+      }
+    }
+  }
+]
