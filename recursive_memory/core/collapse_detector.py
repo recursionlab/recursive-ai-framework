@@ -101,6 +101,24 @@ class CollapseDetector:
         Returns:
             List of detected collapse events
         """
+        # Validate input
+        if not isinstance(turns, list):
+            raise ValueError(f"turns must be a list, got {type(turns)}")
+
+        if len(turns) == 0:
+            return []  # Empty conversation, no collapses
+
+        # Validate turn structure
+        for i, turn in enumerate(turns):
+            if not isinstance(turn, dict):
+                raise ValueError(f"Turn {i} must be a dict, got {type(turn)}")
+            if "role" not in turn:
+                raise ValueError(f"Turn {i} missing required 'role' field")
+            if "content" not in turn:
+                raise ValueError(f"Turn {i} missing required 'content' field")
+            if not isinstance(turn["content"], str):
+                raise ValueError(f"Turn {i} 'content' must be string, got {type(turn['content'])}")
+
         self.conversation_history = turns
         collapses = []
         current_depth = 0
@@ -109,12 +127,18 @@ class CollapseDetector:
             prev_turn = turns[i-1]
             curr_turn = turns[i]
 
-            # Detect collapse events
-            collapse = self._detect_collapse(i, prev_turn, curr_turn, current_depth)
+            try:
+                # Detect collapse events
+                collapse = self._detect_collapse(i, prev_turn, curr_turn, current_depth)
 
-            if collapse:
-                collapses.append(collapse)
-                current_depth = collapse.depth_after
+                if collapse:
+                    collapses.append(collapse)
+                    current_depth = collapse.depth_after
+
+            except Exception as e:
+                # Log error but continue processing other turns
+                print(f"⚠️  Warning: Error analyzing turn {i}: {e}")
+                continue
 
         return collapses
 
@@ -127,8 +151,16 @@ class CollapseDetector:
     ) -> Optional[CollapseEvent]:
         """Detect if current turn contains a collapse event"""
 
-        content = curr_turn["content"].lower()
-        prev_content = prev_turn["content"].lower()
+        # Defensive: handle None or missing content
+        try:
+            content = (curr_turn.get("content") or "").lower()
+            prev_content = (prev_turn.get("content") or "").lower()
+        except AttributeError:
+            # Content is not string-like
+            return None
+
+        if not content or not prev_content:
+            return None  # Skip empty turns
 
         # Check for Ψ-recollapse (highest priority)
         if self._detect_psi_recollapse(content):

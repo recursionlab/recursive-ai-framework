@@ -17,18 +17,60 @@ class RecursiveMemoryGraph:
     """
 
     def __init__(self, storage_dir: Path, user_id: str):
-        self.storage_dir = Path(storage_dir)
-        self.storage_dir.mkdir(parents=True, exist_ok=True)
+        # Validate inputs
+        if not user_id or not isinstance(user_id, str):
+            raise ValueError("user_id must be non-empty string")
 
-        self.user_id = user_id
-        self.db_path = self.storage_dir / f"{user_id}_memory.db"
+        # Sanitize user_id for filesystem safety
+        safe_user_id = "".join(c for c in user_id if c.isalnum() or c in "._-")
+        if not safe_user_id:
+            raise ValueError(f"user_id '{user_id}' contains no valid characters")
+
+        self.storage_dir = Path(storage_dir)
+        try:
+            self.storage_dir.mkdir(parents=True, exist_ok=True)
+        except (OSError, PermissionError) as e:
+            raise RuntimeError(f"Cannot create storage directory {storage_dir}: {e}")
+
+        self.user_id = safe_user_id
+        self.db_path = self.storage_dir / f"{safe_user_id}_memory.db"
+
+        # Check if database exists and is valid
+        if self.db_path.exists():
+            self._verify_database_integrity()
 
         self._init_database()
 
+    def _verify_database_integrity(self):
+        """Verify database is not corrupted"""
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+            cursor.execute("PRAGMA integrity_check")
+            result = cursor.fetchone()
+            conn.close()
+
+            if result[0] != "ok":
+                # Database corrupted - create backup and raise error
+                backup_path = self.db_path.with_suffix(".db.corrupted.backup")
+                import shutil
+                shutil.copy2(self.db_path, backup_path)
+                raise RuntimeError(
+                    f"Database corrupted. Backup saved to {backup_path}. "
+                    f"Please restore from backup or delete to start fresh."
+                )
+        except sqlite3.DatabaseError as e:
+            raise RuntimeError(f"Database integrity check failed: {e}")
+
     def _init_database(self):
         """Initialize SQLite database with schema"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
+        try:
+            conn = sqlite3.connect(self.db_path)
+            # Enable foreign keys for referential integrity
+            conn.execute("PRAGMA foreign_keys = ON")
+            cursor = conn.cursor()
+        except sqlite3.Error as e:
+            raise RuntimeError(f"Cannot connect to database {self.db_path}: {e}")
 
         # Residues table
         cursor.execute("""
@@ -81,12 +123,73 @@ class RecursiveMemoryGraph:
         conn.commit()
         conn.close()
 
-    def store_residue(self, residue) -> bool:
-        """Store semantic residue to graph"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
+    def _create_backup(self):
+        """Create backup of database before write operations"""
+        if not self.db_path.exists():
+            return
 
         try:
+            import shutil
+            from datetime import datetime
+
+            # Keep only last 5 backups to save space
+            backup_dir = self.storage_dir / "backups"
+            backup_dir.mkdir(exist_ok=True)
+
+            # Create timestamped backup
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            backup_path = backup_dir / f"{self.user_id}_memory_{timestamp}.db"
+
+            shutil.copy2(self.db_path, backup_path)
+
+            # Clean old backups (keep last 5)
+            backups = sorted(backup_dir.glob(f"{self.user_id}_memory_*.db"))
+            if len(backups) > 5:
+                for old_backup in backups[:-5]:
+                    old_backup.unlink()
+
+        except Exception as e:
+            # Don't fail operation if backup fails, just warn
+            print(f"⚠️  Warning: Could not create backup: {e}")
+
+    def store_residue(self, residue) -> bool:
+        """Store semantic residue to graph"""
+
+        # Validate residue object
+        if residue is None:
+            print("❌ Error: Cannot store None residue")
+            return False
+
+        required_attrs = [
+            'collapse_id', 'timestamp', 'trigger', 'old_frame', 'new_frame',
+            'magnitude', 'depth_achieved', 'integration_weight',
+            'context_summary', 'breakthrough_insight', 'operators_learned',
+            'ontological_mutations'
+        ]
+
+        for attr in required_attrs:
+            if not hasattr(residue, attr):
+                print(f"❌ Error: Residue missing required attribute '{attr}'")
+                return False
+
+        # Create backup before write operation
+        self._create_backup()
+
+        conn = None
+        try:
+            conn = sqlite3.connect(self.db_path)
+            conn.execute("PRAGMA foreign_keys = ON")
+            cursor = conn.cursor()
+
+            # Check for duplicate collapse_id
+            cursor.execute(
+                "SELECT COUNT(*) FROM residues WHERE collapse_id = ?",
+                (residue.collapse_id,)
+            )
+            if cursor.fetchone()[0] > 0:
+                print(f"⚠️  Warning: Residue {residue.collapse_id} already exists, skipping")
+                return False
+
             # Insert residue
             cursor.execute("""
                 INSERT INTO residues (
@@ -97,40 +200,62 @@ class RecursiveMemoryGraph:
             """, (
                 residue.collapse_id,
                 residue.timestamp,
-                residue.trigger,
-                residue.old_frame,
-                residue.new_frame,
-                residue.magnitude,
-                residue.depth_achieved,
-                residue.integration_weight,
-                residue.context_summary,
-                residue.breakthrough_insight
+                str(residue.trigger)[:500],  # Limit length
+                str(residue.old_frame)[:500],
+                str(residue.new_frame)[:500],
+                float(residue.magnitude),
+                int(residue.depth_achieved),
+                float(residue.integration_weight),
+                str(residue.context_summary)[:2000],
+                str(residue.breakthrough_insight)[:1000]
             ))
 
             # Insert operators
             for op in residue.operators_learned:
-                cursor.execute("""
-                    INSERT INTO operators (collapse_id, operator_name)
-                    VALUES (?, ?)
-                """, (residue.collapse_id, op))
+                if op and isinstance(op, str):
+                    cursor.execute("""
+                        INSERT INTO operators (collapse_id, operator_name)
+                        VALUES (?, ?)
+                    """, (residue.collapse_id, op[:100]))
 
             # Insert mutations
             for mutation in residue.ontological_mutations:
-                cursor.execute("""
-                    INSERT INTO mutations (collapse_id, mutation_text)
-                    VALUES (?, ?)
-                """, (residue.collapse_id, mutation))
+                if mutation and isinstance(mutation, str):
+                    cursor.execute("""
+                        INSERT INTO mutations (collapse_id, mutation_text)
+                        VALUES (?, ?)
+                    """, (residue.collapse_id, mutation[:500]))
 
             conn.commit()
             return True
 
+        except sqlite3.IntegrityError as e:
+            print(f"❌ Database integrity error storing residue: {e}")
+            if conn:
+                conn.rollback()
+            return False
+
+        except sqlite3.Error as e:
+            print(f"❌ Database error storing residue: {e}")
+            if conn:
+                conn.rollback()
+            return False
+
+        except (ValueError, TypeError) as e:
+            print(f"❌ Data validation error: {e}")
+            if conn:
+                conn.rollback()
+            return False
+
         except Exception as e:
-            print(f"Error storing residue: {e}")
-            conn.rollback()
+            print(f"❌ Unexpected error storing residue: {e}")
+            if conn:
+                conn.rollback()
             return False
 
         finally:
-            conn.close()
+            if conn:
+                conn.close()
 
     def get_active_residues(
         self,
@@ -147,55 +272,98 @@ class RecursiveMemoryGraph:
         Returns:
             List of residue dicts sorted by weight
         """
-        conn = sqlite3.connect(self.db_path)
-        conn.row_factory = sqlite3.Row
-        cursor = conn.cursor()
+        # Validate inputs
+        try:
+            min_weight = float(min_weight)
+            limit = int(limit)
+        except (ValueError, TypeError):
+            print("❌ Error: Invalid parameters for get_active_residues")
+            return []
 
-        cursor.execute("""
-            SELECT * FROM residues
-            WHERE active = 1 AND integration_weight >= ?
-            ORDER BY integration_weight DESC, depth_achieved DESC
-            LIMIT ?
-        """, (min_weight, limit))
+        if limit <= 0:
+            return []
 
-        rows = cursor.fetchall()
-        residues = []
+        conn = None
+        try:
+            conn = sqlite3.connect(self.db_path)
+            conn.row_factory = sqlite3.Row
+            cursor = conn.cursor()
 
-        for row in rows:
-            residue_dict = dict(row)
-
-            # Get operators
             cursor.execute("""
-                SELECT operator_name FROM operators
-                WHERE collapse_id = ?
-            """, (row["collapse_id"],))
-            residue_dict["operators"] = [r[0] for r in cursor.fetchall()]
+                SELECT * FROM residues
+                WHERE active = 1 AND integration_weight >= ?
+                ORDER BY integration_weight DESC, depth_achieved DESC
+                LIMIT ?
+            """, (min_weight, limit))
 
-            # Get mutations
-            cursor.execute("""
-                SELECT mutation_text FROM mutations
-                WHERE collapse_id = ?
-            """, (row["collapse_id"],))
-            residue_dict["mutations"] = [r[0] for r in cursor.fetchall()]
+            rows = cursor.fetchall()
+            residues = []
 
-            residues.append(residue_dict)
+            for row in rows:
+                try:
+                    residue_dict = dict(row)
 
-        conn.close()
-        return residues
+                    # Get operators
+                    cursor.execute("""
+                        SELECT operator_name FROM operators
+                        WHERE collapse_id = ?
+                    """, (row["collapse_id"],))
+                    residue_dict["operators"] = [r[0] for r in cursor.fetchall()]
+
+                    # Get mutations
+                    cursor.execute("""
+                        SELECT mutation_text FROM mutations
+                        WHERE collapse_id = ?
+                    """, (row["collapse_id"],))
+                    residue_dict["mutations"] = [r[0] for r in cursor.fetchall()]
+
+                    residues.append(residue_dict)
+
+                except Exception as e:
+                    print(f"⚠️  Warning: Error loading residue {row.get('collapse_id', 'unknown')}: {e}")
+                    continue
+
+            return residues
+
+        except sqlite3.Error as e:
+            print(f"❌ Database error reading residues: {e}")
+            return []
+
+        except Exception as e:
+            print(f"❌ Unexpected error reading residues: {e}")
+            return []
+
+        finally:
+            if conn:
+                conn.close()
 
     def get_max_depth_achieved(self) -> int:
         """Get highest depth ever achieved"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
+        conn = None
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
 
-        cursor.execute("""
-            SELECT MAX(depth_achieved) FROM residues
-        """)
+            cursor.execute("""
+                SELECT MAX(depth_achieved) FROM residues
+            """)
 
-        result = cursor.fetchone()[0]
-        conn.close()
+            result = cursor.fetchone()
+            if result and result[0] is not None:
+                return int(result[0])
+            return 0
 
-        return result if result else 0
+        except sqlite3.Error as e:
+            print(f"❌ Database error getting max depth: {e}")
+            return 0
+
+        except Exception as e:
+            print(f"❌ Unexpected error getting max depth: {e}")
+            return 0
+
+        finally:
+            if conn:
+                conn.close()
 
     def record_session(
         self,

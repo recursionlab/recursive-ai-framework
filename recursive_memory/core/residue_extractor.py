@@ -66,6 +66,23 @@ class ResidueExtractor:
             SemanticResidue object
         """
 
+        # Validate inputs
+        if collapse_event is None:
+            raise ValueError("collapse_event cannot be None")
+
+        if not isinstance(conversation_turns, list):
+            raise ValueError(f"conversation_turns must be list, got {type(conversation_turns)}")
+
+        if not user_id or not isinstance(user_id, str):
+            raise ValueError("user_id must be non-empty string")
+
+        # Validate turn_index is within bounds
+        if collapse_event.turn_index >= len(conversation_turns):
+            raise ValueError(
+                f"collapse_event.turn_index {collapse_event.turn_index} "
+                f"exceeds conversation length {len(conversation_turns)}"
+            )
+
         # Generate collapse ID
         collapse_id = self._generate_collapse_id(
             collapse_event.collapse_type.value,
@@ -121,7 +138,13 @@ class ResidueExtractor:
         """Extract ontological mutations (what changed fundamentally)"""
 
         mutations = []
-        content = conversation_turns[collapse_event.turn_index]["content"]
+
+        try:
+            content = conversation_turns[collapse_event.turn_index].get("content", "")
+            if not content or not isinstance(content, str):
+                return []
+        except (IndexError, KeyError, AttributeError):
+            return []
 
         # Pattern-based mutation detection
         mutation_patterns = {
@@ -188,7 +211,12 @@ class ResidueExtractor:
     def _extract_insight(self, collapse_turn: Dict) -> str:
         """Extract the key insight from collapse turn"""
 
-        content = collapse_turn["content"]
+        try:
+            content = collapse_turn.get("content", "")
+            if not content or not isinstance(content, str):
+                return "No insight extracted"
+        except AttributeError:
+            return "No insight extracted"
 
         # Look for insight markers
         insight_markers = [
