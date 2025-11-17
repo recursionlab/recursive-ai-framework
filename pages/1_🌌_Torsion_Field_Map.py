@@ -18,12 +18,12 @@ st.set_page_config(page_title="Torsion Field Map", page_icon="🌌", layout="wid
 # Load data
 @st.cache_data
 def load_torsion_data():
-    with open('extraction_outputs/torsion_field_analysis.json') as f:
+    with open('extraction_outputs/torsion_field_analysis.json', encoding='utf-8') as f:
         return json.load(f)
 
 @st.cache_data
 def load_commutators():
-    with open('extraction_outputs/refined_commutators.json') as f:
+    with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
         return json.load(f)
 
 # Build network graph

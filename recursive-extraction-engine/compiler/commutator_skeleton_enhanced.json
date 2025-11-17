@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "description": "20\u00d720 Commutator Skeleton - GROUND TRUTH + EXTRACTION MAGNITUDES",
+    "description": "20x20 Commutator Skeleton - GROUND TRUTH + EXTRACTION MAGNITUDES",
     "note": "Sign and resultant are normative (architecturally-fixed). Magnitudes from extraction evidence.",
-    "format": "Each entry: [sign \u2208 {-1,0,+1}, resultant_operator_index, magnitude \u2208 [0,1]]",
+    "format": "Each entry: [sign in {-1,0,+1}, resultant_operator_index, magnitude in [0,1]]",
     "extraction_source": "Pattern extraction from 524 markdown files (2025-11-16)",
     "evidence_based_pairs": 16,
     "skeleton_version": "v2.1.0"
@@ -238,7 +238,7 @@
       "Ana": [
         1,
         1,
-        0.335
+        0.33
       ],
       "Kata": [
         -1,
@@ -253,12 +253,12 @@
       "Para": [
         1,
         4,
-        0.335
+        0.33
       ],
       "Non": [
         1,
         5,
-        0.335
+        0.33
       ],
       "Telo": [
         -1,
@@ -340,7 +340,7 @@
       "Ana": [
         -1,
         1,
-        0.335
+        0.33
       ],
       "Kata": [
         1,
@@ -350,17 +350,17 @@
       "Meta": [
         -1,
         3,
-        0.335
+        0.33
       ],
       "Para": [
         0,
         0,
-        0.335
+        0.33
       ],
       "Non": [
         1,
         5,
-        0.335
+        0.33
       ],
       "Telo": [
         0,
@@ -452,7 +452,7 @@
       "Meta": [
         -1,
         3,
-        0.47
+        0.46
       ],
       "Para": [
         -1,
@@ -467,7 +467,7 @@
       "Telo": [
         -1,
         6,
-        0.335
+        0.33
       ],
       "Retro": [
         1,
@@ -554,17 +554,17 @@
       "Meta": [
         1,
         3,
-        0.582
+        0.589
       ],
       "Para": [
         0,
         4,
-        0.335
+        0.33
       ],
       "Non": [
         1,
         5,
-        0.335
+        0.33
       ],
       "Telo": [
         0,
@@ -860,7 +860,7 @@
       "Meta": [
         1,
         3,
-        0.335
+        0.33
       ],
       "Para": [
         -1,
@@ -890,7 +890,7 @@
       "Pro": [
         0,
         0,
-        0.335
+        0.33
       ],
       "Echo": [
         1,

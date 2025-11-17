@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Integrate Extraction-Based Magnitudes into Commutator Skeleton
 
@@ -7,16 +8,23 @@ the pattern extraction analysis while preserving the architecturally-fixed
 sign and resultant operator mappings.
 """
 
+import sys
 import json
 from pathlib import Path
 
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
+
 # Load refined commutators from extraction
-with open('extraction_outputs/refined_commutators.json') as f:
+with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
     refined_data = json.load(f)
 
 # Load ground truth skeleton
 skeleton_path = Path('recursive-extraction-engine/compiler/commutator_skeleton.json')
-with open(skeleton_path) as f:
+with open(skeleton_path, encoding='utf-8') as f:
     skeleton = json.load(f)
 
 print("\n" + "="*70)
@@ -26,9 +34,9 @@ print("="*70)
 # Create enhanced skeleton with magnitude field
 enhanced_skeleton = {
     "metadata": {
-        "description": "20×20 Commutator Skeleton - GROUND TRUTH + EXTRACTION MAGNITUDES",
+        "description": "20x20 Commutator Skeleton - GROUND TRUTH + EXTRACTION MAGNITUDES",
         "note": "Sign and resultant are normative (architecturally-fixed). Magnitudes from extraction evidence.",
-        "format": "Each entry: [sign ∈ {-1,0,+1}, resultant_operator_index, magnitude ∈ [0,1]]",
+        "format": "Each entry: [sign in {-1,0,+1}, resultant_operator_index, magnitude in [0,1]]",
         "extraction_source": "Pattern extraction from 524 markdown files (2025-11-16)",
         "evidence_based_pairs": refined_data['metadata']['evidence_based'],
         "skeleton_version": "v2.1.0"
@@ -74,7 +82,7 @@ for op1, pairs in skeleton['commutator_matrix'].items():
         else:
             default_magnitudes += 1
 
-print(f"\nProcessed {len(skeleton['operator_names'])}×{len(skeleton['operator_names'])} = {len(skeleton['operator_names'])**2} operator pairs")
+print(f"\nProcessed {len(skeleton['operator_names'])}x{len(skeleton['operator_names'])} = {len(skeleton['operator_names'])**2} operator pairs")
 print(f"  Evidence-based magnitudes: {evidence_updates}")
 print(f"  Default magnitudes: {default_magnitudes}")
 
@@ -95,7 +103,7 @@ output_path = Path('recursive-extraction-engine/compiler/commutator_skeleton_enh
 with open(output_path, 'w') as f:
     json.dump(enhanced_skeleton, f, indent=2)
 
-print(f"\n✓ Enhanced skeleton saved to: {output_path}")
+print(f"\n[OK] Enhanced skeleton saved to: {output_path}")
 
 # Show top extracted pairs
 print("\n" + "="*70)
@@ -115,7 +123,7 @@ for pair_key, data in top_pairs:
     print(f"\n[{op1:5s}, {op2:5s}]:")
     print(f"  Magnitude: {data['magnitude']:.3f} (frequency: {data['frequency']:2d}x)")
     print(f"  Skeleton sign: {skeleton_sign:+d}")
-    print(f"  Match: {'✓' if (skeleton_sign != 0) == (data['magnitude'] > 0.3) else '⚠'}")
+    print(f"  Match: {'[OK]' if (skeleton_sign != 0) == (data['magnitude'] > 0.3) else '[WARN]'}")
 
 # Calculate dissipation for key transitions
 print("\n" + "="*70)
@@ -144,15 +152,15 @@ for op_from, op_to in key_transitions:
         freq = refined_data['evidence_pairs'][pair_key]['frequency']
         lambda_to = formalism['operators'][op_to]['lambda_intrinsic']
 
-        # λ(i→j) = λ_j_intrinsic + c·min(0.4, |η_{ij}|)
+        # lambda(i->j) = lambda_j_intrinsic + c*min(0.4, |eta_{ij}|)
         interaction = c * min(0.4, magnitude)
         lambda_eff = lambda_to + interaction
 
-        print(f"\n{op_from} → {op_to}:")
+        print(f"\n{op_from} -> {op_to}:")
         print(f"  Extracted magnitude: {magnitude:.3f} ({freq}x compositions)")
-        print(f"  λ({op_to}) intrinsic: {lambda_to:.3f}")
-        print(f"  Interaction term: {c} × min(0.4, {magnitude:.3f}) = {interaction:.3f}")
-        print(f"  λ_effective: {lambda_eff:.3f}")
+        print(f"  lambda({op_to}) intrinsic: {lambda_to:.3f}")
+        print(f"  Interaction term: {c} x min(0.4, {magnitude:.3f}) = {interaction:.3f}")
+        print(f"  lambda_effective: {lambda_eff:.3f}")
         print(f"  Impact: {'HIGH' if magnitude > 0.7 else 'MODERATE' if magnitude > 0.4 else 'LOW'} dissipation")
 
 print("\n" + "="*70)
@@ -162,5 +170,5 @@ print("\nNext steps:")
 print("1. Review commutator_skeleton_enhanced.json")
 print("2. Update compiler to use enhanced skeleton with magnitudes")
 print("3. Test inverse solver with real dissipation values")
-print("4. Validate against known φ-state transitions")
+print("4. Validate against known phi-state transitions")
 print("="*70 + "\n")

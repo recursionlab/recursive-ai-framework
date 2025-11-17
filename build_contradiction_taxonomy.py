@@ -16,7 +16,7 @@ print("J'≠0 CONTRADICTION TAXONOMY")
 print("="*70)
 
 # Load extraction data
-with open('extraction_outputs/pattern_extraction.json') as f:
+with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
     extraction_data = json.load(f)
 
 print(f"\nProcessing {len(extraction_data)} files...")

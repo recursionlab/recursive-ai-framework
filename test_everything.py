@@ -133,7 +133,7 @@ def test_data_integrity():
     # Test pattern extraction
     print_test("Pattern extraction data (73,949 contradictions)")
     try:
-        with open('extraction_outputs/pattern_extraction.json') as f:
+        with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
             data = json.load(f)
 
         total_contradictions = sum(len(e['contradictions']) for e in data)
@@ -149,7 +149,7 @@ def test_data_integrity():
     # Test operator mapping
     print_test("Operator mapping (10 symbolic → normative)")
     try:
-        with open('extraction_outputs/operator_mapping.json') as f:
+        with open('extraction_outputs/operator_mapping.json', encoding='utf-8') as f:
             data = json.load(f)
 
         mappings_count = len(data['mappings'])
@@ -165,7 +165,7 @@ def test_data_integrity():
     # Test commutator magnitudes
     print_test("Commutator magnitudes (16 evidence-based)")
     try:
-        with open('extraction_outputs/refined_commutators.json') as f:
+        with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
             data = json.load(f)
 
         evidence_count = data['metadata']['evidence_based']
@@ -181,7 +181,7 @@ def test_data_integrity():
     # Test torsion field
     print_test("Torsion field (35 operator pairs, 17 invariants)")
     try:
-        with open('extraction_outputs/torsion_field_analysis.json') as f:
+        with open('extraction_outputs/torsion_field_analysis.json', encoding='utf-8') as f:
             data = json.load(f)
 
         torsion_pairs = data['metadata']['torsion_pairs']
@@ -199,7 +199,7 @@ def test_data_integrity():
     # Test contradiction taxonomy
     print_test("Contradiction taxonomy (6 types)")
     try:
-        with open('extraction_outputs/contradiction_taxonomy.json') as f:
+        with open('extraction_outputs/contradiction_taxonomy.json', encoding='utf-8') as f:
             data = json.load(f)
 
         categories = len(data['categories'])
@@ -228,7 +228,7 @@ def test_key_discoveries():
     # Test Meta ∘ Meta discovery
     print_test("Meta ∘ Meta ≠ 0 (magnitude 1.000)")
     try:
-        with open('extraction_outputs/refined_commutators.json') as f:
+        with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
             data = json.load(f)
 
         meta_meta = data['evidence_pairs'].get('Meta,Meta')
@@ -245,7 +245,7 @@ def test_key_discoveries():
     # Test torsion field Meta ∘ Meta
     print_test("Torsion T[Meta,Meta] = 1.0")
     try:
-        with open('extraction_outputs/torsion_field_analysis.json') as f:
+        with open('extraction_outputs/torsion_field_analysis.json', encoding='utf-8') as f:
             data = json.load(f)
 
         # Find Meta,Meta in torsion field
@@ -267,7 +267,7 @@ def test_key_discoveries():
     # Test S* attractor dominance
     print_test("S* attractor dominance (≥60%)")
     try:
-        with open('extraction_outputs/torsion_field_analysis.json') as f:
+        with open('extraction_outputs/torsion_field_analysis.json', encoding='utf-8') as f:
             data = json.load(f)
 
         s_star_count = data['attractor_distribution']['S*']
@@ -290,7 +290,7 @@ def test_key_discoveries():
     # Test collapse dominance
     print_test("Collapse dominance (49% of contradictions)")
     try:
-        with open('extraction_outputs/contradiction_taxonomy.json') as f:
+        with open('extraction_outputs/contradiction_taxonomy.json', encoding='utf-8') as f:
             data = json.load(f)
 
         collapse_pct = data['distribution']['collapse']['percentage']
@@ -316,7 +316,7 @@ def test_compiler():
 
     print_test("20-operator formalism")
     try:
-        with open('recursive-extraction-engine/compiler/formalism.json') as f:
+        with open('recursive-extraction-engine/compiler/formalism.json', encoding='utf-8') as f:
             formalism = json.load(f)
 
         op_count = len(formalism['operators'])
@@ -331,7 +331,7 @@ def test_compiler():
 
     print_test("Enhanced commutator skeleton (v2.1.0)")
     try:
-        with open('recursive-extraction-engine/compiler/commutator_skeleton_enhanced.json') as f:
+        with open('recursive-extraction-engine/compiler/commutator_skeleton_enhanced.json', encoding='utf-8') as f:
             skeleton = json.load(f)
 
         version = skeleton['metadata']['skeleton_version']
@@ -382,16 +382,16 @@ def test_end_to_end():
     print_test("Pipeline: Extraction → Mapping → Refinement → Torsion")
     try:
         # Check that data flows correctly
-        with open('extraction_outputs/pattern_extraction.json') as f:
+        with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
             extraction = json.load(f)
 
-        with open('extraction_outputs/operator_mapping.json') as f:
+        with open('extraction_outputs/operator_mapping.json', encoding='utf-8') as f:
             mapping = json.load(f)
 
-        with open('extraction_outputs/refined_commutators.json') as f:
+        with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
             refinement = json.load(f)
 
-        with open('extraction_outputs/torsion_field_analysis.json') as f:
+        with open('extraction_outputs/torsion_field_analysis.json', encoding='utf-8') as f:
             torsion = json.load(f)
 
         # Validate pipeline integrity

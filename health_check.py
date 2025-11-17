@@ -28,21 +28,21 @@ def check():
                 return False
 
         # Check key data integrity
-        with open('extraction_outputs/pattern_extraction.json') as f:
+        with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
             extraction = json.load(f)
             total_contradictions = sum(len(e['contradictions']) for e in extraction)
             if total_contradictions != 73949:
                 print(f"✗ WRONG COUNT: {total_contradictions} contradictions (expected 73,949)")
                 return False
 
-        with open('extraction_outputs/refined_commutators.json') as f:
+        with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
             commutators = json.load(f)
             meta_meta = commutators['evidence_pairs'].get('Meta,Meta')
             if not meta_meta or meta_meta['magnitude'] != 1.0:
                 print("✗ DISCOVERY MISSING: Meta ∘ Meta ≠ 1.0")
                 return False
 
-        with open('extraction_outputs/torsion_field_analysis.json') as f:
+        with open('extraction_outputs/torsion_field_analysis.json', encoding='utf-8') as f:
             torsion = json.load(f)
             if torsion['metadata']['invariants'] != 17:
                 print(f"✗ WRONG COUNT: {torsion['metadata']['invariants']} invariants (expected 17)")

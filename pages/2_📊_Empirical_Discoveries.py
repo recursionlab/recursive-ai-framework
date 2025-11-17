@@ -19,19 +19,19 @@ st.set_page_config(page_title="Empirical Discoveries", page_icon="📊", layout=
 def load_all_data():
     data = {}
 
-    with open('extraction_outputs/torsion_field_analysis.json') as f:
+    with open('extraction_outputs/torsion_field_analysis.json', encoding='utf-8') as f:
         data['torsion'] = json.load(f)
 
-    with open('extraction_outputs/refined_commutators.json') as f:
+    with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
         data['commutators'] = json.load(f)
 
-    with open('extraction_outputs/contradiction_taxonomy.json') as f:
+    with open('extraction_outputs/contradiction_taxonomy.json', encoding='utf-8') as f:
         data['taxonomy'] = json.load(f)
 
-    with open('extraction_outputs/operator_mapping.json') as f:
+    with open('extraction_outputs/operator_mapping.json', encoding='utf-8') as f:
         data['operators'] = json.load(f)
 
-    with open('extraction_outputs/pattern_extraction.json') as f:
+    with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
         data['extraction'] = json.load(f)
 
     return data

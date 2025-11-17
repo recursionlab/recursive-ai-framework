@@ -66,16 +66,16 @@ def load_framework_data():
     """Load all framework data files"""
     data_dir = Path('extraction_outputs')
 
-    with open(data_dir / 'torsion_field_analysis.json') as f:
+    with open(data_dir / 'torsion_field_analysis.json', encoding='utf-8') as f:
         torsion_data = json.load(f)
 
-    with open(data_dir / 'refined_commutators.json') as f:
+    with open(data_dir / 'refined_commutators.json', encoding='utf-8') as f:
         commutators = json.load(f)
 
-    with open(data_dir / 'contradiction_taxonomy.json') as f:
+    with open(data_dir / 'contradiction_taxonomy.json', encoding='utf-8') as f:
         taxonomy = json.load(f)
 
-    with open(data_dir / 'operator_mapping.json') as f:
+    with open(data_dir / 'operator_mapping.json', encoding='utf-8') as f:
         operators = json.load(f)
 
     return {

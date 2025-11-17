@@ -2,7 +2,7 @@ import json
 from collections import Counter
 
 # Load extraction results
-with open('extraction_outputs/pattern_extraction.json') as f:
+with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
     data = json.load(f)
 
 # Analyze operator compositions

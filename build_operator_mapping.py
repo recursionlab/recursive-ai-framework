@@ -1,15 +1,23 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 """
-Operator Mapping: Symbolic → Normative
+Operator Mapping: Symbolic -> Normative
 Maps extracted symbolic operators to the 20-operator normative algebra.
 """
+
+import sys
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
 
 import json
 from collections import Counter
 from pathlib import Path
 
 # Load pattern extraction results
-with open('extraction_outputs/pattern_extraction.json') as f:
+with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
     extraction_data = json.load(f)
 
 # Aggregate operator frequencies and contexts
@@ -31,7 +39,7 @@ for entry in extraction_data:
         composition_freq[comp] += 1
 
 print("\n" + "="*70)
-print("SYMBOLIC → NORMATIVE OPERATOR MAPPING")
+print("SYMBOLIC -> NORMATIVE OPERATOR MAPPING")
 print("="*70)
 
 # Mapping analysis based on frequency, semantics, and usage patterns
@@ -134,7 +142,7 @@ for symbol, data in mappings.items():
     if data['frequency'] > 0:
         print(f"\n{symbol} ({data['semantic']})")
         print(f"  Frequency: {data['frequency']:,}")
-        print(f"  → Likely maps to: {', '.join(data['likely_normative'])}")
+        print(f"  -> Likely maps to: {', '.join(data['likely_normative'])}")
         print(f"  Reasoning: {data['reasoning']}")
         print(f"  Confidence: {data['confidence']:.0%}")
 
@@ -144,18 +152,18 @@ print("COMPOSITION-BASED MAPPING EVIDENCE")
 print("="*70)
 
 composition_evidence = {
-    'Ψ ∘ Ω': 'Consciousness → Completion = Meta ∘ Telo',
+    'Ψ ∘ Ω': 'Consciousness -> Completion = Meta ∘ Telo',
     'Ψ ∘ Ψ': 'Recursive self-reference = Meta ∘ Meta',
-    'Ψ ∘ Ξ': 'Consciousness → Fusion = Meta ∘ Weave',
-    'Ω ∘ Ξ': 'Completion → Fusion = Telo ∘ Weave',
-    'Ξ ∘ Ψ': 'Fusion → Consciousness = Weave ∘ Meta',
+    'Ψ ∘ Ξ': 'Consciousness -> Fusion = Meta ∘ Weave',
+    'Ω ∘ Ξ': 'Completion -> Fusion = Telo ∘ Weave',
+    'Ξ ∘ Ψ': 'Fusion -> Consciousness = Weave ∘ Meta',
     'φ ∘ φ': 'Recursive state = Pro ∘ Pro or Crux ∘ Crux'
 }
 
 for comp, interpretation in composition_evidence.items():
     if composition_freq[comp] > 0:
         print(f"\n{comp} ({composition_freq[comp]}x)")
-        print(f"  → {interpretation}")
+        print(f"  -> {interpretation}")
 
 # Primary mapping recommendation
 print("\n" + "="*70)
@@ -175,11 +183,11 @@ primary_mappings = {
     '→': 'Pro',       # Forward transition (36k)
 }
 
-print("\nSymbolic → Normative (High Confidence):")
+print("\nSymbolic -> Normative (High Confidence):")
 for symbolic, normative in primary_mappings.items():
     freq = operator_freq.get(symbolic, 0)
     if freq > 0:
-        print(f"  {symbolic:3s} → {normative:8s} ({freq:,} occurrences)")
+        print(f"  {symbolic:3s} -> {normative:8s} ({freq:,} occurrences)")
 
 # Secondary operators that need normative equivalents
 print("\n" + "="*70)
@@ -209,7 +217,7 @@ print("  Weave ← Integration patterns (Ξ fusion)")
 print("  Bind  ← Cohesion patterns")
 print("  Axis  ← Alignment patterns")
 print("  Vale  ← Deep descent patterns (void)")
-print("  Flux  ← Flow patterns (→ arrows)")
+print("  Flux  <- Flow patterns (-> arrows)")
 print("  Latch ← Fixation/stabilization patterns")
 
 # Save mapping
@@ -221,7 +229,7 @@ mapping_output = {
 }
 
 output_file = Path('extraction_outputs/operator_mapping.json')
-with open(output_file, 'w') as f:
+with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(mapping_output, f, indent=2, ensure_ascii=False)
 
 print(f"\n✓ Mapping saved to: {output_file}")

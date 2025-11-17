@@ -1,21 +1,29 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/env python3
 """
 Commutator Magnitude Refinement
 Uses composition frequency data to refine commutator magnitudes from default 1.0
 """
 
+import sys
+# Force UTF-8 encoding for Windows compatibility
+if sys.platform.startswith('win'):
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer)
+
 import json
 from pathlib import Path
 from collections import Counter
 
 # Load operator mapping
-with open('extraction_outputs/operator_mapping.json') as f:
+with open('extraction_outputs/operator_mapping.json', encoding='utf-8') as f:
     mapping_data = json.load(f)
 
 primary_mappings = mapping_data['primary_recommendations']
 
 # Load pattern extraction to get composition frequencies
-with open('extraction_outputs/pattern_extraction.json') as f:
+with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
     extraction_data = json.load(f)
 
 # Aggregate composition frequencies
@@ -188,7 +196,7 @@ output = {
 }
 
 output_file = Path('extraction_outputs/refined_commutators.json')
-with open(output_file, 'w') as f:
+with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(output, f, indent=2)
 
 print(f"\n✓ Refined commutators saved to: {output_file}")

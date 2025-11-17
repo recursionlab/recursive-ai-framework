@@ -7,7 +7,7 @@ import tempfile
 import os
 
 # Load goldmine data
-with open('/root/goldmine_export.json', 'r') as f:
+with open('/root/goldmine_export.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 entities = data.get('entities', [])

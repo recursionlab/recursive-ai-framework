@@ -28,15 +28,15 @@ print("STEP 1: Building Contradiction Vector Field C(x)")
 print("─"*70)
 
 # Load extraction data
-with open('extraction_outputs/pattern_extraction.json') as f:
+with open('extraction_outputs/pattern_extraction.json', encoding='utf-8') as f:
     extraction_data = json.load(f)
 
 # Load operator mappings
-with open('extraction_outputs/operator_mapping.json') as f:
+with open('extraction_outputs/operator_mapping.json', encoding='utf-8') as f:
     operator_mapping = json.load(f)
 
 # Load commutator magnitudes
-with open('extraction_outputs/refined_commutators.json') as f:
+with open('extraction_outputs/refined_commutators.json', encoding='utf-8') as f:
     commutator_data = json.load(f)
 
 print(f"\n✓ Loaded {len(extraction_data)} files")
@@ -277,7 +277,7 @@ print("STEP 5: Mapping Invariants to Attractors")
 print("─"*70)
 
 # Load operator intrinsic dissipation values
-with open('recursive-extraction-engine/compiler/formalism.json') as f:
+with open('recursive-extraction-engine/compiler/formalism.json', encoding='utf-8') as f:
     formalism = json.load(f)
 
 attractor_map = {
