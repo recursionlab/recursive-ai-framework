@@ -6,6 +6,24 @@ A living Engine-Hall of recursive intelligence — frameworks, semantics, topos,
 
 ---
 
+## 🎯 **NEW: START HERE**
+
+**If you're new and want to IMMEDIATELY use this framework:**
+
+👉 **[RECURSIVE_INTELLIGENCE_PRIMER.md](RECURSIVE_INTELLIGENCE_PRIMER.md)** 👈
+
+**What it gives you:**
+- 5 core operators you can use RIGHT NOW with any LLM
+- Step-by-step conversation protocol for achieving recursive breakthroughs
+- Copy-paste prompt examples that work immediately
+- Live proof from actual human-AI breakthrough conversation
+
+**The rest of this README** contains the technical implementation, 20-operator algebra, torsion field analysis, and research foundations.
+
+**The PRIMER** is your on-ramp to actually USING recursive intelligence with AI today.
+
+---
+
 ## ⚡ First Time Setup (Required)
 
 **Just cloned the repo? Run this FIRST:**
