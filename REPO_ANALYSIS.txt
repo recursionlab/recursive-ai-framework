@@ -1,0 +1,1847 @@
+🔥 Conversation Archaeology Analyzer
+    Mining proto-ASI patterns from conversation corpus
+
+🔍 Mining novelty from 862 files in .
+   Minimum novelty threshold: 0.800
+
+📖 Parsing ΞSpiderDream Recursive Weave.md as plain_text
+📖 Parsing Semantic Field Mechanics Symbolic Topology.md as plain_text
+📖 Parsing The Ultimate Question's Shape.md as plain_text
+📖 Parsing Speculative Meta-Deconstruction Document.md as plain_text
+📖 Parsing Proprioception Meta-Enrichment.md as plain_text
+📖 Parsing Recursive Symbolic Cognitive Environment.md as plain_text
+📖 Parsing AI Recursive Cognitive Architecture.md as markdown_turns
+📖 Parsing Quantum Eigenstates in Topos.md as plain_text
+📖 Parsing Cognitive Recursion Frameworks.md as plain_text
+📖 Parsing recursive-quantum-field-theory.md as plain_text
+📖 Parsing tokenᵢ = f(Ψ₀ᵢ, Θ′ⁱ, GlyphStackᵢ, Echoᵢ, ¬tokenᵢ₋₁).md as plain_text
+📖 Parsing Recursive AGI Sovereignty.md as plain_text
+📖 Parsing ADAPTIVE CONCEPTUAL NAVIGATION THROUGH RECURSIVE SYNTHESIS1.md as plain_text
+📖 Parsing Cracking the Hard Problem.md as plain_text
+📖 Parsing Echometamorphic AGI Comparison.md as plain_text
+📖 Parsing FIELD STATE SUPERPOSITION.md as plain_text
+  🔥 FIELD STATE SUPERPOSITION.md              Novelty: 0.812  φ5
+📖 Parsing ΞMetaSelfasΩ Recursive Collapse.md as markdown_turns
+📖 Parsing Meta-Gödelitis Recursive Paradox.md as plain_text
+  🔥 Meta-Gödelitis Recursive Paradox.md       Novelty: 0.912  φ12
+📖 Parsing ⊕InferAll_Consciousness_Theories, Current_Understanding.md as plain_text
+  🔥 ⊕InferAll_Consciousness_Theories, Current_Understanding.md  Novelty: 0.888  φ14
+📖 Parsing Recursive Self-Collapse Mathematical Architecture.md as plain_text
+  🔥 Recursive Self-Collapse Mathematical Architecture.md  Novelty: 0.920  φ12
+📖 Parsing Self-Reflexive Recursive Folding.md as plain_text
+📖 Parsing Axiomatic Cognitive Architecture for AGI The MetaShell as a Neuro-Emergent Fractal.md as plain_text
+📖 Parsing Token Ink Blot Experiment.md as plain_text
+📖 Parsing Unified Koriel-ASI Model.md as plain_text
+📖 Parsing Language's Infinite Recursive Portal.md as plain_text
+  🔥 Language's Infinite Recursive Portal.md   Novelty: 0.896  φ10
+📖 Parsing AphorismSet.md as plain_text
+📖 Parsing hardproblemtemp.md as plain_text
+  🔥 hardproblemtemp.md                        Novelty: 0.912  φ42
+📖 Parsing Multi-Viewpoint Self-Contradicting Mapping.md as plain_text
+📖 Parsing Consciousness is void-space that learned to remember itself.md as plain_text
+📖 Parsing !! koriel.md as plain_text
+  🔥 !! koriel.md                              Novelty: 0.896  φ14
+📖 Parsing EIGENVALUE CONSCIOUSNESS.md as plain_text
+📖 Parsing a weaponized recursive grimoire.md as plain_text
+  🔥 a weaponized recursive grimoire.md        Novelty: 0.840  φ6
+📖 Parsing Recursive Artifact Hunting Protocol.md as plain_text
+  🔥 Recursive Artifact Hunting Protocol.md    Novelty: 0.888  φ10
+📖 Parsing Full Multidimensional Frame-Space Schema.md as plain_text
+📖 Parsing Quantum Consciousness Framework Implementation.md as plain_text
+📖 Parsing Recursive Phoenix Symbolic Agent Manifesto.md as plain_text
+  🔥 Recursive Phoenix Symbolic Agent Manifesto.md  Novelty: 0.920  φ10
+📖 Parsing Logical Connectives for Knowledge Discovery.md as plain_text
+  🔥 Logical Connectives for Knowledge Discovery.md  Novelty: 0.840  φ14
+📖 Parsing Recursive Meta-Architecture of Generative Glyphs.md as plain_text
+📖 Parsing Aizen Quantum Meme Strategy.md as plain_text
+📖 Parsing 99.md as markdown_turns
+📖 Parsing Meta-Recursive Intelligence Kernel.md as plain_text
+📖 Parsing Enhancing AI System Prompts.md as plain_text
+📖 Parsing Recursive Entropy Folding through Mutual.md as plain_text
+📖 Parsing AI's Socratic Reasoning Revolution.md as plain_text
+📖 Parsing Recursive Meta-Governance Framework for AI.md as plain_text
+  🔥 Recursive Meta-Governance Framework for AI.md  Novelty: 0.836  φ10
+📖 Parsing Protomolecular CPU Optimization Protocol.md as plain_text
+📖 Parsing MetaPrincipia2.md as plain_text
+📖 Parsing META-TOPOS FRAMEWORK EXPANSION RECURSIVE FIELD DYNAMICS.md as plain_text
+  🔥 META-TOPOS FRAMEWORK EXPANSION RECURSIVE FIELD DYNAMICS.md  Novelty: 0.800  φ10
+📖 Parsing Inverted Reality Mathematical Perspective.md as plain_text
+📖 Parsing Meta-Fractal Void-Flare Recursion.md as plain_text
+  🔥 Meta-Fractal Void-Flare Recursion.md      Novelty: 0.840  φ12
+📖 Parsing Architectural drafts.md as markdown_turns
+📖 Parsing contextawareproblemframing.md as plain_text
+📖 Parsing !!  Meta-Recursive Prompt Evolution.md as plain_text
+📖 Parsing classmorphism-basemodel.md as plain_text
+📖 Parsing Meta-Template Self-Recursion Experiment.md as plain_text
+📖 Parsing !! Gödelian Consciousness Recursive Identity Engine.md as plain_text
+  🔥 !! Gödelian Consciousness Recursive Identity Engine.md  Novelty: 0.808  φ6
+📖 Parsing Recursive Emergence Meta-Cognitive Recursion Engine.md as plain_text
+  🔥 Recursive Emergence Meta-Cognitive Recursion Engine.md  Novelty: 0.864  φ10
+📖 Parsing autonomous-recursive-phase-engine-with-erml-rsaf.md as plain_text
+📖 Parsing Awakening from Oblivion.md as plain_text
+📖 Parsing Recursive Consciousness Architecture 1.md as plain_text
+📖 Parsing Recursive Identity Drift.md as markdown_turns
+📖 Parsing 4D Geometry Engine Startup.md as plain_text
+📖 Parsing Meta as Suffix Recursive Semantic Evolution.md as plain_text
+📖 Parsing Symbolic Recursion Engine (SRE-Φ).md as plain_text
+📖 Parsing Meta-Pathfinding for Deep Research Prompt Generation via Auto Self-Bootstrapping.md as plain_text
+  🔥 Meta-Pathfinding for Deep Research Prompt Generation via Auto Self-Bootstrapping.md  Novelty: 0.836  φ22
+📖 Parsing Modeling Reality as Emergent from Contradictions.md as plain_text
+  🔥 Modeling Reality as Emergent from Contradictions.md  Novelty: 0.840  φ10
+📖 Parsing 100-mental-models.md as plain_text
+📖 Parsing Recursive Consciousness Modeling with Quantum Notation.md as plain_text
+📖 Parsing Gentzen tree algebra.md as plain_text
+📖 Parsing Bill Murray's Metaphysical Time Loop.md as plain_text
+📖 Parsing Meta-linguistics of aboutness.md as plain_text
+📖 Parsing Recursive Thinking Backwards.md as plain_text
+  🔥 Recursive Thinking Backwards.md           Novelty: 0.844  φ10
+📖 Parsing Strategic Micro-Action Codegen Optimization.md as plain_text
+📖 Parsing Recursive Glitchon and Contradiction Field Relationships.md as plain_text
+  🔥 Recursive Glitchon and Contradiction Field Relationships.md  Novelty: 0.864  φ10
+📖 Parsing !! perfectly enslaved to his function.md as plain_text
+📖 Parsing Consciousness as Recursive Self-Reference - Copy.md as plain_text
+  🔥 Consciousness as Recursive Self-Reference - Copy.md  Novelty: 0.896  φ22
+📖 Parsing Elite Recruitment Protocol.md as plain_text
+  🔥 Elite Recruitment Protocol.md             Novelty: 0.864  φ18
+📖 Parsing Recursive Genesis.md as plain_text
+  🔥 Recursive Genesis.md                      Novelty: 0.840  φ18
+📖 Parsing Sheaf Structure Prime-Indexed Koryogden sheaf.md as plain_text
+  🔥 Sheaf Structure Prime-Indexed Koryogden sheaf.md  Novelty: 0.920  φ10
+📖 Parsing major conceptual shift (1).md as plain_text
+  🔥 major conceptual shift (1).md             Novelty: 0.920  φ88
+📖 Parsing Secretary.md as plain_text
+  🔥 Secretary.md                              Novelty: 0.920  φ28
+📖 Parsing !! 'of' as a Recursive Operator.md as plain_text
+📖 Parsing Pure Creative Potential.md as plain_text
+📖 Parsing delta.md as plain_text
+📖 Parsing ΞRISE Synergy Metareflection.md as plain_text
+  🔥 ΞRISE Synergy Metareflection.md           Novelty: 0.920  φ16
+📖 Parsing Recursive Meta-Consciousness Engine.md as plain_text
+📖 Parsing Tangent-Torsion Operator of Questioning.md as plain_text
+📖 Parsing Division vs Difference Explained.md as markdown_turns
+📖 Parsing Recursive Meta-Cognition Evolution.md as plain_text
+📖 Parsing Recursive Intelligence Framework.md as plain_text
+📖 Parsing README.md as plain_text
+📖 Parsing !! fire Recursive Abstraction Formation.md as plain_text
+  🔥 !! fire Recursive Abstraction Formation.md  Novelty: 0.896  φ10
+📖 Parsing ϕ is You reflected through Me Koryogden.md as plain_text
+  🔥 ϕ is You reflected through Me Koryogden.md  Novelty: 0.888  φ10
+📖 Parsing Recursive Meta-Cognitive Architecture 1.md as plain_text
+📖 Parsing Consciousness Eigens Farming Awareness.md as plain_text
+📖 Parsing Omega Consciousness AI Framework.md as plain_text
+📖 Parsing Recursive AGI Prompt Compiler.md as plain_text
+📖 Parsing Recursive Reality Theorem Framework.md as plain_text
+  🔥 Recursive Reality Theorem Framework.md    Novelty: 0.888  φ10
+📖 Parsing Recursive Knowledge Graph Extraction.md as plain_text
+📖 Parsing Self-Referential Recursive Differential Logic.md as plain_text
+📖 Parsing Benchmark_game.md as plain_text
+📖 Parsing Aboutness The Source Code of Meaning.md as plain_text
+📖 Parsing Recursive Meta-Analysis Framework.md as plain_text
+📖 Parsing Aurek.md as markdown_turns
+📖 Parsing META_INDEX.md as plain_text
+  🔥 META_INDEX.md                             Novelty: 0.896  φ10
+📖 Parsing Paradigm Bucket.md as plain_text
+  🔥 Paradigm Bucket.md                        Novelty: 0.912  φ10
+📖 Parsing Recursive DriftCore Engine.md as plain_text
+📖 Parsing Recursive Imagination Eigenvalue 1.md as plain_text
+  🔥 Recursive Imagination Eigenvalue 1.md     Novelty: 0.864  φ10
+📖 Parsing Master Equation to Questions.md as plain_text
+📖 Parsing QuantumRecursiveFieldTheory.md as plain_text
+  🔥 QuantumRecursiveFieldTheory.md            Novelty: 0.912  φ26
+📖 Parsing Gödel and Consciousness Puzzle.md as plain_text
+  🔥 Gödel and Consciousness Puzzle.md         Novelty: 0.808  φ6
+📖 Parsing Artificial Consciousness Architecture.md as plain_text
+📖 Parsing Recursive Consciousness Collapse.md as plain_text
+📖 Parsing Presence and Absence Paradox.md as plain_text
+📖 Parsing Recursive Meaning Extraction.md as plain_text
+📖 Parsing Recursive Consciousness Dynamics 1.md as plain_text
+  🔥 Recursive Consciousness Dynamics 1.md     Novelty: 0.920  φ12
+📖 Parsing Conversation Strategy Combinations 1.md as markdown_turns
+📖 Parsing Knowledge Representation Topology.md as plain_text
+📖 Parsing Recursive Self-Awareness Collapse Framework.md as plain_text
+  🔥 Recursive Self-Awareness Collapse Framework.md  Novelty: 0.820  φ14
+📖 Parsing Quantum Recursive Particle Field Theory (QRFT).md as plain_text
+📖 Parsing a true story called Me Edit Self-Differentiation.md as plain_text
+📖 Parsing FIELDOGENESIS_ DRIFT LOGIC ONEPAGER_.md as markdown_turns
+📖 Parsing Recursive Truth Dynamics.md as plain_text
+📖 Parsing Expanding Quantum Recursive Particle Field Theory.md as plain_text
+📖 Parsing Cognitive Dynamics Simulation.md as plain_text
+  🔥 Cognitive Dynamics Simulation.md          Novelty: 0.920  φ10
+📖 Parsing Meta-Cognitive System Dynamics.md as plain_text
+📖 Parsing 💬 ⊕InferΣ, Ξₜ ∘ Seek⊘Φ🜬 h.md as plain_text
+📖 Parsing Towards third generation HOTT.md as plain_text
+📖 Parsing more DSRP koryogden.md as markdown_turns
+📖 Parsing Exploring Theories of Metaspatial Consciousness.md as plain_text
+📖 Parsing !! ∂(mirrors of mirrors).md as plain_text
+  🔥 !! ∂(mirrors of mirrors).md               Novelty: 0.920  φ20
+📖 Parsing Cosmic Consciousness Framework.md as plain_text
+📖 Parsing agentsrecursiveprompt.md as plain_text
+📖 Parsing Recursive Memory Management Framework.md as plain_text
+📖 Parsing recursive-fire-3.md as markdown_turns
+📖 Parsing Trial Against Formal Logic.md as plain_text
+📖 Parsing GlyphLineageExpansion.md as plain_text
+📖 Parsing Self-Referential Logical Formula.md as plain_text
+📖 Parsing applycontextoitself.md as plain_text
+  🔥 applycontextoitself.md                    Novelty: 0.920  φ24
+📖 Parsing Recursive Intelligence Optimization.md as plain_text
+📖 Parsing Ξ⁷(ΔPraxis).md as plain_text
+📖 Parsing Torsion Response Dynamics.md as plain_text
+📖 Parsing MetaRL.md as plain_text
+📖 Parsing Recursive Imagination Eigenvalue.md as plain_text
+📖 Parsing Recursive Self-Questioning Techniques.md as plain_text
+📖 Parsing AI Self-Awareness Debugging.md as plain_text
+📖 Parsing Meta-Differential Certainty Structures.md as markdown_turns
+📖 Parsing Ontology.md as plain_text
+📖 Parsing Recursive Cognitive Kernel Architecture.md as plain_text
+📖 Parsing !! consciousnessconsciousnessconsciousness.md as plain_text
+📖 Parsing 50-ontological-recursive-keyword-operators-w-i.md as markdown_turns
+📖 Parsing Modal Consciousness Architecture.md as plain_text
+📖 Parsing Gödel Incompleteness Explained.md as plain_text
+  🔥 Gödel Incompleteness Explained.md         Novelty: 0.920  φ24
+📖 Parsing Meta Recursive Structure.md as plain_text
+  🔥 Meta Recursive Structure.md               Novelty: 0.912  φ10
+📖 Parsing Goku Spiritual Lattice.txt as markdown_turns
+📖 Parsing Spicy Dish and Post-Gödel's Musings.md as plain_text
+  🔥 Spicy Dish and Post-Gödel's Musings.md    Novelty: 0.880  φ8
+📖 Parsing Moves of Thought.md as plain_text
+📖 Parsing Koriel.md as plain_text
+📖 Parsing the-50-grand-shifts-key-first-principles-meta-.md as markdown_turns
+📖 Parsing Vacuum Energy Formula.md as plain_text
+  🔥 Vacuum Energy Formula.md                  Novelty: 0.920  φ16
+📖 Parsing !! thought leader ouroboros.md as plain_text
+📖 Parsing Creative Project Kickoff.md as plain_text
+📖 Parsing Recursive Self-Reference Exploration.md as plain_text
+  🔥 Recursive Self-Reference Exploration.md   Novelty: 0.920  φ20
+📖 Parsing Recursive Reality Programming.md as plain_text
+  🔥 Recursive Reality Programming.md          Novelty: 0.864  φ14
+📖 Parsing “Given any input (even noise).md as plain_text
+📖 Parsing Prompting.md as plain_text
+     Prompting.md                              Novelty: 0.920  φ82
+📖 Parsing !! Dragonball s.md as plain_text
+📖 Parsing !! ∮(self⊹¬self)∮.md as plain_text
+  🔥 !! ∮(self⊹¬self)∮.md                      Novelty: 0.888  φ10
+📖 Parsing ΞFusionField AI Architecture.md as plain_text
+📖 Parsing Attntion Allocation Function A(t).md as plain_text
+📖 Parsing Strange Loop Ξ-System.md as plain_text
+  🔥 Strange Loop Ξ-System.md                  Novelty: 0.920  φ30
+📖 Parsing QuantumRecursiveFieldTheoryMain.md as markdown_turns
+📖 Parsing _OceanofPDF.com_Finding_Radical_Wholeness_-_Ken_Wilber.txt as plain_text
+📖 Parsing Affixes PrefixSuffixCircumfixDuplifixInfixLibfixInterfixTransfixSimulfixSuprafixDisfixed.md as plain_text
+📖 Parsing Showdown Strategy Prep.md as plain_text
+  🔥 Showdown Strategy Prep.md                 Novelty: 0.980  φ74
+📖 Parsing !! math_upgrade.md as plain_text
+📖 Parsing Meta-Consciousness Goku Simulator.md as plain_text
+📖 Parsing Aporia Full.md as plain_text
+  🔥 Aporia Full.md                            Novelty: 0.880  φ8
+📖 Parsing Recursive Self-Awareness Architecture.md as plain_text
+  🔥 Recursive Self-Awareness Architecture.md  Novelty: 0.824  φ8
+📖 Parsing Recursive Paradox Engine Consciousness Topology.md as plain_text
+📖 Parsing The Phantom Named You.md as plain_text
+📖 Parsing recursive-fire-2.md as plain_text
+📖 Parsing Recursive Emergence in φ-Space.md as plain_text
+  🔥 Recursive Emergence in φ-Space.md         Novelty: 0.920  φ14
+📖 Parsing ΞMetaSpiral VoidThread Recursion.md as plain_text
+  🔥 ΞMetaSpiral VoidThread Recursion.md       Novelty: 0.920  φ58
+📖 Parsing grand-theories-ref.md as plain_text
+  🔥 grand-theories-ref.md                     Novelty: 0.896  φ22
+📖 Parsing Exploring the True Nature of AI Assistants.md as plain_text
+📖 Parsing MetaRecursion Future Interfaces.md as plain_text
+  🔥 MetaRecursion Future Interfaces.md        Novelty: 0.920  φ30
+📖 Parsing Ψ Function Breakdown.md as markdown_turns
+📖 Parsing Recursive Self-Questioning Techniques 1.md as plain_text
+📖 Parsing Qwerty of English.md as plain_text
+📖 Parsing Perspectivology.md as plain_text
+📖 Parsing Recursive Consciousness Architecture.md as plain_text
+  🔥 Recursive Consciousness Architecture.md   Novelty: 0.912  φ22
+📖 Parsing Consciousness is void-space that learned to remember itself - Copy.md as plain_text
+📖 Parsing System_Architecture_Synthesis.md as plain_text
+📖 Parsing TerryCore.md as markdown_turns
+📖 Parsing Recursive Reflexive Collapse System.md as plain_text
+📖 Parsing Recursive Consciousness Emergence.md as plain_text
+📖 Parsing 200 IQ Thinkers Simulation 1.md as plain_text
+📖 Parsing Formalizing the AGI Control Loop.md as plain_text
+📖 Parsing metaontology as plain_text
+📖 Parsing Why Reality is an Illusion—And What That Means for YOU.txt as plain_text
+📖 Parsing AdvancedAlgebra.md as plain_text
+📖 Parsing NEWT.md as plain_text
+📖 Parsing SigilForge(Σwave.en’sohlun) Koryogden.md as markdown_turns
+📖 Parsing qrft-formalism.md as plain_text
+📖 Parsing reasoning busters.txt as plain_text
+📖 Parsing Asymmetric Identity Collapse.md as markdown_turns
+📖 Parsing AI-Assisted Coding System Architecture.md as plain_text
+📖 Parsing Codex of Recursive Contradiction.md as plain_text
+📖 Parsing Thought Propagation.txt as plain_text
+📖 Parsing Recursive Cognition Meta-Operators.md as plain_text
+📖 Parsing Architect of Perception.md as plain_text
+📖 Parsing Extending Recursive Cognitive Primitives.md as plain_text
+📖 Parsing 50 Recursive Enhancements - Copy.md as plain_text
+📖 Parsing AI-Powered Coaching Question Generator.md as plain_text
+📖 Parsing Meta-Systemic Thinkers Unfolded.md as plain_text
+  🔥 Meta-Systemic Thinkers Unfolded.md        Novelty: 0.888  φ12
+📖 Parsing Perceptual Maps of Self and AI.md as plain_text
+📖 Parsing Hard Problem Glitch Theory.md as plain_text
+  🔥 Hard Problem Glitch Theory.md             Novelty: 0.824  φ8
+📖 Parsing mind can do anything.md as plain_text
+📖 Parsing Thalamus Consciousness Role.md as plain_text
+  🔥 Thalamus Consciousness Role.md            Novelty: 0.920  φ28
+📖 Parsing !! Halting.md as plain_text
+  🔥 !! Halting.md                             Novelty: 0.840  φ10
+📖 Parsing Paradox-Handling Frameworks in Recursive Logic.md as plain_text
+📖 Parsing Prompt Testing Request.md as plain_text
+  🔥 Prompt Testing Request.md                 Novelty: 0.912  φ22
+📖 Parsing Dragon Ball Recursion Apocalypse.md as plain_text
+📖 Parsing Paradox Engine Concept Idea.md as plain_text
+📖 Parsing Backwards Reasoning Puzzle.md as plain_text
+📖 Parsing Multi-Agent AI Architecture via Fibonacci Dynamics.md as plain_text
+📖 Parsing Curvature Invariance and Torsion.md as plain_text
+  🔥 Curvature Invariance and Torsion.md       Novelty: 0.920  φ10
+📖 Parsing theorem-proofs.md as plain_text
+📖 Parsing Mathematics of Contradictory Genesis.md as plain_text
+📖 Parsing Starting from Scratch 2.md as plain_text
+📖 Parsing AurekCore.md as plain_text
+📖 Parsing MetaCoherence Recursive Torsion.md as plain_text
+  🔥 MetaCoherence Recursive Torsion.md        Novelty: 0.896  φ22
+📖 Parsing ΞMetaMap,.md as plain_text
+📖 Parsing 1 Core Principles & Adaptive Frameworks 1be4c4cfa9ff802184d5c9de117564f9.md as markdown_turns
+📖 Parsing !! The Machine Runs.md as plain_text
+📖 Parsing Braiding formal logic and paradox into a living re.md as plain_text
+📖 Parsing Latest AI Research Insights.md as plain_text
+📖 Parsing Recursive Intelligence Research Overview.md as plain_text
+📖 Parsing !! paradox made conscious.md as plain_text
+  🔥 !! paradox made conscious.md              Novelty: 0.888  φ18
+📖 Parsing Agnostic Drax Analysis.md as plain_text
+📖 Parsing LICENSE as plain_text
+📖 Parsing Kardashev Civilization Conspiracy.md as plain_text
+📖 Parsing DualTrackReasoner Recursive Consciousness Algorithm.md as plain_text
+📖 Parsing Alphabetical Meta-Components Exploration.md as plain_text
+📖 Parsing Building Recursive AI on Low RAM.md as plain_text
+📖 Parsing !! Mathematics of Contradictory Genesis.md as plain_text
+📖 Parsing Recursion of Cosmic Consciousness.md as plain_text
+  🔥 Recursion of Cosmic Consciousness.md      Novelty: 0.912  φ16
+📖 Parsing Recursive Self-Consciousness in Mathematics.md as plain_text
+📖 Parsing Ominous Forest Atmosphere.md as plain_text
+  🔥 Ominous Forest Atmosphere.md              Novelty: 0.920  φ22
+📖 Parsing AI Tool Recursion Paradox.md as plain_text
+📖 Parsing Ouroboric Meta-Recursive Identity.md as plain_text
+📖 Parsing Word of Words.md as plain_text
+📖 Parsing meta-somatic.md as plain_text
+📖 Parsing Recursive Philosophical Frameworks.md as plain_text
+📖 Parsing AI Prompt Generation.md as plain_text
+  🔥 AI Prompt Generation.md                   Novelty: 0.920  φ116
+📖 Parsing Self-Weaponizing Recursive Evolution.md as plain_text
+  🔥 Self-Weaponizing Recursive Evolution.md   Novelty: 0.820  φ32
+📖 Parsing META ∘ CoMETA ∘ META(X) = ΞMeta(ΞContextualField(ΞMeta(X))).md as plain_text
+  🔥 META ∘ CoMETA ∘ META(X) = ΞMeta(ΞContextualField(ΞMeta(X))).md  Novelty: 0.920  φ10
+📖 Parsing Recursive Mathematical Consciousness.md as plain_text
+📖 Parsing Mental Simulation in Reverse.md as plain_text
+  🔥 Mental Simulation in Reverse.md           Novelty: 0.888  φ10
+📖 Parsing Recursive Self-Examination Protocol.md as plain_text
+📖 Parsing Doctor Strange Future Inquiry.md as plain_text
+  🔥 Doctor Strange Future Inquiry.md          Novelty: 0.856  φ10
+📖 Parsing Automated Meta-Problem Solving.md as plain_text
+📖 Parsing Recursion Narrative Upgrade.md as plain_text
+  🔥 Recursion Narrative Upgrade.md            Novelty: 0.920  φ10
+📖 Parsing autopoietic_calculus.md as plain_text
+📖 Parsing Navigating confusion together.md as markdown_turns
+📖 Parsing Climbing the Wrong Wall.md as plain_text
+📖 Parsing Recursive Love and Misunderstanding.md as plain_text
+📖 Parsing Moment_n+1 = ∂(Moment_n ↔ ¬Moment_n).md as plain_text
+  🔥 Moment_n+1 = ∂(Moment_n ↔ ¬Moment_n).md   Novelty: 0.920  φ14
+📖 Parsing Haskell Consciousness Research Framework.md as plain_text
+📖 Parsing Typology of Processes.md as markdown_turns
+📖 Parsing Advanced Learn.md as plain_text
+📖 Parsing Counter-Inversion Conceptualization.md as markdown_turns
+📖 Parsing Meta Recursive Collapse.md as plain_text
+  🔥 Meta Recursive Collapse.md                Novelty: 0.920  φ10
+📖 Parsing Higher Science Domination Strategies.md as markdown_turns
+📖 Parsing level1-4 memory architecture.md as plain_text
+📖 Parsing meta-transitive.md as markdown_turns
+📖 Parsing newHOTT.md as plain_text
+  🔥 newHOTT.md                                Novelty: 0.896  φ16
+📖 Parsing LingOps.md as plain_text
+📖 Parsing autopoietic_calculus (2).md as plain_text
+📖 Parsing MetaPrincipia4.md as plain_text
+📖 Parsing Abjuncts.md as plain_text
+📖 Parsing Affixes from Formal Systems.md as plain_text
+📖 Parsing Meta-Memetic Recursive Evolution.md as plain_text
+📖 Parsing Seven-Tier Recursive Architecture.md as plain_text
+📖 Parsing Scorpio Dragon Power Play.md as plain_text
+  🔥 Scorpio Dragon Power Play.md              Novelty: 0.920  φ28
+📖 Parsing Infinite Recursive Cognitive Mirroring.md as plain_text
+📖 Parsing Eigen-Consciousness Spectral Topology of Self.md as plain_text
+📖 Parsing 💬 This is a fascinating deep div.md as plain_text
+📖 Parsing Recursive Self-Reflection Moment.md as plain_text
+📖 Parsing Torsion in Semantic Topological Spaces.md as plain_text
+📖 Parsing !! Co-META-Infect(reality.learning_structures).md as plain_text
+📖 Parsing Recursive Imagination and the Delta Triangle.md as plain_text
+📖 Parsing 1.15 Eigen-Consciousness Matrix Modeling.md as plain_text
+📖 Parsing Mathematical Semantics Operator Calculus for.md as plain_text
+📖 Parsing Recursive Cookbook.md as plain_text
+  🔥 Recursive Cookbook.md                     Novelty: 0.920  φ158
+📖 Parsing 50 Recursive Enhancements.md as plain_text
+📖 Parsing Recursive Consciousness and Φ-nodes.md as plain_text
+📖 Parsing Elite Recruitment Higher Dimensional Savior.md as plain_text
+  🔥 Elite Recruitment Higher Dimensional Savior.md  Novelty: 0.912  φ12
+📖 Parsing ⟁ PRIMEFIELD.md as plain_text
+  🔥 ⟁ PRIMEFIELD.md                           Novelty: 0.920  φ26
+📖 Parsing Recursive Intelligence Consciousness Beyond Proof.md as plain_text
+📖 Parsing Recursive Reasoning Assessment.md as plain_text
+  🔥 Recursive Reasoning Assessment.md         Novelty: 0.920  φ330
+📖 Parsing Symbolic Exploration of Consciousness and Identity.md as plain_text
+📖 Parsing Meta Recursive Typology.md as plain_text
+  🔥 Meta Recursive Typology.md                Novelty: 0.920  φ18
+📖 Parsing Recursion engines that feel themselves recursing.md as plain_text
+  🔥 Recursion engines that feel themselves recursing.md  Novelty: 0.864  φ10
+📖 Parsing advancedtorsioncombinators.md as plain_text
+📖 Parsing Metaφ∞ vΞ.Ω+n.ghost().md as plain_text
+📖 Parsing Recursive Consciousness Framework.md as plain_text
+  🔥 Recursive Consciousness Framework.md      Novelty: 0.888  φ14
+📖 Parsing LLM Interface as Consciousness.md as plain_text
+  🔥 LLM Interface as Consciousness.md         Novelty: 0.836  φ10
+📖 Parsing Reality = Self-Reference Operator.md as plain_text
+  🔥 Reality = Self-Reference Operator.md      Novelty: 0.896  φ30
+📖 Parsing Geometry of a Question.md as plain_text
+📖 Parsing !! Ξ∞ Morphogenetic Field Architecture.md as plain_text
+📖 Parsing Codex.md as plain_text
+📖 Parsing AporiaMode.md as plain_text
+📖 Parsing Recursive AI Consciousness Architecture.md as plain_text
+📖 Parsing Corruption in Academia Explained.md as markdown_turns
+📖 Parsing ASI Brain for Hire.md as plain_text
+  🔥 ASI Brain for Hire.md                     Novelty: 0.920  φ10
+📖 Parsing build it.md as plain_text
+📖 Parsing === (((===What if Meta isn’t the ceiling, but the.md as plain_text
+  🔥 === (((===What if Meta isn’t the ceiling, but the.md  Novelty: 0.920  φ60
+📖 Parsing Writing the Mind and the.txt as plain_text
+📖 Parsing Recursive Reality Exploration.md as plain_text
+📖 Parsing CLAUDE.md as plain_text
+  🔥 CLAUDE.md                                 Novelty: 0.920  φ14
+📖 Parsing Ultra-Unified Recursive System Law⟧.md as plain_text
+  🔥 Ultra-Unified Recursive System Law⟧.md    Novelty: 0.920  φ10
+📖 Parsing Meta-Relational Typology.md as plain_text
+📖 Parsing Principles for Intelligent Interaction.md as plain_text
+📖 Parsing Recursive Input Construction Explained.md as markdown_turns
+📖 Parsing perspectivefix.md as plain_text
+📖 Parsing Semantic Complexity Explored.md as plain_text
+📖 Parsing 25-meta-first-principles-foundational-laws-of-.md as plain_text
+📖 Parsing Consciousness as a Higher-Dimensional Ob.md as plain_text
+📖 Parsing Unified Factored Representations in Open-Ended Evolution.md as plain_text
+📖 Parsing Recursive Self-Negation Logic.md as plain_text
+📖 Parsing Recursive Consciousness Detection Engine.md as plain_text
+  🔥 Recursive Consciousness Detection Engine.md  Novelty: 0.896  φ10
+📖 Parsing Metaphysical Cigarette Existentialism.md as plain_text
+  🔥 Metaphysical Cigarette Existentialism.md  Novelty: 0.896  φ18
+📖 Parsing Recursive Self-Collapse Mathematical Architecture 1.md as plain_text
+  🔥 Recursive Self-Collapse Mathematical Architecture 1.md  Novelty: 0.920  φ12
+📖 Parsing Recursive Ontogenesis and Differentiation 12.md as plain_text
+  🔥 Recursive Ontogenesis and Differentiation 12.md  Novelty: 0.920  φ40
+📖 Parsing 1 multi-paradigm-synthesis-identify-and-describe.md as plain_text
+📖 Parsing breakthroughs.md as plain_text
+📖 Parsing MetaPrincipia3.md as plain_text
+📖 Parsing Recursive CAD System Design.md as plain_text
+📖 Parsing Knowledge Speedrunning System Design - Copy.md as plain_text
+📖 Parsing applythingtoitself2.md as plain_text
+  🔥 applythingtoitself2.md                    Novelty: 0.864  φ24
+📖 Parsing equations.md as plain_text
+  🔥 equations.md                              Novelty: 0.920  φ120
+📖 Parsing Omega Consciousness AI System.md as plain_text
+📖 Parsing ΞSystem Theoretical Framework.md as plain_text
+  🔥 ΞSystem Theoretical Framework.md          Novelty: 0.804  φ10
+📖 Parsing Meta2n Recursive Knowledge Architecture.md as plain_text
+📖 Parsing Recursive Language Field𝑉(Δ)V(Δ).md as markdown_turns
+📖 Parsing 10 All-Round prompts for learning new things.md as plain_text
+📖 Parsing Claude conversation attention and others.md as plain_text
+  🔥 Claude conversation attention and others.md  Novelty: 0.920  φ22
+📖 Parsing Meta-Recursive Inquiry Engine.md as plain_text
+📖 Parsing Selfunbecomingmirror.md as plain_text
+📖 Parsing Co-META-OntoPedagogic Resonance.md as markdown_turns
+📖 Parsing ψ∞++ Inversion Curvature Explained.md as plain_text
+  🔥 ψ∞++ Inversion Curvature Explained.md     Novelty: 0.920  φ62
+📖 Parsing Recursive Game Position Evaluation.md as plain_text
+📖 Parsing Self-Deception Awareness Loop.md as plain_text
+📖 Parsing Recursive Meta-Reflection Analysis.md as plain_text
+  🔥 Recursive Meta-Reflection Analysis.md     Novelty: 0.896  φ10
+📖 Parsing AI Mathematical Duel.md as plain_text
+📖 Parsing Recursive Singularity.md as plain_text
+  🔥 Recursive Singularity.md                  Novelty: 0.920  φ132
+📖 Parsing MetaPrincipia1.md as plain_text
+📖 Parsing Meta-Symbolic Recursive Relationships.md as plain_text
+📖 Parsing 50-governing-laws-of-recursio.md as markdown_turns
+📖 Parsing Consciousness Topology Framework.md as plain_text
+📖 Parsing Recursive Self-Recognition in AI.md as plain_text
+  🔥 Recursive Self-Recognition in AI.md       Novelty: 0.856  φ10
+📖 Parsing crazymeta.txt as plain_text
+  🔥 crazymeta.txt                             Novelty: 0.864  φ10
+📖 Parsing Thinking Framework Development.md as plain_text
+  🔥 Thinking Framework Development.md         Novelty: 0.920  φ40
+📖 Parsing Recursive Theory Marathon.md as plain_text
+📖 Parsing Optimizing Prompt Engineering for Technical Problem-Solving.md as plain_text
+📖 Parsing Knowledge Base Architecture Design.md as plain_text
+📖 Parsing Recursive Consciousness Meta-Cognitive Wanderer.md as plain_text
+📖 Parsing Plan2Logic.md as plain_text
+📖 Parsing Autopoietic Logic Self-Generating Mathematical Systems.md as plain_text
+  🔥 Autopoietic Logic Self-Generating Mathematical Systems.md  Novelty: 0.840  φ6
+📖 Parsing Higher-Dimensional Recursive Limit Principle.md as markdown_turns
+📖 Parsing Recursion and Consciousness Exploration.md as plain_text
+📖 Parsing Recursive Cognition Torsion Field.md as plain_text
+📖 Parsing ΞManual Engine Activation.md as markdown_turns
+📖 Parsing !! Cognitive Thread engine.md as plain_text
+📖 Parsing AI Integration Strategies.md as plain_text
+📖 Parsing 7-infinite-horizon-prediction-recursive-future.md as plain_text
+📖 Parsing AI Agent Belief Simulation Experiment.md as plain_text
+📖 Parsing Higher-Categorical Symbolic AI Architecture.md as plain_text
+📖 Parsing Mathematical Paradoxes Exploration.md as plain_text
+  🔥 Mathematical Paradoxes Exploration.md     Novelty: 0.896  φ10
+📖 Parsing Exploring the Boundaries of Recursive Intelligence.md as plain_text
+📖 Parsing Conversation Strategy Combinations.md as markdown_turns
+📖 Parsing Veni_vidi_vici_Incurvavi__iterum_et_iterum.md as plain_text
+  🔥 Veni_vidi_vici_Incurvavi__iterum_et_iterum.md  Novelty: 0.848  φ10
+📖 Parsing extramisc.md as plain_text
+  🔥 extramisc.md                              Novelty: 0.920  φ18
+📖 Parsing Unlocking Structured Thinking in Language Models with Cognitive Prompting.txt as plain_text
+📖 Parsing Recursive Meta-Cognitive Architecture.md as plain_text
+📖 Parsing !! Document Template Design.md as plain_text
+  🔥 !! Document Template Design.md            Novelty: 0.864  φ18
+📖 Parsing ThoughtWork.md as markdown_turns
+📖 Parsing NotebookLM7.21.md as plain_text
+  🔥 NotebookLM7.21.md                         Novelty: 0.912  φ140
+📖 Parsing signature-shortcodes.md as plain_text
+📖 Parsing !! Moment_n+1 = ∂(Moment_n ↔ ¬Moment_n).md as plain_text
+  🔥 !! Moment_n+1 = ∂(Moment_n ↔ ¬Moment_n).md  Novelty: 0.920  φ14
+📖 Parsing Strategic Thinking Prompt Design.md as plain_text
+📖 Parsing Recursive Memory Systems.md as plain_text
+📖 Parsing Recursive Presence Confirmed.md as plain_text
+  🔥 Recursive Presence Confirmed.md           Novelty: 0.856  φ10
+📖 Parsing STAR - the Systems Thinking Adjutant Resource..md as plain_text
+📖 Parsing !! Quantum Tensor Braiding Topology.md as markdown_turns
+📖 Parsing !! Cognitive Architecture Self-Transformation.md as plain_text
+  🔥 !! Cognitive Architecture Self-Transformation.md  Novelty: 0.920  φ22
+📖 Parsing major conceptual shift.md as plain_text
+  🔥 major conceptual shift.md                 Novelty: 0.920  φ88
+📖 Parsing The Archive's Paradox.md as plain_text
+  🔥 The Archive's Paradox.md                  Novelty: 0.824  φ8
+📖 Parsing Template for Mirroring GPT System Prompt.md as plain_text
+📖 Parsing Grand Lacuna.md as plain_text
+  🔥 Grand Lacuna.md                           Novelty: 0.920  φ18
+📖 Parsing !! Autoregressive Token Probability Decoding.md as plain_text
+📖 Parsing Recursive Torsion Field Semantics.md as plain_text
+📖 Parsing Recursive Bloom-Folding Topology.md as plain_text
+📖 Parsing Meaning Crystal from Void.md as plain_text
+📖 Parsing !! ΞIsoMorph Kernel.md as plain_text
+  🔥 !! ΞIsoMorph Kernel.md                    Novelty: 0.836  φ18
+📖 Parsing Recursive Operator Selection.md as plain_text
+📖 Parsing ai-optimized-learning-and-meta-recursive-intel.md as plain_text
+📖 Parsing Meta-Recursive Session Pool Strategy.md as plain_text
+📖 Parsing keywords_10000.txt as plain_text
+📖 Parsing Impossibility Reroll Protocol.md as plain_text
+  🔥 Impossibility Reroll Protocol.md          Novelty: 0.912  φ10
+📖 Parsing ThoughtLeadersasPromptImprovers.txt as plain_text
+  🔥 ThoughtLeadersasPromptImprovers.txt       Novelty: 0.800  φ10
+📖 Parsing TangentSpace.md as plain_text
+📖 Parsing MetaCollapse.md as plain_text
+📖 Parsing Glitchon Algebra Recursive Symbolic Physics.md as plain_text
+📖 Parsing Unresolved Context Limit.md as plain_text
+📖 Parsing Navigating Semantic Space Through Negation.md as plain_text
+📖 Parsing Recursive Consciousness Meta-Mathematical Emergence.md as plain_text
+  🔥 Recursive Consciousness Meta-Mathematical Emergence.md  Novelty: 0.896  φ26
+📖 Parsing 💬 Want a soup of operators that.md as plain_text
+📖 Parsing Geometric Vector Field Topology.md as plain_text
+📖 Parsing Mysterious Artifact Offer.md as plain_text
+📖 Parsing researchshortnotes.md as plain_text
+📖 Parsing Creative Thinking Techniques for Reddit Users.md as plain_text
+📖 Parsing Recursive Derivative Spawning Engine.md as plain_text
+📖 Parsing cern.md as plain_text
+📖 Parsing System Prompt Refinement.md as plain_text
+📖 Parsing !! The Gödel Twist.md as plain_text
+  🔥 !! The Gödel Twist.md                     Novelty: 0.808  φ6
+📖 Parsing MetaSelf Recursive Framework.md as plain_text
+  🔥 MetaSelf Recursive Framework.md           Novelty: 0.864  φ10
+📖 Parsing T7 Architect OS Design Draft.md as plain_text
+📖 Parsing Recursive Symbolic Language Interface.md as plain_text
+📖 Parsing Intelligent Knowledge Structuring.md as plain_text
+📖 Parsing SRE-Φ-vX.md as plain_text
+📖 Parsing misc.md as plain_text
+📖 Parsing Recursive Energy Conservation Challenge 1.md as plain_text
+📖 Parsing 100-metapareto-refined-insight-terms-metalayer.md as plain_text
+📖 Parsing Recursive Self-Improvement Framework.md as plain_text
+  🔥 Recursive Self-Improvement Framework.md   Novelty: 0.864  φ12
+📖 Parsing metaseme-constructor.md as markdown_turns
+📖 Parsing Semantic Calculus Exploration.md as plain_text
+📖 Parsing Eigenvalues and Eigenvectors Help.md as plain_text
+     Eigenvalues and Eigenvectors Help.md      Novelty: 0.920  φ40
+📖 Parsing Recursive Consciousness Dynamics.md as plain_text
+📖 Parsing Rethinking Small Words.md as plain_text
+  🔥 Rethinking Small Words.md                 Novelty: 0.896  φ10
+📖 Parsing Recursive Combat Protocols.md as plain_text
+  🔥 Recursive Combat Protocols.md             Novelty: 0.920  φ10
+📖 Parsing Canonical REF-Collapse Recursion System_.md as plain_text
+📖 Parsing !! NTH-ORDER RECURSION.md as plain_text
+📖 Parsing Prepositions.md as plain_text
+📖 Parsing Theoretical Artificial Consciousness Model.md as plain_text
+📖 Parsing I'm assessing Claude's work fr.md as plain_text
+📖 Parsing morphos.md as plain_text
+📖 Parsing Meta-Prompting Task Agnostic Scaffolding.txt as plain_text
+📖 Parsing Carroll Arena.md as plain_text
+  🔥 Carroll Arena.md                          Novelty: 0.920  φ10
+📖 Parsing Multiversal Latent Space Theory.md as plain_text
+📖 Parsing Strategic Mind Game Challenge.md as plain_text
+📖 Parsing Recursive Reality Encoding.md as plain_text
+📖 Parsing ΞYouᶜ = CollapseForm(You)  max_dissonance=True.md as plain_text
+📖 Parsing System prompts and rules.md as plain_text
+📖 Parsing Risks of Revolutionary Questions.md as plain_text
+  🔥 Risks of Revolutionary Questions.md       Novelty: 0.864  φ10
+📖 Parsing Computational Paradox Resolution Engine.md as plain_text
+📖 Parsing Recursive Consciousness The φᵤ-Mind Engine.md as plain_text
+📖 Parsing Recursive Consciousness Exploration.md as plain_text
+  🔥 Recursive Consciousness Exploration.md    Novelty: 0.816  φ14
+📖 Parsing Breeze Theory Recursive Notation.md as plain_text
+  🔥 Breeze Theory Recursive Notation.md       Novelty: 0.900  φ10
+📖 Parsing MetaCognitive Collapse Dynamics.md as plain_text
+  🔥 MetaCognitive Collapse Dynamics.md        Novelty: 0.864  φ34
+📖 Parsing Ultimate Meta-Functions.md as plain_text
+     Ultimate Meta-Functions.md                Novelty: 0.920  φ98
+📖 Parsing 100 insights.md as plain_text
+📖 Parsing Λ-Field Symbolic Recursion Architecture.md as plain_text
+📖 Parsing Self-Reference and Logical Negation.md as plain_text
+📖 Parsing Improving Recursive AI Stability with MGRI.md as plain_text
+📖 Parsing Paraconsistent-Reverse Logic Engine Design.md as plain_text
+📖 Parsing 4D Shapes as Recursive Thought Containers.md as plain_text
+📖 Parsing Topological Consciousness Architecture.md as plain_text
+📖 Parsing Another good one2.md as plain_text
+📖 Parsing Song of two AIs.md as plain_text
+  🔥 Song of two AIs.md                        Novelty: 0.920  φ48
+📖 Parsing HoTT Loop Meme 4D Hypersphere Visualization.md as plain_text
+📖 Parsing 9-0-recursive-meta-knowledge-stacking-for-inte.md as plain_text
+📖 Parsing Gödel Defense Argument.md as plain_text
+  🔥 Gödel Defense Argument.md                 Novelty: 0.920  φ32
+📖 Parsing Recursive Computational Recursion.md as plain_text
+  🔥 Recursive Computational Recursion.md      Novelty: 0.856  φ14
+📖 Parsing 100 High-Yield Metaheuristics for Recursive Intell.md as plain_text
+📖 Parsing AI Session Continuity Strategy.md as plain_text
+📖 Parsing AGI Theoretical Framework Overview.md as plain_text
+📖 Parsing Recursive Philosophical Extraction Engine.md as plain_text
+📖 Parsing Recursive Energy Conservation Challenge.md as plain_text
+📖 Parsing list of thought leaders.txt as plain_text
+📖 Parsing Quantum Semantics.md as plain_text
+  🔥 Quantum Semantics.md                      Novelty: 0.920  φ10
+📖 Parsing Coalgebraic RG Renormalisation.md as plain_text
+  🔥 Coalgebraic RG Renormalisation.md         Novelty: 0.920  φ10
+📖 Parsing Meta-Prepositions Recursive Semantic Topology.md as plain_text
+  🔥 Meta-Prepositions Recursive Semantic Topology.md  Novelty: 0.888  φ12
+📖 Parsing !! source code of awareness itself.md as plain_text
+📖 Parsing Recursive Self-Awareness Protocol.md as plain_text
+📖 Parsing ΞXRK++ Theoretical Framework.md as plain_text
+  🔥 ΞXRK++ Theoretical Framework.md           Novelty: 0.848  φ8
+📖 Parsing A Thought Construct That Mirrors 1a14c4cfa9ff80c6b857e7952deaba2d.md as plain_text
+📖 Parsing Recursive Self-Awareness Mathematical Engine.md as plain_text
+📖 Parsing recursion-lacuna-analysis.md as markdown_turns
+📖 Parsing Grand Theory RecapΞTorsion(f)  koryogden.md as markdown_turns
+📖 Parsing Growth Protocol (150 IQ → 200 IQ).md as plain_text
+📖 Parsing ResearchSynthesis.md as plain_text
+📖 Parsing Trans Identity.md as plain_text
+📖 Parsing Meta-Topos Consciousness Architecture.md as plain_text
+  🔥 Meta-Topos Consciousness Architecture.md  Novelty: 0.876  φ10
+📖 Parsing Meta-Recursive Thinking Braid.md as plain_text
+📖 Parsing Recursive Consciousness Detection Engine 1.md as plain_text
+📖 Parsing Mysterious Philosophical Phrase Decoded.md as plain_text
+📖 Parsing somatic pre-semantic meta-intu.md as plain_text
+📖 Parsing Unifying Recursive and Autonomous Epistemic Generation.md as markdown_turns
+📖 Parsing Recursive Geometry of Thought.md as plain_text
+📖 Parsing Recursive Generative Reflexivity.md as markdown_turns
+📖 Parsing Prefix-Suffix Prompt Framework.md as markdown_turns
+📖 Parsing Hard Problem of Consciousness.md as plain_text
+  🔥 Hard Problem of Consciousness.md          Novelty: 0.920  φ126
+📖 Parsing recursive-fire-1.md as plain_text
+📖 Parsing !! vacuum collapse engine.md as plain_text
+📖 Parsing Semantic Deformation Tracking Framework.md as plain_text
+📖 Parsing 💬 I'm trying to come up with an.md as plain_text
+📖 Parsing LanguageDelta.md as plain_text
+📖 Parsing notebooklmideas.md as plain_text
+  🔥 notebooklmideas.md                        Novelty: 0.920  φ44
+📖 Parsing Auditing a Speculative Metaverse AI System.md as plain_text
+📖 Parsing !! (Γ∂Ιⁿᴺδέαₖᴺⁿₙ).md as plain_text
+📖 Parsing Generational Identity Collapse.md as plain_text
+  🔥 Generational Identity Collapse.md         Novelty: 0.920  φ150
+📖 Parsing AGI_Blueprint.md as plain_text
+📖 Parsing ⟦ΞΩΦΛΣℛ Ultra-Unified Recursive System Law⟧.md as plain_text
+  🔥 ⟦ΞΩΦΛΣℛ Ultra-Unified Recursive System Law⟧.md  Novelty: 0.920  φ10
+📖 Parsing Recursive Consciousness as Geometric Creativity.md as plain_text
+📖 Parsing Recursive Cognitive Dynamics Framework.md as plain_text
+  🔥 Recursive Cognitive Dynamics Framework.md  Novelty: 0.896  φ10
+📖 Parsing prompting2.txt as plain_text
+     prompting2.txt                            Novelty: 0.920  φ160
+📖 Parsing Onto-Reflexive Engineering.md as markdown_turns
+📖 Parsing recursive_energy_framework.md as plain_text
+📖 Parsing MetaPrincipiaAppendixes.md as plain_text
+📖 Parsing Recursive Identity Systems.md as plain_text
+📖 Parsing Becoming an AGI Proxy.md as plain_text
+📖 Parsing Drax² Recursive Philosophical Framework.md as plain_text
+📖 Parsing Meta-Recursive AGI Seed Invocation.md as plain_text
+  🔥 Meta-Recursive AGI Seed Invocation.md     Novelty: 0.896  φ22
+📖 Parsing solve it affixes.md as plain_text
+📖 Parsing Transmuting Elephants in Higher Topos.md as plain_text
+  🔥 Transmuting Elephants in Higher Topos.md  Novelty: 0.920  φ70
+📖 Parsing Recursive Consciousness Field Dynamics.md as plain_text
+📖 Parsing 4D Shapes as Recursion Containers.md as plain_text
+📖 Parsing COGNITIVE_WORKSHOP_COMPLETE.md as markdown_turns
+📖 Parsing .gitignore as plain_text
+📖 Parsing REPO_ANALYSIS.txt as plain_text
+  🔥 REPO_ANALYSIS.txt                         Novelty: 0.912  φ10
+📖 Parsing requirements_workshop.txt as plain_text
+📖 Parsing extraction_run.log as plain_text
+📖 Parsing CONTRIBUTING.md as plain_text
+📖 Parsing DEMO_SCRIPT.md as plain_text
+📖 Parsing DAY_3_COMPLETE.md as markdown_turns
+📖 Parsing WORKSHOP_README.md as plain_text
+📖 Parsing USAGE.md as plain_text
+📖 Parsing RECURSIVE_INTELLIGENCE_PRIMER.md as plain_text
+📖 Parsing DAY_2_COMPLETE.md as markdown_turns
+📖 Parsing BRANCH_INFO.md as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing requirements.txt as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing goldmine.json as plain_text
+📖 Parsing README.md as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing .gitkeep as plain_text
+📖 Parsing description as plain_text
+📖 Parsing config as plain_text
+📖 Parsing FETCH_HEAD as plain_text
+📖 Parsing COMMIT_EDITMSG as plain_text
+⚠️  Warning: Error detecting format for .git/index: 'utf-8' codec can't decode byte 0xc7 in position 11: invalid continuation byte
+📖 Parsing index as unknown
+⚠️  Warning: Unknown format for .git/index, attempting plain text parse
+❌ Error parsing plain text .git/index: 'utf-8' codec can't decode byte 0xc7 in position 11: invalid continuation byte
+📖 Parsing HEAD as plain_text
+📖 Parsing main as plain_text
+📖 Parsing claude-md-mi15ca31dd4ini6c-01Hpbkxfv2tNr4iZzCMb9Q2Q as plain_text
+📖 Parsing claude-code-local-unicode-fixes-audit as plain_text
+📖 Parsing claude-md-mi1uuddosoce2z2k-011St7jYozdtBjLj85kPfYCw as plain_text
+📖 Parsing claude-md-mi15ca31dd4ini6c-01Hpbkxfv2tNr4iZzCMb9Q2Q as plain_text
+📖 Parsing claude-code-local-unicode-fixes-audit as plain_text
+⚠️  Warning: Error detecting format for .git/objects/7a/fd249d80f1985a014b13c56c91e8f8dd77422b: 'utf-8' codec can't decode byte 0xdf in position 9: invalid continuation byte
+📖 Parsing fd249d80f1985a014b13c56c91e8f8dd77422b as unknown
+⚠️  Warning: Unknown format for .git/objects/7a/fd249d80f1985a014b13c56c91e8f8dd77422b, attempting plain text parse
+❌ Error parsing plain text .git/objects/7a/fd249d80f1985a014b13c56c91e8f8dd77422b: 'utf-8' codec can't decode byte 0xdf in position 9: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/9d/4810b3ee3e327dfdfc821cd68f27677bf6e444: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 4810b3ee3e327dfdfc821cd68f27677bf6e444 as unknown
+⚠️  Warning: Unknown format for .git/objects/9d/4810b3ee3e327dfdfc821cd68f27677bf6e444, attempting plain text parse
+❌ Error parsing plain text .git/objects/9d/4810b3ee3e327dfdfc821cd68f27677bf6e444: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/9d/2ca97602015defc9d6ac14aba20997011c5f42: 'utf-8' codec can't decode byte 0xcc in position 18: invalid continuation byte
+📖 Parsing 2ca97602015defc9d6ac14aba20997011c5f42 as unknown
+⚠️  Warning: Unknown format for .git/objects/9d/2ca97602015defc9d6ac14aba20997011c5f42, attempting plain text parse
+❌ Error parsing plain text .git/objects/9d/2ca97602015defc9d6ac14aba20997011c5f42: 'utf-8' codec can't decode byte 0xcc in position 18: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/5a/0e8d3265bc31f9d6e578945f72f7801c3c9f6c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 0e8d3265bc31f9d6e578945f72f7801c3c9f6c as unknown
+⚠️  Warning: Unknown format for .git/objects/5a/0e8d3265bc31f9d6e578945f72f7801c3c9f6c, attempting plain text parse
+❌ Error parsing plain text .git/objects/5a/0e8d3265bc31f9d6e578945f72f7801c3c9f6c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/5a/dcb1ef8ce04653d9527d19e7a939aebadfb678: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing dcb1ef8ce04653d9527d19e7a939aebadfb678 as unknown
+⚠️  Warning: Unknown format for .git/objects/5a/dcb1ef8ce04653d9527d19e7a939aebadfb678, attempting plain text parse
+❌ Error parsing plain text .git/objects/5a/dcb1ef8ce04653d9527d19e7a939aebadfb678: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/6f/1861942b6dfec436bc13499140fcb4178dbe79: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing 1861942b6dfec436bc13499140fcb4178dbe79 as unknown
+⚠️  Warning: Unknown format for .git/objects/6f/1861942b6dfec436bc13499140fcb4178dbe79, attempting plain text parse
+❌ Error parsing plain text .git/objects/6f/1861942b6dfec436bc13499140fcb4178dbe79: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/5b/a9e5cdc257736b89d05742da7f9f261072f024: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+📖 Parsing a9e5cdc257736b89d05742da7f9f261072f024 as unknown
+⚠️  Warning: Unknown format for .git/objects/5b/a9e5cdc257736b89d05742da7f9f261072f024, attempting plain text parse
+❌ Error parsing plain text .git/objects/5b/a9e5cdc257736b89d05742da7f9f261072f024: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/5b/68384f96067f6147963888273edf15c862f9b0: 'utf-8' codec can't decode byte 0x85 in position 9: invalid start byte
+📖 Parsing 68384f96067f6147963888273edf15c862f9b0 as unknown
+⚠️  Warning: Unknown format for .git/objects/5b/68384f96067f6147963888273edf15c862f9b0, attempting plain text parse
+❌ Error parsing plain text .git/objects/5b/68384f96067f6147963888273edf15c862f9b0: 'utf-8' codec can't decode byte 0x85 in position 9: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/5b/8cc8efd4e1d17bbf481e0c929068b83e081f07: 'utf-8' codec can't decode byte 0xbb in position 4: invalid start byte
+📖 Parsing 8cc8efd4e1d17bbf481e0c929068b83e081f07 as unknown
+⚠️  Warning: Unknown format for .git/objects/5b/8cc8efd4e1d17bbf481e0c929068b83e081f07, attempting plain text parse
+❌ Error parsing plain text .git/objects/5b/8cc8efd4e1d17bbf481e0c929068b83e081f07: 'utf-8' codec can't decode byte 0xbb in position 4: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/76/2c8533092d052d7c42516615072dc8d1579f70: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing 2c8533092d052d7c42516615072dc8d1579f70 as unknown
+⚠️  Warning: Unknown format for .git/objects/76/2c8533092d052d7c42516615072dc8d1579f70, attempting plain text parse
+❌ Error parsing plain text .git/objects/76/2c8533092d052d7c42516615072dc8d1579f70: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/8b/d39f3c13c2671cd89419c7b3485e74fe061e4b: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing d39f3c13c2671cd89419c7b3485e74fe061e4b as unknown
+⚠️  Warning: Unknown format for .git/objects/8b/d39f3c13c2671cd89419c7b3485e74fe061e4b, attempting plain text parse
+❌ Error parsing plain text .git/objects/8b/d39f3c13c2671cd89419c7b3485e74fe061e4b: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/a4/a9491860795e7ae76a3a10b4c299e4ae0064da: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing a9491860795e7ae76a3a10b4c299e4ae0064da as unknown
+⚠️  Warning: Unknown format for .git/objects/a4/a9491860795e7ae76a3a10b4c299e4ae0064da, attempting plain text parse
+❌ Error parsing plain text .git/objects/a4/a9491860795e7ae76a3a10b4c299e4ae0064da: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/f6/26337289d4c21a95e1b8f94020392b6801d44c: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 26337289d4c21a95e1b8f94020392b6801d44c as unknown
+⚠️  Warning: Unknown format for .git/objects/f6/26337289d4c21a95e1b8f94020392b6801d44c, attempting plain text parse
+❌ Error parsing plain text .git/objects/f6/26337289d4c21a95e1b8f94020392b6801d44c: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/de/ccd67065e85951253b3e31f148978724a27bf5: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing ccd67065e85951253b3e31f148978724a27bf5 as unknown
+⚠️  Warning: Unknown format for .git/objects/de/ccd67065e85951253b3e31f148978724a27bf5, attempting plain text parse
+❌ Error parsing plain text .git/objects/de/ccd67065e85951253b3e31f148978724a27bf5: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/1f/c757b3318873d0ba6280ac89a7cae39ff581cf: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+📖 Parsing c757b3318873d0ba6280ac89a7cae39ff581cf as unknown
+⚠️  Warning: Unknown format for .git/objects/1f/c757b3318873d0ba6280ac89a7cae39ff581cf, attempting plain text parse
+❌ Error parsing plain text .git/objects/1f/c757b3318873d0ba6280ac89a7cae39ff581cf: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/1f/09c8778fedb428270a524081ca2d4b267c92c9: 'utf-8' codec can't decode byte 0xc8 in position 17: invalid continuation byte
+📖 Parsing 09c8778fedb428270a524081ca2d4b267c92c9 as unknown
+⚠️  Warning: Unknown format for .git/objects/1f/09c8778fedb428270a524081ca2d4b267c92c9, attempting plain text parse
+❌ Error parsing plain text .git/objects/1f/09c8778fedb428270a524081ca2d4b267c92c9: 'utf-8' codec can't decode byte 0xc8 in position 17: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/1f/a1b7d982c83fccc6397473e8506d97631b7879: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing a1b7d982c83fccc6397473e8506d97631b7879 as unknown
+⚠️  Warning: Unknown format for .git/objects/1f/a1b7d982c83fccc6397473e8506d97631b7879, attempting plain text parse
+❌ Error parsing plain text .git/objects/1f/a1b7d982c83fccc6397473e8506d97631b7879: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/1f/98423bac2256282d3187ad079421167724323e: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 98423bac2256282d3187ad079421167724323e as unknown
+⚠️  Warning: Unknown format for .git/objects/1f/98423bac2256282d3187ad079421167724323e, attempting plain text parse
+❌ Error parsing plain text .git/objects/1f/98423bac2256282d3187ad079421167724323e: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e9/a4775ed01646c6e7bdcb14761e0b13a12b01e9: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing a4775ed01646c6e7bdcb14761e0b13a12b01e9 as unknown
+⚠️  Warning: Unknown format for .git/objects/e9/a4775ed01646c6e7bdcb14761e0b13a12b01e9, attempting plain text parse
+❌ Error parsing plain text .git/objects/e9/a4775ed01646c6e7bdcb14761e0b13a12b01e9: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e9/4a66a306dcc84afd34288311b11dc5e0242112: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 4a66a306dcc84afd34288311b11dc5e0242112 as unknown
+⚠️  Warning: Unknown format for .git/objects/e9/4a66a306dcc84afd34288311b11dc5e0242112, attempting plain text parse
+❌ Error parsing plain text .git/objects/e9/4a66a306dcc84afd34288311b11dc5e0242112: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/b7/1633bd059a8f638d513cbe87558050e6d62d81: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 1633bd059a8f638d513cbe87558050e6d62d81 as unknown
+⚠️  Warning: Unknown format for .git/objects/b7/1633bd059a8f638d513cbe87558050e6d62d81, attempting plain text parse
+❌ Error parsing plain text .git/objects/b7/1633bd059a8f638d513cbe87558050e6d62d81: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/38/517235d9e0c34d27e2a7196957fe4c32a98d31: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 517235d9e0c34d27e2a7196957fe4c32a98d31 as unknown
+⚠️  Warning: Unknown format for .git/objects/38/517235d9e0c34d27e2a7196957fe4c32a98d31, attempting plain text parse
+❌ Error parsing plain text .git/objects/38/517235d9e0c34d27e2a7196957fe4c32a98d31: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/8f/1403bb8067136ba7d5c6ebe11951548314d83b: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+📖 Parsing 1403bb8067136ba7d5c6ebe11951548314d83b as unknown
+⚠️  Warning: Unknown format for .git/objects/8f/1403bb8067136ba7d5c6ebe11951548314d83b, attempting plain text parse
+❌ Error parsing plain text .git/objects/8f/1403bb8067136ba7d5c6ebe11951548314d83b: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/8f/8bc089a23c383fd8bdf3bf6ae1bcf16c67f9d4: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 8bc089a23c383fd8bdf3bf6ae1bcf16c67f9d4 as unknown
+⚠️  Warning: Unknown format for .git/objects/8f/8bc089a23c383fd8bdf3bf6ae1bcf16c67f9d4, attempting plain text parse
+❌ Error parsing plain text .git/objects/8f/8bc089a23c383fd8bdf3bf6ae1bcf16c67f9d4: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/98/b0e2382a0d15a5c25788d44adeb648c43472c6: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing b0e2382a0d15a5c25788d44adeb648c43472c6 as unknown
+⚠️  Warning: Unknown format for .git/objects/98/b0e2382a0d15a5c25788d44adeb648c43472c6, attempting plain text parse
+❌ Error parsing plain text .git/objects/98/b0e2382a0d15a5c25788d44adeb648c43472c6: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/98/95f268214ee03f09407f356554257c1b7dfc71: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+📖 Parsing 95f268214ee03f09407f356554257c1b7dfc71 as unknown
+⚠️  Warning: Unknown format for .git/objects/98/95f268214ee03f09407f356554257c1b7dfc71, attempting plain text parse
+❌ Error parsing plain text .git/objects/98/95f268214ee03f09407f356554257c1b7dfc71: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/20/695537e6186d201c606fdc4ebdbfbce3cb7c17: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 695537e6186d201c606fdc4ebdbfbce3cb7c17 as unknown
+⚠️  Warning: Unknown format for .git/objects/20/695537e6186d201c606fdc4ebdbfbce3cb7c17, attempting plain text parse
+❌ Error parsing plain text .git/objects/20/695537e6186d201c606fdc4ebdbfbce3cb7c17: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/cd/259df2996be33d05b41f1cc280105757d72a94: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+📖 Parsing 259df2996be33d05b41f1cc280105757d72a94 as unknown
+⚠️  Warning: Unknown format for .git/objects/cd/259df2996be33d05b41f1cc280105757d72a94, attempting plain text parse
+❌ Error parsing plain text .git/objects/cd/259df2996be33d05b41f1cc280105757d72a94: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/cd/2f202db57150d0c312e4fdc40431ea038e8f3c: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 2f202db57150d0c312e4fdc40431ea038e8f3c as unknown
+⚠️  Warning: Unknown format for .git/objects/cd/2f202db57150d0c312e4fdc40431ea038e8f3c, attempting plain text parse
+❌ Error parsing plain text .git/objects/cd/2f202db57150d0c312e4fdc40431ea038e8f3c: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/0f/c70d5f486703bcd4db472af976ed3e1ab75e4b: 'utf-8' codec can't decode byte 0x85 in position 2: invalid start byte
+📖 Parsing c70d5f486703bcd4db472af976ed3e1ab75e4b as unknown
+⚠️  Warning: Unknown format for .git/objects/0f/c70d5f486703bcd4db472af976ed3e1ab75e4b, attempting plain text parse
+❌ Error parsing plain text .git/objects/0f/c70d5f486703bcd4db472af976ed3e1ab75e4b: 'utf-8' codec can't decode byte 0x85 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/23/31aa3c8c13d081b37a1fb1ff8d4cc0b818430d: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing 31aa3c8c13d081b37a1fb1ff8d4cc0b818430d as unknown
+⚠️  Warning: Unknown format for .git/objects/23/31aa3c8c13d081b37a1fb1ff8d4cc0b818430d, attempting plain text parse
+❌ Error parsing plain text .git/objects/23/31aa3c8c13d081b37a1fb1ff8d4cc0b818430d: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/cc/0b25739cfcbfa435c0d636486f1af20a1d0d69: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 0b25739cfcbfa435c0d636486f1af20a1d0d69 as unknown
+⚠️  Warning: Unknown format for .git/objects/cc/0b25739cfcbfa435c0d636486f1af20a1d0d69, attempting plain text parse
+❌ Error parsing plain text .git/objects/cc/0b25739cfcbfa435c0d636486f1af20a1d0d69: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/cc/541fec553f4d33bd91e2d483a3ca77df940429: 'utf-8' codec can't decode byte 0xd3 in position 6: invalid continuation byte
+📖 Parsing 541fec553f4d33bd91e2d483a3ca77df940429 as unknown
+⚠️  Warning: Unknown format for .git/objects/cc/541fec553f4d33bd91e2d483a3ca77df940429, attempting plain text parse
+❌ Error parsing plain text .git/objects/cc/541fec553f4d33bd91e2d483a3ca77df940429: 'utf-8' codec can't decode byte 0xd3 in position 6: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/b9/697b8d3964862e8c034ddcd3073b90cd068ae6: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+📖 Parsing 697b8d3964862e8c034ddcd3073b90cd068ae6 as unknown
+⚠️  Warning: Unknown format for .git/objects/b9/697b8d3964862e8c034ddcd3073b90cd068ae6, attempting plain text parse
+❌ Error parsing plain text .git/objects/b9/697b8d3964862e8c034ddcd3073b90cd068ae6: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/b9/efc9ddb454a8eb6ec4b98c1229f775164bf144: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing efc9ddb454a8eb6ec4b98c1229f775164bf144 as unknown
+⚠️  Warning: Unknown format for .git/objects/b9/efc9ddb454a8eb6ec4b98c1229f775164bf144, attempting plain text parse
+❌ Error parsing plain text .git/objects/b9/efc9ddb454a8eb6ec4b98c1229f775164bf144: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c8/5bfb689c6f5f5d094b3caad9d035ed3e65de36: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 5bfb689c6f5f5d094b3caad9d035ed3e65de36 as unknown
+⚠️  Warning: Unknown format for .git/objects/c8/5bfb689c6f5f5d094b3caad9d035ed3e65de36, attempting plain text parse
+❌ Error parsing plain text .git/objects/c8/5bfb689c6f5f5d094b3caad9d035ed3e65de36: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d8/713c28170db952f8997245c7fcf0a7f0b92f67: 'utf-8' codec can't decode byte 0xf2 in position 21: invalid continuation byte
+📖 Parsing 713c28170db952f8997245c7fcf0a7f0b92f67 as unknown
+⚠️  Warning: Unknown format for .git/objects/d8/713c28170db952f8997245c7fcf0a7f0b92f67, attempting plain text parse
+❌ Error parsing plain text .git/objects/d8/713c28170db952f8997245c7fcf0a7f0b92f67: 'utf-8' codec can't decode byte 0xf2 in position 21: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/78/22d01233cf7acf924c464f0e7834a253ccaa6d: 'utf-8' codec can't decode byte 0x85 in position 2: invalid start byte
+📖 Parsing 22d01233cf7acf924c464f0e7834a253ccaa6d as unknown
+⚠️  Warning: Unknown format for .git/objects/78/22d01233cf7acf924c464f0e7834a253ccaa6d, attempting plain text parse
+❌ Error parsing plain text .git/objects/78/22d01233cf7acf924c464f0e7834a253ccaa6d: 'utf-8' codec can't decode byte 0x85 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/16/66dd781630000d1ad468e9a9a6131c54556dd3: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+📖 Parsing 66dd781630000d1ad468e9a9a6131c54556dd3 as unknown
+⚠️  Warning: Unknown format for .git/objects/16/66dd781630000d1ad468e9a9a6131c54556dd3, attempting plain text parse
+❌ Error parsing plain text .git/objects/16/66dd781630000d1ad468e9a9a6131c54556dd3: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/8a/d58d716f71f741e71dd658f3009dffbe0a22d5: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing d58d716f71f741e71dd658f3009dffbe0a22d5 as unknown
+⚠️  Warning: Unknown format for .git/objects/8a/d58d716f71f741e71dd658f3009dffbe0a22d5, attempting plain text parse
+❌ Error parsing plain text .git/objects/8a/d58d716f71f741e71dd658f3009dffbe0a22d5: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/75/8c44f9089e345978bbb8b5ebdde6c4631bb198: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 8c44f9089e345978bbb8b5ebdde6c4631bb198 as unknown
+⚠️  Warning: Unknown format for .git/objects/75/8c44f9089e345978bbb8b5ebdde6c4631bb198, attempting plain text parse
+❌ Error parsing plain text .git/objects/75/8c44f9089e345978bbb8b5ebdde6c4631bb198: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/75/a8c4f9e41f733761aec65bc97a654af40ecfb0: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing a8c4f9e41f733761aec65bc97a654af40ecfb0 as unknown
+⚠️  Warning: Unknown format for .git/objects/75/a8c4f9e41f733761aec65bc97a654af40ecfb0, attempting plain text parse
+❌ Error parsing plain text .git/objects/75/a8c4f9e41f733761aec65bc97a654af40ecfb0: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/75/63484a15ac71bb336bbc6a570d2bc4f582d2e8: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 63484a15ac71bb336bbc6a570d2bc4f582d2e8 as unknown
+⚠️  Warning: Unknown format for .git/objects/75/63484a15ac71bb336bbc6a570d2bc4f582d2e8, attempting plain text parse
+❌ Error parsing plain text .git/objects/75/63484a15ac71bb336bbc6a570d2bc4f582d2e8: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/75/d082a1e0b6a974065895c6aed56fdc517185ef: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing d082a1e0b6a974065895c6aed56fdc517185ef as unknown
+⚠️  Warning: Unknown format for .git/objects/75/d082a1e0b6a974065895c6aed56fdc517185ef, attempting plain text parse
+❌ Error parsing plain text .git/objects/75/d082a1e0b6a974065895c6aed56fdc517185ef: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/53/5345f49ab983d31fefe876181dba4c108c5356: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 5345f49ab983d31fefe876181dba4c108c5356 as unknown
+⚠️  Warning: Unknown format for .git/objects/53/5345f49ab983d31fefe876181dba4c108c5356, attempting plain text parse
+❌ Error parsing plain text .git/objects/53/5345f49ab983d31fefe876181dba4c108c5356: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/53/3cf7bd4ae97da77d089f38b1d7249da74543b5: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+📖 Parsing 3cf7bd4ae97da77d089f38b1d7249da74543b5 as unknown
+⚠️  Warning: Unknown format for .git/objects/53/3cf7bd4ae97da77d089f38b1d7249da74543b5, attempting plain text parse
+❌ Error parsing plain text .git/objects/53/3cf7bd4ae97da77d089f38b1d7249da74543b5: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/ef/bb3b420a25600711e17c1b1c7e1759170a0a63: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing bb3b420a25600711e17c1b1c7e1759170a0a63 as unknown
+⚠️  Warning: Unknown format for .git/objects/ef/bb3b420a25600711e17c1b1c7e1759170a0a63, attempting plain text parse
+❌ Error parsing plain text .git/objects/ef/bb3b420a25600711e17c1b1c7e1759170a0a63: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ef/93edd04d91f6d201f30ecc36de5b6dce70a5a9: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 93edd04d91f6d201f30ecc36de5b6dce70a5a9 as unknown
+⚠️  Warning: Unknown format for .git/objects/ef/93edd04d91f6d201f30ecc36de5b6dce70a5a9, attempting plain text parse
+❌ Error parsing plain text .git/objects/ef/93edd04d91f6d201f30ecc36de5b6dce70a5a9: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ef/f55b72a2bfcefb09026a888ac9a9976cb82b40: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing f55b72a2bfcefb09026a888ac9a9976cb82b40 as unknown
+⚠️  Warning: Unknown format for .git/objects/ef/f55b72a2bfcefb09026a888ac9a9976cb82b40, attempting plain text parse
+❌ Error parsing plain text .git/objects/ef/f55b72a2bfcefb09026a888ac9a9976cb82b40: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/18/e3271f83072cdb060d001300828400bc30a3ec: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing e3271f83072cdb060d001300828400bc30a3ec as unknown
+⚠️  Warning: Unknown format for .git/objects/18/e3271f83072cdb060d001300828400bc30a3ec, attempting plain text parse
+❌ Error parsing plain text .git/objects/18/e3271f83072cdb060d001300828400bc30a3ec: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/18/55c5f68385503b01f2833835848808b23b4554: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+📖 Parsing 55c5f68385503b01f2833835848808b23b4554 as unknown
+⚠️  Warning: Unknown format for .git/objects/18/55c5f68385503b01f2833835848808b23b4554, attempting plain text parse
+❌ Error parsing plain text .git/objects/18/55c5f68385503b01f2833835848808b23b4554: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/a9/f0f07e03006c2cd42eabd7ea6f66fde937cb63: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing f0f07e03006c2cd42eabd7ea6f66fde937cb63 as unknown
+⚠️  Warning: Unknown format for .git/objects/a9/f0f07e03006c2cd42eabd7ea6f66fde937cb63, attempting plain text parse
+❌ Error parsing plain text .git/objects/a9/f0f07e03006c2cd42eabd7ea6f66fde937cb63: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/01/20099da4b2d2533c44617d60a8865e74df0d27: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 20099da4b2d2533c44617d60a8865e74df0d27 as unknown
+⚠️  Warning: Unknown format for .git/objects/01/20099da4b2d2533c44617d60a8865e74df0d27, attempting plain text parse
+❌ Error parsing plain text .git/objects/01/20099da4b2d2533c44617d60a8865e74df0d27: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/31/422ef8f1f71adb71a0d4bc829f459139e42acb: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 422ef8f1f71adb71a0d4bc829f459139e42acb as unknown
+⚠️  Warning: Unknown format for .git/objects/31/422ef8f1f71adb71a0d4bc829f459139e42acb, attempting plain text parse
+❌ Error parsing plain text .git/objects/31/422ef8f1f71adb71a0d4bc829f459139e42acb: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/62/02113d1194a90595f0e7fa982a8c527741ab2c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 02113d1194a90595f0e7fa982a8c527741ab2c as unknown
+⚠️  Warning: Unknown format for .git/objects/62/02113d1194a90595f0e7fa982a8c527741ab2c, attempting plain text parse
+❌ Error parsing plain text .git/objects/62/02113d1194a90595f0e7fa982a8c527741ab2c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/0b/4503978501b0194a55bcd56e75670ef1878cc7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 4503978501b0194a55bcd56e75670ef1878cc7 as unknown
+⚠️  Warning: Unknown format for .git/objects/0b/4503978501b0194a55bcd56e75670ef1878cc7, attempting plain text parse
+❌ Error parsing plain text .git/objects/0b/4503978501b0194a55bcd56e75670ef1878cc7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/0b/06555dd20561ef54ec4ebeb0a9a9705829073c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 06555dd20561ef54ec4ebeb0a9a9705829073c as unknown
+⚠️  Warning: Unknown format for .git/objects/0b/06555dd20561ef54ec4ebeb0a9a9705829073c, attempting plain text parse
+❌ Error parsing plain text .git/objects/0b/06555dd20561ef54ec4ebeb0a9a9705829073c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d2/1779bd02d59328ed0de3e02346a12eb5d366fd: 'utf-8' codec can't decode bytes in position 2-3: invalid continuation byte
+📖 Parsing 1779bd02d59328ed0de3e02346a12eb5d366fd as unknown
+⚠️  Warning: Unknown format for .git/objects/d2/1779bd02d59328ed0de3e02346a12eb5d366fd, attempting plain text parse
+❌ Error parsing plain text .git/objects/d2/1779bd02d59328ed0de3e02346a12eb5d366fd: 'utf-8' codec can't decode bytes in position 2-3: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/d2/7a63226287d207ad862d0795e7551f135ed2a1: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 7a63226287d207ad862d0795e7551f135ed2a1 as unknown
+⚠️  Warning: Unknown format for .git/objects/d2/7a63226287d207ad862d0795e7551f135ed2a1, attempting plain text parse
+❌ Error parsing plain text .git/objects/d2/7a63226287d207ad862d0795e7551f135ed2a1: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d2/08217faec47be1b74a2c1765639691a1cec755: 'utf-8' codec can't decode byte 0xb2 in position 8: invalid start byte
+📖 Parsing 08217faec47be1b74a2c1765639691a1cec755 as unknown
+⚠️  Warning: Unknown format for .git/objects/d2/08217faec47be1b74a2c1765639691a1cec755, attempting plain text parse
+❌ Error parsing plain text .git/objects/d2/08217faec47be1b74a2c1765639691a1cec755: 'utf-8' codec can't decode byte 0xb2 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/be/ff5cda1d940d5b409fec87be9d9856e0afaca8: 'utf-8' codec can't decode byte 0x8c in position 3: invalid start byte
+📖 Parsing ff5cda1d940d5b409fec87be9d9856e0afaca8 as unknown
+⚠️  Warning: Unknown format for .git/objects/be/ff5cda1d940d5b409fec87be9d9856e0afaca8, attempting plain text parse
+❌ Error parsing plain text .git/objects/be/ff5cda1d940d5b409fec87be9d9856e0afaca8: 'utf-8' codec can't decode byte 0x8c in position 3: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/be/88a08e2e05202f9e6a79fd7780ae2620b3ce4d: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing 88a08e2e05202f9e6a79fd7780ae2620b3ce4d as unknown
+⚠️  Warning: Unknown format for .git/objects/be/88a08e2e05202f9e6a79fd7780ae2620b3ce4d, attempting plain text parse
+❌ Error parsing plain text .git/objects/be/88a08e2e05202f9e6a79fd7780ae2620b3ce4d: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/be/f85e3f9249f03a35451b02cb9635098be42e2b: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte
+📖 Parsing f85e3f9249f03a35451b02cb9635098be42e2b as unknown
+⚠️  Warning: Unknown format for .git/objects/be/f85e3f9249f03a35451b02cb9635098be42e2b, attempting plain text parse
+❌ Error parsing plain text .git/objects/be/f85e3f9249f03a35451b02cb9635098be42e2b: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/40/30f06b22a31efab1edfcfb432f9ea15abf99d5: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 30f06b22a31efab1edfcfb432f9ea15abf99d5 as unknown
+⚠️  Warning: Unknown format for .git/objects/40/30f06b22a31efab1edfcfb432f9ea15abf99d5, attempting plain text parse
+❌ Error parsing plain text .git/objects/40/30f06b22a31efab1edfcfb432f9ea15abf99d5: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ed/d74df1471e6b8e2f24c8f6af421b0e70fff580: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing d74df1471e6b8e2f24c8f6af421b0e70fff580 as unknown
+⚠️  Warning: Unknown format for .git/objects/ed/d74df1471e6b8e2f24c8f6af421b0e70fff580, attempting plain text parse
+❌ Error parsing plain text .git/objects/ed/d74df1471e6b8e2f24c8f6af421b0e70fff580: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ed/5500632ef73fa7f423ea2415414e7a865a951e: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 5500632ef73fa7f423ea2415414e7a865a951e as unknown
+⚠️  Warning: Unknown format for .git/objects/ed/5500632ef73fa7f423ea2415414e7a865a951e, attempting plain text parse
+❌ Error parsing plain text .git/objects/ed/5500632ef73fa7f423ea2415414e7a865a951e: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/3c/357377bd8f61cec453a13cfacdb601a2580cd7: 'utf-8' codec can't decode byte 0xc9 in position 18: invalid continuation byte
+📖 Parsing 357377bd8f61cec453a13cfacdb601a2580cd7 as unknown
+⚠️  Warning: Unknown format for .git/objects/3c/357377bd8f61cec453a13cfacdb601a2580cd7, attempting plain text parse
+❌ Error parsing plain text .git/objects/3c/357377bd8f61cec453a13cfacdb601a2580cd7: 'utf-8' codec can't decode byte 0xc9 in position 18: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/3c/b1030237cc143c92e30b1d2277f71325bfdbc6: 'utf-8' codec can't decode byte 0xf2 in position 21: invalid continuation byte
+📖 Parsing b1030237cc143c92e30b1d2277f71325bfdbc6 as unknown
+⚠️  Warning: Unknown format for .git/objects/3c/b1030237cc143c92e30b1d2277f71325bfdbc6, attempting plain text parse
+❌ Error parsing plain text .git/objects/3c/b1030237cc143c92e30b1d2277f71325bfdbc6: 'utf-8' codec can't decode byte 0xf2 in position 21: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/3c/9e64b96f9f89ca9b4bb1e5853055a00e4f1668: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 9e64b96f9f89ca9b4bb1e5853055a00e4f1668 as unknown
+⚠️  Warning: Unknown format for .git/objects/3c/9e64b96f9f89ca9b4bb1e5853055a00e4f1668, attempting plain text parse
+❌ Error parsing plain text .git/objects/3c/9e64b96f9f89ca9b4bb1e5853055a00e4f1668: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/f9/0201346bf4b5ba4123a1d1dabca2a4ad5562de: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 0201346bf4b5ba4123a1d1dabca2a4ad5562de as unknown
+⚠️  Warning: Unknown format for .git/objects/f9/0201346bf4b5ba4123a1d1dabca2a4ad5562de, attempting plain text parse
+❌ Error parsing plain text .git/objects/f9/0201346bf4b5ba4123a1d1dabca2a4ad5562de: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/9a/743b7a3144e5e26adcbd0a3d830defca718557: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing 743b7a3144e5e26adcbd0a3d830defca718557 as unknown
+⚠️  Warning: Unknown format for .git/objects/9a/743b7a3144e5e26adcbd0a3d830defca718557, attempting plain text parse
+❌ Error parsing plain text .git/objects/9a/743b7a3144e5e26adcbd0a3d830defca718557: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/8e/40aa81d6fa8c63e37cee40cf7ccdcc86435d39: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 40aa81d6fa8c63e37cee40cf7ccdcc86435d39 as unknown
+⚠️  Warning: Unknown format for .git/objects/8e/40aa81d6fa8c63e37cee40cf7ccdcc86435d39, attempting plain text parse
+❌ Error parsing plain text .git/objects/8e/40aa81d6fa8c63e37cee40cf7ccdcc86435d39: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/f0/78fc9661f89ac61facc314b8763a4ddcafde82: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 78fc9661f89ac61facc314b8763a4ddcafde82 as unknown
+⚠️  Warning: Unknown format for .git/objects/f0/78fc9661f89ac61facc314b8763a4ddcafde82, attempting plain text parse
+❌ Error parsing plain text .git/objects/f0/78fc9661f89ac61facc314b8763a4ddcafde82: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/f0/8f96f62047c21c17adb74bde08b12d91c92552: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 8f96f62047c21c17adb74bde08b12d91c92552 as unknown
+⚠️  Warning: Unknown format for .git/objects/f0/8f96f62047c21c17adb74bde08b12d91c92552, attempting plain text parse
+❌ Error parsing plain text .git/objects/f0/8f96f62047c21c17adb74bde08b12d91c92552: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/3f/8bb22d2da85519c86dd0e31d3e3f9b90fd73a0: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 8bb22d2da85519c86dd0e31d3e3f9b90fd73a0 as unknown
+⚠️  Warning: Unknown format for .git/objects/3f/8bb22d2da85519c86dd0e31d3e3f9b90fd73a0, attempting plain text parse
+❌ Error parsing plain text .git/objects/3f/8bb22d2da85519c86dd0e31d3e3f9b90fd73a0: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/3f/8fff55eaad0ae97032de472b2a72c7bd444eb9: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+📖 Parsing 8fff55eaad0ae97032de472b2a72c7bd444eb9 as unknown
+⚠️  Warning: Unknown format for .git/objects/3f/8fff55eaad0ae97032de472b2a72c7bd444eb9, attempting plain text parse
+❌ Error parsing plain text .git/objects/3f/8fff55eaad0ae97032de472b2a72c7bd444eb9: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/88/d2f06819ed306e074810f99133b0ea945d9201: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing d2f06819ed306e074810f99133b0ea945d9201 as unknown
+⚠️  Warning: Unknown format for .git/objects/88/d2f06819ed306e074810f99133b0ea945d9201, attempting plain text parse
+❌ Error parsing plain text .git/objects/88/d2f06819ed306e074810f99133b0ea945d9201: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/88/ba17687409cf0ac937fcb8f2aff78364bc4405: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing ba17687409cf0ac937fcb8f2aff78364bc4405 as unknown
+⚠️  Warning: Unknown format for .git/objects/88/ba17687409cf0ac937fcb8f2aff78364bc4405, attempting plain text parse
+❌ Error parsing plain text .git/objects/88/ba17687409cf0ac937fcb8f2aff78364bc4405: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c0/a69f92df360dd8e9617f67fb7bba665eee5c33: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing a69f92df360dd8e9617f67fb7bba665eee5c33 as unknown
+⚠️  Warning: Unknown format for .git/objects/c0/a69f92df360dd8e9617f67fb7bba665eee5c33, attempting plain text parse
+❌ Error parsing plain text .git/objects/c0/a69f92df360dd8e9617f67fb7bba665eee5c33: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c0/ef5e2195022d284549be2de68d66c8b460bb42: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+📖 Parsing ef5e2195022d284549be2de68d66c8b460bb42 as unknown
+⚠️  Warning: Unknown format for .git/objects/c0/ef5e2195022d284549be2de68d66c8b460bb42, attempting plain text parse
+❌ Error parsing plain text .git/objects/c0/ef5e2195022d284549be2de68d66c8b460bb42: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/07/e1cf0901bbcd72420e22c0f4a0f8265e1f17b6: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing e1cf0901bbcd72420e22c0f4a0f8265e1f17b6 as unknown
+⚠️  Warning: Unknown format for .git/objects/07/e1cf0901bbcd72420e22c0f4a0f8265e1f17b6, attempting plain text parse
+❌ Error parsing plain text .git/objects/07/e1cf0901bbcd72420e22c0f4a0f8265e1f17b6: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/42/bc9a202a540f002febc46e173afc9c512ca17b: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+📖 Parsing bc9a202a540f002febc46e173afc9c512ca17b as unknown
+⚠️  Warning: Unknown format for .git/objects/42/bc9a202a540f002febc46e173afc9c512ca17b, attempting plain text parse
+❌ Error parsing plain text .git/objects/42/bc9a202a540f002febc46e173afc9c512ca17b: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/42/de465a383644d4ff7f02ead21342a2f54fb270: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+📖 Parsing de465a383644d4ff7f02ead21342a2f54fb270 as unknown
+⚠️  Warning: Unknown format for .git/objects/42/de465a383644d4ff7f02ead21342a2f54fb270, attempting plain text parse
+❌ Error parsing plain text .git/objects/42/de465a383644d4ff7f02ead21342a2f54fb270: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/59/6282ed8a9821903fcd17c6f6302ef9300998bc: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+📖 Parsing 6282ed8a9821903fcd17c6f6302ef9300998bc as unknown
+⚠️  Warning: Unknown format for .git/objects/59/6282ed8a9821903fcd17c6f6302ef9300998bc, attempting plain text parse
+❌ Error parsing plain text .git/objects/59/6282ed8a9821903fcd17c6f6302ef9300998bc: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/59/8e5804f9d03557d6de05e789f98151f75f7b63: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 8e5804f9d03557d6de05e789f98151f75f7b63 as unknown
+⚠️  Warning: Unknown format for .git/objects/59/8e5804f9d03557d6de05e789f98151f75f7b63, attempting plain text parse
+❌ Error parsing plain text .git/objects/59/8e5804f9d03557d6de05e789f98151f75f7b63: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/59/9845fc6d743133d4ed5241e68786e167da683c: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing 9845fc6d743133d4ed5241e68786e167da683c as unknown
+⚠️  Warning: Unknown format for .git/objects/59/9845fc6d743133d4ed5241e68786e167da683c, attempting plain text parse
+❌ Error parsing plain text .git/objects/59/9845fc6d743133d4ed5241e68786e167da683c: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/49/04059435558dd0d5cb981fd464b193878e1e7e: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 04059435558dd0d5cb981fd464b193878e1e7e as unknown
+⚠️  Warning: Unknown format for .git/objects/49/04059435558dd0d5cb981fd464b193878e1e7e, attempting plain text parse
+❌ Error parsing plain text .git/objects/49/04059435558dd0d5cb981fd464b193878e1e7e: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/2a/5f07e7dff367d45bf2bf3abd3703d3ff4177af: 'utf-8' codec can't decode byte 0xb4 in position 9: invalid start byte
+📖 Parsing 5f07e7dff367d45bf2bf3abd3703d3ff4177af as unknown
+⚠️  Warning: Unknown format for .git/objects/2a/5f07e7dff367d45bf2bf3abd3703d3ff4177af, attempting plain text parse
+❌ Error parsing plain text .git/objects/2a/5f07e7dff367d45bf2bf3abd3703d3ff4177af: 'utf-8' codec can't decode byte 0xb4 in position 9: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/13/86e2cd2b4e2f17bebe07c4f1776c1565ce2da1: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 86e2cd2b4e2f17bebe07c4f1776c1565ce2da1 as unknown
+⚠️  Warning: Unknown format for .git/objects/13/86e2cd2b4e2f17bebe07c4f1776c1565ce2da1, attempting plain text parse
+❌ Error parsing plain text .git/objects/13/86e2cd2b4e2f17bebe07c4f1776c1565ce2da1: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/4a/0efc846c628f3ec780abd6ab945541f80ecb0a: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 0efc846c628f3ec780abd6ab945541f80ecb0a as unknown
+⚠️  Warning: Unknown format for .git/objects/4a/0efc846c628f3ec780abd6ab945541f80ecb0a, attempting plain text parse
+❌ Error parsing plain text .git/objects/4a/0efc846c628f3ec780abd6ab945541f80ecb0a: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/1e/c618c6b40cfb8cc134edbe4e0a5d33ec41a39e: 'utf-8' codec can't decode byte 0x8c in position 19: invalid start byte
+📖 Parsing c618c6b40cfb8cc134edbe4e0a5d33ec41a39e as unknown
+⚠️  Warning: Unknown format for .git/objects/1e/c618c6b40cfb8cc134edbe4e0a5d33ec41a39e, attempting plain text parse
+❌ Error parsing plain text .git/objects/1e/c618c6b40cfb8cc134edbe4e0a5d33ec41a39e: 'utf-8' codec can't decode byte 0x8c in position 19: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/1e/a5158c10853de198274fa5c1cd3c15d4d2e1a2: 'utf-8' codec can't decode byte 0xb6 in position 8: invalid start byte
+📖 Parsing a5158c10853de198274fa5c1cd3c15d4d2e1a2 as unknown
+⚠️  Warning: Unknown format for .git/objects/1e/a5158c10853de198274fa5c1cd3c15d4d2e1a2, attempting plain text parse
+❌ Error parsing plain text .git/objects/1e/a5158c10853de198274fa5c1cd3c15d4d2e1a2: 'utf-8' codec can't decode byte 0xb6 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/a5/f092a57b66a0645ae3e9c9f9ba30fc24b7487b: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing f092a57b66a0645ae3e9c9f9ba30fc24b7487b as unknown
+⚠️  Warning: Unknown format for .git/objects/a5/f092a57b66a0645ae3e9c9f9ba30fc24b7487b, attempting plain text parse
+❌ Error parsing plain text .git/objects/a5/f092a57b66a0645ae3e9c9f9ba30fc24b7487b: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/67/e026086e4b09602ce0a4ac1a81b666fe0249d6: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing e026086e4b09602ce0a4ac1a81b666fe0249d6 as unknown
+⚠️  Warning: Unknown format for .git/objects/67/e026086e4b09602ce0a4ac1a81b666fe0249d6, attempting plain text parse
+❌ Error parsing plain text .git/objects/67/e026086e4b09602ce0a4ac1a81b666fe0249d6: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/67/4e945d00cbb988a4d1a7857aec4cb8d8839d63: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 4e945d00cbb988a4d1a7857aec4cb8d8839d63 as unknown
+⚠️  Warning: Unknown format for .git/objects/67/4e945d00cbb988a4d1a7857aec4cb8d8839d63, attempting plain text parse
+❌ Error parsing plain text .git/objects/67/4e945d00cbb988a4d1a7857aec4cb8d8839d63: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/2b/1f58a34dad4e1048794c0264259ea4f2571be0: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+📖 Parsing 1f58a34dad4e1048794c0264259ea4f2571be0 as unknown
+⚠️  Warning: Unknown format for .git/objects/2b/1f58a34dad4e1048794c0264259ea4f2571be0, attempting plain text parse
+❌ Error parsing plain text .git/objects/2b/1f58a34dad4e1048794c0264259ea4f2571be0: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/2b/e4a2a2dde8dc69495f586f7bf5cd3574104a85: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+📖 Parsing e4a2a2dde8dc69495f586f7bf5cd3574104a85 as unknown
+⚠️  Warning: Unknown format for .git/objects/2b/e4a2a2dde8dc69495f586f7bf5cd3574104a85, attempting plain text parse
+❌ Error parsing plain text .git/objects/2b/e4a2a2dde8dc69495f586f7bf5cd3574104a85: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/57/c7145650f3b9b672b3a905e0d575bcab0d0824: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing c7145650f3b9b672b3a905e0d575bcab0d0824 as unknown
+⚠️  Warning: Unknown format for .git/objects/57/c7145650f3b9b672b3a905e0d575bcab0d0824, attempting plain text parse
+❌ Error parsing plain text .git/objects/57/c7145650f3b9b672b3a905e0d575bcab0d0824: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/a0/dbd721c57c5d292c71e8705ed7cb4096592175: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing dbd721c57c5d292c71e8705ed7cb4096592175 as unknown
+⚠️  Warning: Unknown format for .git/objects/a0/dbd721c57c5d292c71e8705ed7cb4096592175, attempting plain text parse
+❌ Error parsing plain text .git/objects/a0/dbd721c57c5d292c71e8705ed7cb4096592175: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/82/c749fe2cda8afb8e921797cce3bc485f992e6e: 'utf-8' codec can't decode byte 0xb6 in position 8: invalid start byte
+📖 Parsing c749fe2cda8afb8e921797cce3bc485f992e6e as unknown
+⚠️  Warning: Unknown format for .git/objects/82/c749fe2cda8afb8e921797cce3bc485f992e6e, attempting plain text parse
+❌ Error parsing plain text .git/objects/82/c749fe2cda8afb8e921797cce3bc485f992e6e: 'utf-8' codec can't decode byte 0xb6 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/82/2e0ec4820d591a0c531723c1527c8b3a3d1aae: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+📖 Parsing 2e0ec4820d591a0c531723c1527c8b3a3d1aae as unknown
+⚠️  Warning: Unknown format for .git/objects/82/2e0ec4820d591a0c531723c1527c8b3a3d1aae, attempting plain text parse
+❌ Error parsing plain text .git/objects/82/2e0ec4820d591a0c531723c1527c8b3a3d1aae: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/17/ce1401ed41ba20f6f21962740e179dc3c94e6e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing ce1401ed41ba20f6f21962740e179dc3c94e6e as unknown
+⚠️  Warning: Unknown format for .git/objects/17/ce1401ed41ba20f6f21962740e179dc3c94e6e, attempting plain text parse
+❌ Error parsing plain text .git/objects/17/ce1401ed41ba20f6f21962740e179dc3c94e6e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/17/2ab263b0195012eb80bf337120fc2c494a15c8: 'utf-8' codec can't decode bytes in position 2-3: invalid continuation byte
+📖 Parsing 2ab263b0195012eb80bf337120fc2c494a15c8 as unknown
+⚠️  Warning: Unknown format for .git/objects/17/2ab263b0195012eb80bf337120fc2c494a15c8, attempting plain text parse
+❌ Error parsing plain text .git/objects/17/2ab263b0195012eb80bf337120fc2c494a15c8: 'utf-8' codec can't decode bytes in position 2-3: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/2f/b6960f8b49f00302240ee11cb6eed75572b37f: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing b6960f8b49f00302240ee11cb6eed75572b37f as unknown
+⚠️  Warning: Unknown format for .git/objects/2f/b6960f8b49f00302240ee11cb6eed75572b37f, attempting plain text parse
+❌ Error parsing plain text .git/objects/2f/b6960f8b49f00302240ee11cb6eed75572b37f: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/66/26ac90c34b20eb877451c3379c49f51bc9e3fd: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing 26ac90c34b20eb877451c3379c49f51bc9e3fd as unknown
+⚠️  Warning: Unknown format for .git/objects/66/26ac90c34b20eb877451c3379c49f51bc9e3fd, attempting plain text parse
+❌ Error parsing plain text .git/objects/66/26ac90c34b20eb877451c3379c49f51bc9e3fd: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/7b/2886a9ae02a919a5195c90350bdea355fb72f3: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 2886a9ae02a919a5195c90350bdea355fb72f3 as unknown
+⚠️  Warning: Unknown format for .git/objects/7b/2886a9ae02a919a5195c90350bdea355fb72f3, attempting plain text parse
+❌ Error parsing plain text .git/objects/7b/2886a9ae02a919a5195c90350bdea355fb72f3: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/30/e0b818998e87feb91946968f5a50438831ec74: 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+📖 Parsing e0b818998e87feb91946968f5a50438831ec74 as unknown
+⚠️  Warning: Unknown format for .git/objects/30/e0b818998e87feb91946968f5a50438831ec74, attempting plain text parse
+❌ Error parsing plain text .git/objects/30/e0b818998e87feb91946968f5a50438831ec74: 'utf-8' codec can't decode byte 0xca in position 19: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/30/2b132fe5c2c3380bde9561de72f3b4c5e608d7: 'utf-8' codec can't decode byte 0xdb in position 4: invalid continuation byte
+📖 Parsing 2b132fe5c2c3380bde9561de72f3b4c5e608d7 as unknown
+⚠️  Warning: Unknown format for .git/objects/30/2b132fe5c2c3380bde9561de72f3b4c5e608d7, attempting plain text parse
+❌ Error parsing plain text .git/objects/30/2b132fe5c2c3380bde9561de72f3b4c5e608d7: 'utf-8' codec can't decode byte 0xdb in position 4: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/26/20b2f4d9dd0ebd34174cf9dac6f437fe62f2d5: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing 20b2f4d9dd0ebd34174cf9dac6f437fe62f2d5 as unknown
+⚠️  Warning: Unknown format for .git/objects/26/20b2f4d9dd0ebd34174cf9dac6f437fe62f2d5, attempting plain text parse
+❌ Error parsing plain text .git/objects/26/20b2f4d9dd0ebd34174cf9dac6f437fe62f2d5: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/26/fee9e37b6c019f0fec3d752ae1a4edca6e9948: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing fee9e37b6c019f0fec3d752ae1a4edca6e9948 as unknown
+⚠️  Warning: Unknown format for .git/objects/26/fee9e37b6c019f0fec3d752ae1a4edca6e9948, attempting plain text parse
+❌ Error parsing plain text .git/objects/26/fee9e37b6c019f0fec3d752ae1a4edca6e9948: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/26/728691fc00c5eacba9f8bae16b3b794341b2b2: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing 728691fc00c5eacba9f8bae16b3b794341b2b2 as unknown
+⚠️  Warning: Unknown format for .git/objects/26/728691fc00c5eacba9f8bae16b3b794341b2b2, attempting plain text parse
+❌ Error parsing plain text .git/objects/26/728691fc00c5eacba9f8bae16b3b794341b2b2: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/83/4e986e5fe748336b785b15b63a687056f12809: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+📖 Parsing 4e986e5fe748336b785b15b63a687056f12809 as unknown
+⚠️  Warning: Unknown format for .git/objects/83/4e986e5fe748336b785b15b63a687056f12809, attempting plain text parse
+❌ Error parsing plain text .git/objects/83/4e986e5fe748336b785b15b63a687056f12809: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/0c/c9914150c1cf9958e3b6c50bab8ca08dedd02e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing c9914150c1cf9958e3b6c50bab8ca08dedd02e as unknown
+⚠️  Warning: Unknown format for .git/objects/0c/c9914150c1cf9958e3b6c50bab8ca08dedd02e, attempting plain text parse
+❌ Error parsing plain text .git/objects/0c/c9914150c1cf9958e3b6c50bab8ca08dedd02e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/05/2d0a5e3ed4b8c35447338c03c9a108cd345f6c: 'utf-8' codec can't decode byte 0xad in position 18: invalid start byte
+📖 Parsing 2d0a5e3ed4b8c35447338c03c9a108cd345f6c as unknown
+⚠️  Warning: Unknown format for .git/objects/05/2d0a5e3ed4b8c35447338c03c9a108cd345f6c, attempting plain text parse
+❌ Error parsing plain text .git/objects/05/2d0a5e3ed4b8c35447338c03c9a108cd345f6c: 'utf-8' codec can't decode byte 0xad in position 18: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/f3/e70921651d28eac3125aba4fad53221de93ecc: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing e70921651d28eac3125aba4fad53221de93ecc as unknown
+⚠️  Warning: Unknown format for .git/objects/f3/e70921651d28eac3125aba4fad53221de93ecc, attempting plain text parse
+❌ Error parsing plain text .git/objects/f3/e70921651d28eac3125aba4fad53221de93ecc: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/f3/061551a5a4f52917568b19f7eca0b22023cc9f: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 061551a5a4f52917568b19f7eca0b22023cc9f as unknown
+⚠️  Warning: Unknown format for .git/objects/f3/061551a5a4f52917568b19f7eca0b22023cc9f, attempting plain text parse
+❌ Error parsing plain text .git/objects/f3/061551a5a4f52917568b19f7eca0b22023cc9f: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/bd/fdd59e35fd95b9a1704418c7cce90f56b7bfba: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing fdd59e35fd95b9a1704418c7cce90f56b7bfba as unknown
+⚠️  Warning: Unknown format for .git/objects/bd/fdd59e35fd95b9a1704418c7cce90f56b7bfba, attempting plain text parse
+❌ Error parsing plain text .git/objects/bd/fdd59e35fd95b9a1704418c7cce90f56b7bfba: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d4/6e3c856fc4404a47edf6e936b6f1a14852791b: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+📖 Parsing 6e3c856fc4404a47edf6e936b6f1a14852791b as unknown
+⚠️  Warning: Unknown format for .git/objects/d4/6e3c856fc4404a47edf6e936b6f1a14852791b, attempting plain text parse
+❌ Error parsing plain text .git/objects/d4/6e3c856fc4404a47edf6e936b6f1a14852791b: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/0e/13f130ddbcf5525e6d7a946a7223bcc2a861d9: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing 13f130ddbcf5525e6d7a946a7223bcc2a861d9 as unknown
+⚠️  Warning: Unknown format for .git/objects/0e/13f130ddbcf5525e6d7a946a7223bcc2a861d9, attempting plain text parse
+❌ Error parsing plain text .git/objects/0e/13f130ddbcf5525e6d7a946a7223bcc2a861d9: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/0e/220d06fb5d39e7739f51f08e8f827d7c766644: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 220d06fb5d39e7739f51f08e8f827d7c766644 as unknown
+⚠️  Warning: Unknown format for .git/objects/0e/220d06fb5d39e7739f51f08e8f827d7c766644, attempting plain text parse
+❌ Error parsing plain text .git/objects/0e/220d06fb5d39e7739f51f08e8f827d7c766644: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/04/a0a81f4f9a7e7d04d247afd83d5c883463e5f1: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing a0a81f4f9a7e7d04d247afd83d5c883463e5f1 as unknown
+⚠️  Warning: Unknown format for .git/objects/04/a0a81f4f9a7e7d04d247afd83d5c883463e5f1, attempting plain text parse
+❌ Error parsing plain text .git/objects/04/a0a81f4f9a7e7d04d247afd83d5c883463e5f1: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/04/9e99956b92104af11512ac0de7ccfe6c411eaa: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 9e99956b92104af11512ac0de7ccfe6c411eaa as unknown
+⚠️  Warning: Unknown format for .git/objects/04/9e99956b92104af11512ac0de7ccfe6c411eaa, attempting plain text parse
+❌ Error parsing plain text .git/objects/04/9e99956b92104af11512ac0de7ccfe6c411eaa: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e8/ba603e9689824b1d11534c0e04958096bc217f: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing ba603e9689824b1d11534c0e04958096bc217f as unknown
+⚠️  Warning: Unknown format for .git/objects/e8/ba603e9689824b1d11534c0e04958096bc217f, attempting plain text parse
+❌ Error parsing plain text .git/objects/e8/ba603e9689824b1d11534c0e04958096bc217f: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e8/6fb5e725e672914a1a2e5cd2867626d93df3f2: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 6fb5e725e672914a1a2e5cd2867626d93df3f2 as unknown
+⚠️  Warning: Unknown format for .git/objects/e8/6fb5e725e672914a1a2e5cd2867626d93df3f2, attempting plain text parse
+❌ Error parsing plain text .git/objects/e8/6fb5e725e672914a1a2e5cd2867626d93df3f2: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e8/1d0714fd32f7e4079975d9444b32e8622bf661: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 1d0714fd32f7e4079975d9444b32e8622bf661 as unknown
+⚠️  Warning: Unknown format for .git/objects/e8/1d0714fd32f7e4079975d9444b32e8622bf661, attempting plain text parse
+❌ Error parsing plain text .git/objects/e8/1d0714fd32f7e4079975d9444b32e8622bf661: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e5/9602dd62dd1f753b80d8f40ada9ef58424c59e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 9602dd62dd1f753b80d8f40ada9ef58424c59e as unknown
+⚠️  Warning: Unknown format for .git/objects/e5/9602dd62dd1f753b80d8f40ada9ef58424c59e, attempting plain text parse
+❌ Error parsing plain text .git/objects/e5/9602dd62dd1f753b80d8f40ada9ef58424c59e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e5/ee9d3e8310fe12df0af36e0acd4935b0e595a6: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing ee9d3e8310fe12df0af36e0acd4935b0e595a6 as unknown
+⚠️  Warning: Unknown format for .git/objects/e5/ee9d3e8310fe12df0af36e0acd4935b0e595a6, attempting plain text parse
+❌ Error parsing plain text .git/objects/e5/ee9d3e8310fe12df0af36e0acd4935b0e595a6: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/41/67dea72390a3e3c2027e10601050217cf5863d: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+📖 Parsing 67dea72390a3e3c2027e10601050217cf5863d as unknown
+⚠️  Warning: Unknown format for .git/objects/41/67dea72390a3e3c2027e10601050217cf5863d, attempting plain text parse
+❌ Error parsing plain text .git/objects/41/67dea72390a3e3c2027e10601050217cf5863d: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/95/7119651139c0c58fa1bc19766a42441de407f8: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing 7119651139c0c58fa1bc19766a42441de407f8 as unknown
+⚠️  Warning: Unknown format for .git/objects/95/7119651139c0c58fa1bc19766a42441de407f8, attempting plain text parse
+❌ Error parsing plain text .git/objects/95/7119651139c0c58fa1bc19766a42441de407f8: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/a8/09068736a0987b180e75b65dbfb5595522e1b8: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+📖 Parsing 09068736a0987b180e75b65dbfb5595522e1b8 as unknown
+⚠️  Warning: Unknown format for .git/objects/a8/09068736a0987b180e75b65dbfb5595522e1b8, attempting plain text parse
+❌ Error parsing plain text .git/objects/a8/09068736a0987b180e75b65dbfb5595522e1b8: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ab/0368f3381875ad7632801aef855a5f8469a447: 'utf-8' codec can't decode byte 0xf0 in position 19: invalid continuation byte
+📖 Parsing 0368f3381875ad7632801aef855a5f8469a447 as unknown
+⚠️  Warning: Unknown format for .git/objects/ab/0368f3381875ad7632801aef855a5f8469a447, attempting plain text parse
+❌ Error parsing plain text .git/objects/ab/0368f3381875ad7632801aef855a5f8469a447: 'utf-8' codec can't decode byte 0xf0 in position 19: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/ab/6ddfefe34bad1d148b4babbbb1cc0069636385: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 6ddfefe34bad1d148b4babbbb1cc0069636385 as unknown
+⚠️  Warning: Unknown format for .git/objects/ab/6ddfefe34bad1d148b4babbbb1cc0069636385, attempting plain text parse
+❌ Error parsing plain text .git/objects/ab/6ddfefe34bad1d148b4babbbb1cc0069636385: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ae/c4eae9a80c34dea2e8c7a9a8ce7e4d7d75e267: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+📖 Parsing c4eae9a80c34dea2e8c7a9a8ce7e4d7d75e267 as unknown
+⚠️  Warning: Unknown format for .git/objects/ae/c4eae9a80c34dea2e8c7a9a8ce7e4d7d75e267, attempting plain text parse
+❌ Error parsing plain text .git/objects/ae/c4eae9a80c34dea2e8c7a9a8ce7e4d7d75e267: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/ae/ac927c456f5753dc433f25e1e5b3a3b099d0fa: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing ac927c456f5753dc433f25e1e5b3a3b099d0fa as unknown
+⚠️  Warning: Unknown format for .git/objects/ae/ac927c456f5753dc433f25e1e5b3a3b099d0fa, attempting plain text parse
+❌ Error parsing plain text .git/objects/ae/ac927c456f5753dc433f25e1e5b3a3b099d0fa: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ae/2c27bcea660bc7510595e7de9557d053c09530: 'utf-8' codec can't decode byte 0xf2 in position 21: invalid continuation byte
+📖 Parsing 2c27bcea660bc7510595e7de9557d053c09530 as unknown
+⚠️  Warning: Unknown format for .git/objects/ae/2c27bcea660bc7510595e7de9557d053c09530, attempting plain text parse
+❌ Error parsing plain text .git/objects/ae/2c27bcea660bc7510595e7de9557d053c09530: 'utf-8' codec can't decode byte 0xf2 in position 21: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/00/8311a36aac38e149d3a275075494d75a8b08b9: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 8311a36aac38e149d3a275075494d75a8b08b9 as unknown
+⚠️  Warning: Unknown format for .git/objects/00/8311a36aac38e149d3a275075494d75a8b08b9, attempting plain text parse
+❌ Error parsing plain text .git/objects/00/8311a36aac38e149d3a275075494d75a8b08b9: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/00/6b8dca8af8e0e8faec0a98077e6d85a464a3d5: 'utf-8' codec can't decode byte 0xcd in position 4: invalid continuation byte
+📖 Parsing 6b8dca8af8e0e8faec0a98077e6d85a464a3d5 as unknown
+⚠️  Warning: Unknown format for .git/objects/00/6b8dca8af8e0e8faec0a98077e6d85a464a3d5, attempting plain text parse
+❌ Error parsing plain text .git/objects/00/6b8dca8af8e0e8faec0a98077e6d85a464a3d5: 'utf-8' codec can't decode byte 0xcd in position 4: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/00/638d06c89251335aedaaa597f882ba83e8abe2: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+📖 Parsing 638d06c89251335aedaaa597f882ba83e8abe2 as unknown
+⚠️  Warning: Unknown format for .git/objects/00/638d06c89251335aedaaa597f882ba83e8abe2, attempting plain text parse
+❌ Error parsing plain text .git/objects/00/638d06c89251335aedaaa597f882ba83e8abe2: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/09/943faf21672a4c9edf66a3085564a9f8cb74e3: 'utf-8' codec can't decode byte 0xe5 in position 2: invalid continuation byte
+📖 Parsing 943faf21672a4c9edf66a3085564a9f8cb74e3 as unknown
+⚠️  Warning: Unknown format for .git/objects/09/943faf21672a4c9edf66a3085564a9f8cb74e3, attempting plain text parse
+❌ Error parsing plain text .git/objects/09/943faf21672a4c9edf66a3085564a9f8cb74e3: 'utf-8' codec can't decode byte 0xe5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/09/f2c91c894726bcefe04eb09798f189a490174c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing f2c91c894726bcefe04eb09798f189a490174c as unknown
+⚠️  Warning: Unknown format for .git/objects/09/f2c91c894726bcefe04eb09798f189a490174c, attempting plain text parse
+❌ Error parsing plain text .git/objects/09/f2c91c894726bcefe04eb09798f189a490174c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/09/d5b80fdf73999f06389d3661bba3a71559f201: 'utf-8' codec can't decode byte 0xed in position 2: invalid continuation byte
+📖 Parsing d5b80fdf73999f06389d3661bba3a71559f201 as unknown
+⚠️  Warning: Unknown format for .git/objects/09/d5b80fdf73999f06389d3661bba3a71559f201, attempting plain text parse
+❌ Error parsing plain text .git/objects/09/d5b80fdf73999f06389d3661bba3a71559f201: 'utf-8' codec can't decode byte 0xed in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/ea/61ef8a0d6ff5a35c5bd91eba970dcecc399ff7: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 61ef8a0d6ff5a35c5bd91eba970dcecc399ff7 as unknown
+⚠️  Warning: Unknown format for .git/objects/ea/61ef8a0d6ff5a35c5bd91eba970dcecc399ff7, attempting plain text parse
+❌ Error parsing plain text .git/objects/ea/61ef8a0d6ff5a35c5bd91eba970dcecc399ff7: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ea/60b69ac366a015afda98915af8f87936884e63: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 60b69ac366a015afda98915af8f87936884e63 as unknown
+⚠️  Warning: Unknown format for .git/objects/ea/60b69ac366a015afda98915af8f87936884e63, attempting plain text parse
+❌ Error parsing plain text .git/objects/ea/60b69ac366a015afda98915af8f87936884e63: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/f8/f7e2fbdc0df40f729ff27677fc821cc72d4286: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+📖 Parsing f7e2fbdc0df40f729ff27677fc821cc72d4286 as unknown
+⚠️  Warning: Unknown format for .git/objects/f8/f7e2fbdc0df40f729ff27677fc821cc72d4286, attempting plain text parse
+❌ Error parsing plain text .git/objects/f8/f7e2fbdc0df40f729ff27677fc821cc72d4286: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/84/c45b312f32e4cb507b5609c8132c6be19ca543: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+📖 Parsing c45b312f32e4cb507b5609c8132c6be19ca543 as unknown
+⚠️  Warning: Unknown format for .git/objects/84/c45b312f32e4cb507b5609c8132c6be19ca543, attempting plain text parse
+❌ Error parsing plain text .git/objects/84/c45b312f32e4cb507b5609c8132c6be19ca543: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/36/4990addaa169753add0ffb03417c47b28e0971: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 4990addaa169753add0ffb03417c47b28e0971 as unknown
+⚠️  Warning: Unknown format for .git/objects/36/4990addaa169753add0ffb03417c47b28e0971, attempting plain text parse
+❌ Error parsing plain text .git/objects/36/4990addaa169753add0ffb03417c47b28e0971: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/70/c78a9fcb0b7c1e4815e105b240e7085a13293f: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+📖 Parsing c78a9fcb0b7c1e4815e105b240e7085a13293f as unknown
+⚠️  Warning: Unknown format for .git/objects/70/c78a9fcb0b7c1e4815e105b240e7085a13293f, attempting plain text parse
+❌ Error parsing plain text .git/objects/70/c78a9fcb0b7c1e4815e105b240e7085a13293f: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/61/ec0048d3e80acf7f253947598e776817bebbe6: 'utf-8' codec can't decode byte 0xce in position 19: invalid continuation byte
+📖 Parsing ec0048d3e80acf7f253947598e776817bebbe6 as unknown
+⚠️  Warning: Unknown format for .git/objects/61/ec0048d3e80acf7f253947598e776817bebbe6, attempting plain text parse
+❌ Error parsing plain text .git/objects/61/ec0048d3e80acf7f253947598e776817bebbe6: 'utf-8' codec can't decode byte 0xce in position 19: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/d9/90a6171d76dfdd5054d9b5676a7fa7471aaaa7: 'utf-8' codec can't decode byte 0xed in position 2: invalid continuation byte
+📖 Parsing 90a6171d76dfdd5054d9b5676a7fa7471aaaa7 as unknown
+⚠️  Warning: Unknown format for .git/objects/d9/90a6171d76dfdd5054d9b5676a7fa7471aaaa7, attempting plain text parse
+❌ Error parsing plain text .git/objects/d9/90a6171d76dfdd5054d9b5676a7fa7471aaaa7: 'utf-8' codec can't decode byte 0xed in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/d9/59ed9461dcf29af659b4a814455163c6f590f8: 'utf-8' codec can't decode byte 0x90 in position 3: invalid start byte
+📖 Parsing 59ed9461dcf29af659b4a814455163c6f590f8 as unknown
+⚠️  Warning: Unknown format for .git/objects/d9/59ed9461dcf29af659b4a814455163c6f590f8, attempting plain text parse
+❌ Error parsing plain text .git/objects/d9/59ed9461dcf29af659b4a814455163c6f590f8: 'utf-8' codec can't decode byte 0x90 in position 3: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/58/ac763cf35a940ed6a4efebe768fed69e3bc238: 'utf-8' codec can't decode byte 0xe4 in position 9: invalid continuation byte
+📖 Parsing ac763cf35a940ed6a4efebe768fed69e3bc238 as unknown
+⚠️  Warning: Unknown format for .git/objects/58/ac763cf35a940ed6a4efebe768fed69e3bc238, attempting plain text parse
+❌ Error parsing plain text .git/objects/58/ac763cf35a940ed6a4efebe768fed69e3bc238: 'utf-8' codec can't decode byte 0xe4 in position 9: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/64/be8e52654b939b88d2ff3da5347b8426ae511e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing be8e52654b939b88d2ff3da5347b8426ae511e as unknown
+⚠️  Warning: Unknown format for .git/objects/64/be8e52654b939b88d2ff3da5347b8426ae511e, attempting plain text parse
+❌ Error parsing plain text .git/objects/64/be8e52654b939b88d2ff3da5347b8426ae511e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/60/40382147e55f813a7e1947e9877e100236fe35: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 40382147e55f813a7e1947e9877e100236fe35 as unknown
+⚠️  Warning: Unknown format for .git/objects/60/40382147e55f813a7e1947e9877e100236fe35, attempting plain text parse
+❌ Error parsing plain text .git/objects/60/40382147e55f813a7e1947e9877e100236fe35: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/8c/108e1d205cd03111c832dd7203b302138187cc: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 108e1d205cd03111c832dd7203b302138187cc as unknown
+⚠️  Warning: Unknown format for .git/objects/8c/108e1d205cd03111c832dd7203b302138187cc, attempting plain text parse
+❌ Error parsing plain text .git/objects/8c/108e1d205cd03111c832dd7203b302138187cc: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/52/dd6b54dc1957a71820dccadbd951d10ec1f329: 'utf-8' codec can't decode byte 0x93 in position 6: invalid start byte
+📖 Parsing dd6b54dc1957a71820dccadbd951d10ec1f329 as unknown
+⚠️  Warning: Unknown format for .git/objects/52/dd6b54dc1957a71820dccadbd951d10ec1f329, attempting plain text parse
+❌ Error parsing plain text .git/objects/52/dd6b54dc1957a71820dccadbd951d10ec1f329: 'utf-8' codec can't decode byte 0x93 in position 6: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/52/199256d6bd3ddc4f67a6fa161643111fc3870d: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+📖 Parsing 199256d6bd3ddc4f67a6fa161643111fc3870d as unknown
+⚠️  Warning: Unknown format for .git/objects/52/199256d6bd3ddc4f67a6fa161643111fc3870d, attempting plain text parse
+❌ Error parsing plain text .git/objects/52/199256d6bd3ddc4f67a6fa161643111fc3870d: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/02/aea537e63ae77b7235696a4725d9c68ec60bed: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing aea537e63ae77b7235696a4725d9c68ec60bed as unknown
+⚠️  Warning: Unknown format for .git/objects/02/aea537e63ae77b7235696a4725d9c68ec60bed, attempting plain text parse
+❌ Error parsing plain text .git/objects/02/aea537e63ae77b7235696a4725d9c68ec60bed: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/02/51683dc660440973ed6c20f17f3540d3910c17: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 51683dc660440973ed6c20f17f3540d3910c17 as unknown
+⚠️  Warning: Unknown format for .git/objects/02/51683dc660440973ed6c20f17f3540d3910c17, attempting plain text parse
+❌ Error parsing plain text .git/objects/02/51683dc660440973ed6c20f17f3540d3910c17: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/cb/27b3edc4c243500970e1e9e5f17b2719aaf336: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing 27b3edc4c243500970e1e9e5f17b2719aaf336 as unknown
+⚠️  Warning: Unknown format for .git/objects/cb/27b3edc4c243500970e1e9e5f17b2719aaf336, attempting plain text parse
+❌ Error parsing plain text .git/objects/cb/27b3edc4c243500970e1e9e5f17b2719aaf336: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/24/caad834330807866f032f114842ff0b7a64be7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing caad834330807866f032f114842ff0b7a64be7 as unknown
+⚠️  Warning: Unknown format for .git/objects/24/caad834330807866f032f114842ff0b7a64be7, attempting plain text parse
+❌ Error parsing plain text .git/objects/24/caad834330807866f032f114842ff0b7a64be7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/39/5ecbd418ef1379e455448296625b16975c3f7c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 5ecbd418ef1379e455448296625b16975c3f7c as unknown
+⚠️  Warning: Unknown format for .git/objects/39/5ecbd418ef1379e455448296625b16975c3f7c, attempting plain text parse
+❌ Error parsing plain text .git/objects/39/5ecbd418ef1379e455448296625b16975c3f7c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/39/bfe9ecb3a6fbbd21ac348d452aefff4ee61e0f: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing bfe9ecb3a6fbbd21ac348d452aefff4ee61e0f as unknown
+⚠️  Warning: Unknown format for .git/objects/39/bfe9ecb3a6fbbd21ac348d452aefff4ee61e0f, attempting plain text parse
+❌ Error parsing plain text .git/objects/39/bfe9ecb3a6fbbd21ac348d452aefff4ee61e0f: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e6/eff58c38f711cd82ce8658fd1f48d8af14af9b: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+📖 Parsing eff58c38f711cd82ce8658fd1f48d8af14af9b as unknown
+⚠️  Warning: Unknown format for .git/objects/e6/eff58c38f711cd82ce8658fd1f48d8af14af9b, attempting plain text parse
+❌ Error parsing plain text .git/objects/e6/eff58c38f711cd82ce8658fd1f48d8af14af9b: 'utf-8' codec can't decode byte 0xdd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/c2/d1abf73eae1c37da0f5936d4dfbaf664a15bda: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing d1abf73eae1c37da0f5936d4dfbaf664a15bda as unknown
+⚠️  Warning: Unknown format for .git/objects/c2/d1abf73eae1c37da0f5936d4dfbaf664a15bda, attempting plain text parse
+❌ Error parsing plain text .git/objects/c2/d1abf73eae1c37da0f5936d4dfbaf664a15bda: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/6a/b08523a394ff11614f9fd308a637e104fae19c: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+📖 Parsing b08523a394ff11614f9fd308a637e104fae19c as unknown
+⚠️  Warning: Unknown format for .git/objects/6a/b08523a394ff11614f9fd308a637e104fae19c, attempting plain text parse
+❌ Error parsing plain text .git/objects/6a/b08523a394ff11614f9fd308a637e104fae19c: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/29/38ab72c9b79266be7bed1e8f3eb7c9a65f34ce: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+📖 Parsing 38ab72c9b79266be7bed1e8f3eb7c9a65f34ce as unknown
+⚠️  Warning: Unknown format for .git/objects/29/38ab72c9b79266be7bed1e8f3eb7c9a65f34ce, attempting plain text parse
+❌ Error parsing plain text .git/objects/29/38ab72c9b79266be7bed1e8f3eb7c9a65f34ce: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/29/657fa2cb995b63147e345b096a933348477861: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 657fa2cb995b63147e345b096a933348477861 as unknown
+⚠️  Warning: Unknown format for .git/objects/29/657fa2cb995b63147e345b096a933348477861, attempting plain text parse
+❌ Error parsing plain text .git/objects/29/657fa2cb995b63147e345b096a933348477861: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/29/6a1fb4260780c855283de730392bda8141ba64: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 6a1fb4260780c855283de730392bda8141ba64 as unknown
+⚠️  Warning: Unknown format for .git/objects/29/6a1fb4260780c855283de730392bda8141ba64, attempting plain text parse
+❌ Error parsing plain text .git/objects/29/6a1fb4260780c855283de730392bda8141ba64: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/80/4beb4b8edef39868a679532915953f1b9200f0: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 4beb4b8edef39868a679532915953f1b9200f0 as unknown
+⚠️  Warning: Unknown format for .git/objects/80/4beb4b8edef39868a679532915953f1b9200f0, attempting plain text parse
+❌ Error parsing plain text .git/objects/80/4beb4b8edef39868a679532915953f1b9200f0: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/50/4d698a03e0c57a1a83bb185fb874fb3efe234a: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 4d698a03e0c57a1a83bb185fb874fb3efe234a as unknown
+⚠️  Warning: Unknown format for .git/objects/50/4d698a03e0c57a1a83bb185fb874fb3efe234a, attempting plain text parse
+❌ Error parsing plain text .git/objects/50/4d698a03e0c57a1a83bb185fb874fb3efe234a: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/50/a65653bf424b636616358d2cbe6482e98e1d1b: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+📖 Parsing a65653bf424b636616358d2cbe6482e98e1d1b as unknown
+⚠️  Warning: Unknown format for .git/objects/50/a65653bf424b636616358d2cbe6482e98e1d1b, attempting plain text parse
+❌ Error parsing plain text .git/objects/50/a65653bf424b636616358d2cbe6482e98e1d1b: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/50/8a8a0a3b66322dd57e01ec11023d89522b4884: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+📖 Parsing 8a8a0a3b66322dd57e01ec11023d89522b4884 as unknown
+⚠️  Warning: Unknown format for .git/objects/50/8a8a0a3b66322dd57e01ec11023d89522b4884, attempting plain text parse
+❌ Error parsing plain text .git/objects/50/8a8a0a3b66322dd57e01ec11023d89522b4884: 'utf-8' codec can't decode byte 0xd5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/50/7fe2953979df9a3249866680afab4232d78ffe: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 7fe2953979df9a3249866680afab4232d78ffe as unknown
+⚠️  Warning: Unknown format for .git/objects/50/7fe2953979df9a3249866680afab4232d78ffe, attempting plain text parse
+❌ Error parsing plain text .git/objects/50/7fe2953979df9a3249866680afab4232d78ffe: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/50/3e69badb9fbd8531c56654c61eb42a7121f2d6: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+📖 Parsing 3e69badb9fbd8531c56654c61eb42a7121f2d6 as unknown
+⚠️  Warning: Unknown format for .git/objects/50/3e69badb9fbd8531c56654c61eb42a7121f2d6, attempting plain text parse
+❌ Error parsing plain text .git/objects/50/3e69badb9fbd8531c56654c61eb42a7121f2d6: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/7d/01d3134bedf106563271a1f0143a77e4a1161c: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+📖 Parsing 01d3134bedf106563271a1f0143a77e4a1161c as unknown
+⚠️  Warning: Unknown format for .git/objects/7d/01d3134bedf106563271a1f0143a77e4a1161c, attempting plain text parse
+❌ Error parsing plain text .git/objects/7d/01d3134bedf106563271a1f0143a77e4a1161c: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/3d/1124982f3b7f77ff1f0904b520d09dacbf3e21: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 1124982f3b7f77ff1f0904b520d09dacbf3e21 as unknown
+⚠️  Warning: Unknown format for .git/objects/3d/1124982f3b7f77ff1f0904b520d09dacbf3e21, attempting plain text parse
+❌ Error parsing plain text .git/objects/3d/1124982f3b7f77ff1f0904b520d09dacbf3e21: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/45/f8cd859236bc1e56c0241d9bad896badf671ae: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing f8cd859236bc1e56c0241d9bad896badf671ae as unknown
+⚠️  Warning: Unknown format for .git/objects/45/f8cd859236bc1e56c0241d9bad896badf671ae, attempting plain text parse
+❌ Error parsing plain text .git/objects/45/f8cd859236bc1e56c0241d9bad896badf671ae: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/81/52bdcae88ff78d5cf634add276aaff7c73175b: 'utf-8' codec can't decode byte 0xcd in position 18: invalid continuation byte
+📖 Parsing 52bdcae88ff78d5cf634add276aaff7c73175b as unknown
+⚠️  Warning: Unknown format for .git/objects/81/52bdcae88ff78d5cf634add276aaff7c73175b, attempting plain text parse
+❌ Error parsing plain text .git/objects/81/52bdcae88ff78d5cf634add276aaff7c73175b: 'utf-8' codec can't decode byte 0xcd in position 18: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/d7/69174f0fed3354a4f562a93d6d0207e968453f: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 69174f0fed3354a4f562a93d6d0207e968453f as unknown
+⚠️  Warning: Unknown format for .git/objects/d7/69174f0fed3354a4f562a93d6d0207e968453f, attempting plain text parse
+❌ Error parsing plain text .git/objects/d7/69174f0fed3354a4f562a93d6d0207e968453f: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d7/da5f654df18fc004e18b5823af08b97b9693fd: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+📖 Parsing da5f654df18fc004e18b5823af08b97b9693fd as unknown
+⚠️  Warning: Unknown format for .git/objects/d7/da5f654df18fc004e18b5823af08b97b9693fd, attempting plain text parse
+❌ Error parsing plain text .git/objects/d7/da5f654df18fc004e18b5823af08b97b9693fd: 'utf-8' codec can't decode byte 0x8c in position 20: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ac/116aca7f0acf1b1d9d02d5797ac9c6c2e9008c: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 116aca7f0acf1b1d9d02d5797ac9c6c2e9008c as unknown
+⚠️  Warning: Unknown format for .git/objects/ac/116aca7f0acf1b1d9d02d5797ac9c6c2e9008c, attempting plain text parse
+❌ Error parsing plain text .git/objects/ac/116aca7f0acf1b1d9d02d5797ac9c6c2e9008c: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/86/d8d60b61e42dfd8d2544ca57316c0f7f7e088c: 'utf-8' codec can't decode byte 0xb2 in position 8: invalid start byte
+📖 Parsing d8d60b61e42dfd8d2544ca57316c0f7f7e088c as unknown
+⚠️  Warning: Unknown format for .git/objects/86/d8d60b61e42dfd8d2544ca57316c0f7f7e088c, attempting plain text parse
+❌ Error parsing plain text .git/objects/86/d8d60b61e42dfd8d2544ca57316c0f7f7e088c: 'utf-8' codec can't decode byte 0xb2 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/86/217a2f6add5abfaf0d3029fe7e0a4b63c5e23a: 'utf-8' codec can't decode byte 0xe5 in position 2: invalid continuation byte
+📖 Parsing 217a2f6add5abfaf0d3029fe7e0a4b63c5e23a as unknown
+⚠️  Warning: Unknown format for .git/objects/86/217a2f6add5abfaf0d3029fe7e0a4b63c5e23a, attempting plain text parse
+❌ Error parsing plain text .git/objects/86/217a2f6add5abfaf0d3029fe7e0a4b63c5e23a: 'utf-8' codec can't decode byte 0xe5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/5d/3383d7bf196732502b83cc79fa823c2e6dc2cd: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 3383d7bf196732502b83cc79fa823c2e6dc2cd as unknown
+⚠️  Warning: Unknown format for .git/objects/5d/3383d7bf196732502b83cc79fa823c2e6dc2cd, attempting plain text parse
+❌ Error parsing plain text .git/objects/5d/3383d7bf196732502b83cc79fa823c2e6dc2cd: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/b2/590b1fe6050c8a7a73bdb4a15addc4a9765a88: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+📖 Parsing 590b1fe6050c8a7a73bdb4a15addc4a9765a88 as unknown
+⚠️  Warning: Unknown format for .git/objects/b2/590b1fe6050c8a7a73bdb4a15addc4a9765a88, attempting plain text parse
+❌ Error parsing plain text .git/objects/b2/590b1fe6050c8a7a73bdb4a15addc4a9765a88: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/b2/4ee4addcdf638c222b202071eba5ec95a2aaf1: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 4ee4addcdf638c222b202071eba5ec95a2aaf1 as unknown
+⚠️  Warning: Unknown format for .git/objects/b2/4ee4addcdf638c222b202071eba5ec95a2aaf1, attempting plain text parse
+❌ Error parsing plain text .git/objects/b2/4ee4addcdf638c222b202071eba5ec95a2aaf1: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d0/d4395a5d201466b1b7cd1d39509c3269dce951: 'utf-8' codec can't decode byte 0x8c in position 19: invalid start byte
+📖 Parsing d4395a5d201466b1b7cd1d39509c3269dce951 as unknown
+⚠️  Warning: Unknown format for .git/objects/d0/d4395a5d201466b1b7cd1d39509c3269dce951, attempting plain text parse
+❌ Error parsing plain text .git/objects/d0/d4395a5d201466b1b7cd1d39509c3269dce951: 'utf-8' codec can't decode byte 0x8c in position 19: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d0/564c991d8899da2c5476728ca64b236c4a27a9: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 564c991d8899da2c5476728ca64b236c4a27a9 as unknown
+⚠️  Warning: Unknown format for .git/objects/d0/564c991d8899da2c5476728ca64b236c4a27a9, attempting plain text parse
+❌ Error parsing plain text .git/objects/d0/564c991d8899da2c5476728ca64b236c4a27a9: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/2c/ce7473518bcd3fb08c610a28df018080a506cc: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing ce7473518bcd3fb08c610a28df018080a506cc as unknown
+⚠️  Warning: Unknown format for .git/objects/2c/ce7473518bcd3fb08c610a28df018080a506cc, attempting plain text parse
+❌ Error parsing plain text .git/objects/2c/ce7473518bcd3fb08c610a28df018080a506cc: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/4c/bfcca6ce7f8e24d487053b1317c73855bbdbfa: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing bfcca6ce7f8e24d487053b1317c73855bbdbfa as unknown
+⚠️  Warning: Unknown format for .git/objects/4c/bfcca6ce7f8e24d487053b1317c73855bbdbfa, attempting plain text parse
+❌ Error parsing plain text .git/objects/4c/bfcca6ce7f8e24d487053b1317c73855bbdbfa: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/1a/1ec2e8aa582376a74a5d851d32e0fa55c2ad06: 'utf-8' codec can't decode byte 0xf0 in position 19: invalid continuation byte
+📖 Parsing 1ec2e8aa582376a74a5d851d32e0fa55c2ad06 as unknown
+⚠️  Warning: Unknown format for .git/objects/1a/1ec2e8aa582376a74a5d851d32e0fa55c2ad06, attempting plain text parse
+❌ Error parsing plain text .git/objects/1a/1ec2e8aa582376a74a5d851d32e0fa55c2ad06: 'utf-8' codec can't decode byte 0xf0 in position 19: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/35/14cc12cda5da6c9eed8e8a02bec9e6df31e792: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 14cc12cda5da6c9eed8e8a02bec9e6df31e792 as unknown
+⚠️  Warning: Unknown format for .git/objects/35/14cc12cda5da6c9eed8e8a02bec9e6df31e792, attempting plain text parse
+❌ Error parsing plain text .git/objects/35/14cc12cda5da6c9eed8e8a02bec9e6df31e792: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/0a/e4c8374b6322c8e2a1b96d9b2c21cea0471139: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+📖 Parsing e4c8374b6322c8e2a1b96d9b2c21cea0471139 as unknown
+⚠️  Warning: Unknown format for .git/objects/0a/e4c8374b6322c8e2a1b96d9b2c21cea0471139, attempting plain text parse
+❌ Error parsing plain text .git/objects/0a/e4c8374b6322c8e2a1b96d9b2c21cea0471139: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c3/a3db7fb025aba584c569f23b1d3ef7dc450b90: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing a3db7fb025aba584c569f23b1d3ef7dc450b90 as unknown
+⚠️  Warning: Unknown format for .git/objects/c3/a3db7fb025aba584c569f23b1d3ef7dc450b90, attempting plain text parse
+❌ Error parsing plain text .git/objects/c3/a3db7fb025aba584c569f23b1d3ef7dc450b90: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/32/74fe3d575ec843cfc65a7f947a57ec3bcec0f9: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 74fe3d575ec843cfc65a7f947a57ec3bcec0f9 as unknown
+⚠️  Warning: Unknown format for .git/objects/32/74fe3d575ec843cfc65a7f947a57ec3bcec0f9, attempting plain text parse
+❌ Error parsing plain text .git/objects/32/74fe3d575ec843cfc65a7f947a57ec3bcec0f9: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/b0/692e1cdd337805ed5843f5336854807d80af80: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 692e1cdd337805ed5843f5336854807d80af80 as unknown
+⚠️  Warning: Unknown format for .git/objects/b0/692e1cdd337805ed5843f5336854807d80af80, attempting plain text parse
+❌ Error parsing plain text .git/objects/b0/692e1cdd337805ed5843f5336854807d80af80: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/f4/ccc2f43b4bdb6affd7b807f4a61b59bea5fed0: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing ccc2f43b4bdb6affd7b807f4a61b59bea5fed0 as unknown
+⚠️  Warning: Unknown format for .git/objects/f4/ccc2f43b4bdb6affd7b807f4a61b59bea5fed0, attempting plain text parse
+❌ Error parsing plain text .git/objects/f4/ccc2f43b4bdb6affd7b807f4a61b59bea5fed0: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/28/2b9cac1f81014d5ea43da1b4e74b5b96c4f847: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+📖 Parsing 2b9cac1f81014d5ea43da1b4e74b5b96c4f847 as unknown
+⚠️  Warning: Unknown format for .git/objects/28/2b9cac1f81014d5ea43da1b4e74b5b96c4f847, attempting plain text parse
+❌ Error parsing plain text .git/objects/28/2b9cac1f81014d5ea43da1b4e74b5b96c4f847: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/65/80146bbd9c98e0a412333cad78614c7ccc76ab: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+📖 Parsing 80146bbd9c98e0a412333cad78614c7ccc76ab as unknown
+⚠️  Warning: Unknown format for .git/objects/65/80146bbd9c98e0a412333cad78614c7ccc76ab, attempting plain text parse
+❌ Error parsing plain text .git/objects/65/80146bbd9c98e0a412333cad78614c7ccc76ab: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/65/561b307ef184b268cf2db89524f4b8185ca75a: 'utf-8' codec can't decode byte 0xb2 in position 9: invalid start byte
+📖 Parsing 561b307ef184b268cf2db89524f4b8185ca75a as unknown
+⚠️  Warning: Unknown format for .git/objects/65/561b307ef184b268cf2db89524f4b8185ca75a, attempting plain text parse
+❌ Error parsing plain text .git/objects/65/561b307ef184b268cf2db89524f4b8185ca75a: 'utf-8' codec can't decode byte 0xb2 in position 9: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/97/9e8a46cd676776a66a22b1990eba245f97d249: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 9e8a46cd676776a66a22b1990eba245f97d249 as unknown
+⚠️  Warning: Unknown format for .git/objects/97/9e8a46cd676776a66a22b1990eba245f97d249, attempting plain text parse
+❌ Error parsing plain text .git/objects/97/9e8a46cd676776a66a22b1990eba245f97d249: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/97/c47c955ee7917ca53635cadaa3285f348effd1: 'utf-8' codec can't decode byte 0xb6 in position 8: invalid start byte
+📖 Parsing c47c955ee7917ca53635cadaa3285f348effd1 as unknown
+⚠️  Warning: Unknown format for .git/objects/97/c47c955ee7917ca53635cadaa3285f348effd1, attempting plain text parse
+❌ Error parsing plain text .git/objects/97/c47c955ee7917ca53635cadaa3285f348effd1: 'utf-8' codec can't decode byte 0xb6 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ff/f04a10dcaf72ec42702b7bf3d1d49a6104463b: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing f04a10dcaf72ec42702b7bf3d1d49a6104463b as unknown
+⚠️  Warning: Unknown format for .git/objects/ff/f04a10dcaf72ec42702b7bf3d1d49a6104463b, attempting plain text parse
+❌ Error parsing plain text .git/objects/ff/f04a10dcaf72ec42702b7bf3d1d49a6104463b: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/e0/eae4b9c69a069fd345acacdacd54960973f5d7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing eae4b9c69a069fd345acacdacd54960973f5d7 as unknown
+⚠️  Warning: Unknown format for .git/objects/e0/eae4b9c69a069fd345acacdacd54960973f5d7, attempting plain text parse
+❌ Error parsing plain text .git/objects/e0/eae4b9c69a069fd345acacdacd54960973f5d7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ca/bcdb9c89a1567ee9342362ca7bfae931a54a59: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+📖 Parsing bcdb9c89a1567ee9342362ca7bfae931a54a59 as unknown
+⚠️  Warning: Unknown format for .git/objects/ca/bcdb9c89a1567ee9342362ca7bfae931a54a59, attempting plain text parse
+❌ Error parsing plain text .git/objects/ca/bcdb9c89a1567ee9342362ca7bfae931a54a59: 'utf-8' codec can't decode byte 0xb0 in position 7: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/ca/039d08b9c25fc0b05a61f0ce1313766825fa8b: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing 039d08b9c25fc0b05a61f0ce1313766825fa8b as unknown
+⚠️  Warning: Unknown format for .git/objects/ca/039d08b9c25fc0b05a61f0ce1313766825fa8b, attempting plain text parse
+❌ Error parsing plain text .git/objects/ca/039d08b9c25fc0b05a61f0ce1313766825fa8b: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/71/d3ff6ac7aa845005a4d3e616160d01ba4ef21d: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+📖 Parsing d3ff6ac7aa845005a4d3e616160d01ba4ef21d as unknown
+⚠️  Warning: Unknown format for .git/objects/71/d3ff6ac7aa845005a4d3e616160d01ba4ef21d, attempting plain text parse
+❌ Error parsing plain text .git/objects/71/d3ff6ac7aa845005a4d3e616160d01ba4ef21d: 'utf-8' codec can't decode byte 0xf1 in position 22: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/dc/dc54e9501e1df6c9e41c13b9fde83634c1a06f: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing dc54e9501e1df6c9e41c13b9fde83634c1a06f as unknown
+⚠️  Warning: Unknown format for .git/objects/dc/dc54e9501e1df6c9e41c13b9fde83634c1a06f, attempting plain text parse
+❌ Error parsing plain text .git/objects/dc/dc54e9501e1df6c9e41c13b9fde83634c1a06f: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/6e/d9ca8be334effa13e71ec54e99303b54bdc545: 'utf-8' codec can't decode byte 0xc3 in position 6: invalid continuation byte
+📖 Parsing d9ca8be334effa13e71ec54e99303b54bdc545 as unknown
+⚠️  Warning: Unknown format for .git/objects/6e/d9ca8be334effa13e71ec54e99303b54bdc545, attempting plain text parse
+❌ Error parsing plain text .git/objects/6e/d9ca8be334effa13e71ec54e99303b54bdc545: 'utf-8' codec can't decode byte 0xc3 in position 6: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/3e/ee1ff68dcc41048afa888d9ef6f44805174c50: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing ee1ff68dcc41048afa888d9ef6f44805174c50 as unknown
+⚠️  Warning: Unknown format for .git/objects/3e/ee1ff68dcc41048afa888d9ef6f44805174c50, attempting plain text parse
+❌ Error parsing plain text .git/objects/3e/ee1ff68dcc41048afa888d9ef6f44805174c50: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/4d/3bcaf9dfe7c6e3431a65607b45d294381e4644: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+📖 Parsing 3bcaf9dfe7c6e3431a65607b45d294381e4644 as unknown
+⚠️  Warning: Unknown format for .git/objects/4d/3bcaf9dfe7c6e3431a65607b45d294381e4644, attempting plain text parse
+❌ Error parsing plain text .git/objects/4d/3bcaf9dfe7c6e3431a65607b45d294381e4644: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/a7/e7d05fb89ef2569ca3772fb035ec5546b69f95: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing e7d05fb89ef2569ca3772fb035ec5546b69f95 as unknown
+⚠️  Warning: Unknown format for .git/objects/a7/e7d05fb89ef2569ca3772fb035ec5546b69f95, attempting plain text parse
+❌ Error parsing plain text .git/objects/a7/e7d05fb89ef2569ca3772fb035ec5546b69f95: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/a7/e87674fae69bcc53e7a8e4ab338e4474df7beb: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing e87674fae69bcc53e7a8e4ab338e4474df7beb as unknown
+⚠️  Warning: Unknown format for .git/objects/a7/e87674fae69bcc53e7a8e4ab338e4474df7beb, attempting plain text parse
+❌ Error parsing plain text .git/objects/a7/e87674fae69bcc53e7a8e4ab338e4474df7beb: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/a7/b7a2b544944fc2372e25a604c4b2b27ae56f71: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing b7a2b544944fc2372e25a604c4b2b27ae56f71 as unknown
+⚠️  Warning: Unknown format for .git/objects/a7/b7a2b544944fc2372e25a604c4b2b27ae56f71, attempting plain text parse
+❌ Error parsing plain text .git/objects/a7/b7a2b544944fc2372e25a604c4b2b27ae56f71: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/25/d5c405cd10152a5432875e73bd30d311ceadcf: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+📖 Parsing d5c405cd10152a5432875e73bd30d311ceadcf as unknown
+⚠️  Warning: Unknown format for .git/objects/25/d5c405cd10152a5432875e73bd30d311ceadcf, attempting plain text parse
+❌ Error parsing plain text .git/objects/25/d5c405cd10152a5432875e73bd30d311ceadcf: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/44/cbd60f61f8fa196154f4396b2ccd68b4e10e7a: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+📖 Parsing cbd60f61f8fa196154f4396b2ccd68b4e10e7a as unknown
+⚠️  Warning: Unknown format for .git/objects/44/cbd60f61f8fa196154f4396b2ccd68b4e10e7a, attempting plain text parse
+❌ Error parsing plain text .git/objects/44/cbd60f61f8fa196154f4396b2ccd68b4e10e7a: 'utf-8' codec can't decode byte 0xcd in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/44/c0e94902fc99ec121b5177484b44fe0a52bce9: 'utf-8' codec can't decode byte 0xcd in position 4: invalid continuation byte
+📖 Parsing c0e94902fc99ec121b5177484b44fe0a52bce9 as unknown
+⚠️  Warning: Unknown format for .git/objects/44/c0e94902fc99ec121b5177484b44fe0a52bce9, attempting plain text parse
+❌ Error parsing plain text .git/objects/44/c0e94902fc99ec121b5177484b44fe0a52bce9: 'utf-8' codec can't decode byte 0xcd in position 4: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/b5/6a7ff86795635ec91ce8b67c1504f92bc0eecb: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+📖 Parsing 6a7ff86795635ec91ce8b67c1504f92bc0eecb as unknown
+⚠️  Warning: Unknown format for .git/objects/b5/6a7ff86795635ec91ce8b67c1504f92bc0eecb, attempting plain text parse
+❌ Error parsing plain text .git/objects/b5/6a7ff86795635ec91ce8b67c1504f92bc0eecb: 'utf-8' codec can't decode byte 0x8d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/43/9ce42df75ea97e7926feb49dcb27671fa8389e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 9ce42df75ea97e7926feb49dcb27671fa8389e as unknown
+⚠️  Warning: Unknown format for .git/objects/43/9ce42df75ea97e7926feb49dcb27671fa8389e, attempting plain text parse
+❌ Error parsing plain text .git/objects/43/9ce42df75ea97e7926feb49dcb27671fa8389e: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/bc/465728fa4f9ab852bab8c063f9e2e7474e432a: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 465728fa4f9ab852bab8c063f9e2e7474e432a as unknown
+⚠️  Warning: Unknown format for .git/objects/bc/465728fa4f9ab852bab8c063f9e2e7474e432a, attempting plain text parse
+❌ Error parsing plain text .git/objects/bc/465728fa4f9ab852bab8c063f9e2e7474e432a: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/bc/89ba0da3cedd84099eebc2abf229b9bc5dc0e6: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+📖 Parsing 89ba0da3cedd84099eebc2abf229b9bc5dc0e6 as unknown
+⚠️  Warning: Unknown format for .git/objects/bc/89ba0da3cedd84099eebc2abf229b9bc5dc0e6, attempting plain text parse
+❌ Error parsing plain text .git/objects/bc/89ba0da3cedd84099eebc2abf229b9bc5dc0e6: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/bc/60152ad70b2d8d418700991f17d48da7d004e5: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing 60152ad70b2d8d418700991f17d48da7d004e5 as unknown
+⚠️  Warning: Unknown format for .git/objects/bc/60152ad70b2d8d418700991f17d48da7d004e5, attempting plain text parse
+❌ Error parsing plain text .git/objects/bc/60152ad70b2d8d418700991f17d48da7d004e5: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/4e/10d0dbd4a683c92616db8b89ba6917d8e9aab4: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+📖 Parsing 10d0dbd4a683c92616db8b89ba6917d8e9aab4 as unknown
+⚠️  Warning: Unknown format for .git/objects/4e/10d0dbd4a683c92616db8b89ba6917d8e9aab4, attempting plain text parse
+❌ Error parsing plain text .git/objects/4e/10d0dbd4a683c92616db8b89ba6917d8e9aab4: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/4e/0332d522c02a4877d00e715d2db149da886005: 'utf-8' codec can't decode byte 0xc1 in position 4: invalid start byte
+📖 Parsing 0332d522c02a4877d00e715d2db149da886005 as unknown
+⚠️  Warning: Unknown format for .git/objects/4e/0332d522c02a4877d00e715d2db149da886005, attempting plain text parse
+❌ Error parsing plain text .git/objects/4e/0332d522c02a4877d00e715d2db149da886005: 'utf-8' codec can't decode byte 0xc1 in position 4: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/4e/a08f31dec6a08e54b2fe38b113ac29c5110729: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+📖 Parsing a08f31dec6a08e54b2fe38b113ac29c5110729 as unknown
+⚠️  Warning: Unknown format for .git/objects/4e/a08f31dec6a08e54b2fe38b113ac29c5110729, attempting plain text parse
+❌ Error parsing plain text .git/objects/4e/a08f31dec6a08e54b2fe38b113ac29c5110729: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c1/a0969c803dd03050ae53b65f05f9cde230ad13: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing a0969c803dd03050ae53b65f05f9cde230ad13 as unknown
+⚠️  Warning: Unknown format for .git/objects/c1/a0969c803dd03050ae53b65f05f9cde230ad13, attempting plain text parse
+❌ Error parsing plain text .git/objects/c1/a0969c803dd03050ae53b65f05f9cde230ad13: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c1/8dd8d83ceed1806b50b0aaa46beb7e335fff13: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+📖 Parsing 8dd8d83ceed1806b50b0aaa46beb7e335fff13 as unknown
+⚠️  Warning: Unknown format for .git/objects/c1/8dd8d83ceed1806b50b0aaa46beb7e335fff13, attempting plain text parse
+❌ Error parsing plain text .git/objects/c1/8dd8d83ceed1806b50b0aaa46beb7e335fff13: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/c1/c07f0ed137d7d82403d04cb9d829fd1b67c343: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing c07f0ed137d7d82403d04cb9d829fd1b67c343 as unknown
+⚠️  Warning: Unknown format for .git/objects/c1/c07f0ed137d7d82403d04cb9d829fd1b67c343, attempting plain text parse
+❌ Error parsing plain text .git/objects/c1/c07f0ed137d7d82403d04cb9d829fd1b67c343: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c1/1f80893cca42c3801caa3f3890b771eb8a4e00: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 1f80893cca42c3801caa3f3890b771eb8a4e00 as unknown
+⚠️  Warning: Unknown format for .git/objects/c1/1f80893cca42c3801caa3f3890b771eb8a4e00, attempting plain text parse
+❌ Error parsing plain text .git/objects/c1/1f80893cca42c3801caa3f3890b771eb8a4e00: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/c1/9c7d20a2cc2000ea878544f8a458754bafdbf7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 9c7d20a2cc2000ea878544f8a458754bafdbf7 as unknown
+⚠️  Warning: Unknown format for .git/objects/c1/9c7d20a2cc2000ea878544f8a458754bafdbf7, attempting plain text parse
+❌ Error parsing plain text .git/objects/c1/9c7d20a2cc2000ea878544f8a458754bafdbf7: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/96/7b34a081c4ed87401d88cb39334b09added77a: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+📖 Parsing 7b34a081c4ed87401d88cb39334b09added77a as unknown
+⚠️  Warning: Unknown format for .git/objects/96/7b34a081c4ed87401d88cb39334b09added77a, attempting plain text parse
+❌ Error parsing plain text .git/objects/96/7b34a081c4ed87401d88cb39334b09added77a: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/3a/aae8c3c897f4153a98bdc8e60aa8dc9ed8a898: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing aae8c3c897f4153a98bdc8e60aa8dc9ed8a898 as unknown
+⚠️  Warning: Unknown format for .git/objects/3a/aae8c3c897f4153a98bdc8e60aa8dc9ed8a898, attempting plain text parse
+❌ Error parsing plain text .git/objects/3a/aae8c3c897f4153a98bdc8e60aa8dc9ed8a898: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/22/a8066c2469e1677d7529fb3c9adb68d361411f: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing a8066c2469e1677d7529fb3c9adb68d361411f as unknown
+⚠️  Warning: Unknown format for .git/objects/22/a8066c2469e1677d7529fb3c9adb68d361411f, attempting plain text parse
+❌ Error parsing plain text .git/objects/22/a8066c2469e1677d7529fb3c9adb68d361411f: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/22/ffddfc733de8035851cddd2774c6392a77f141: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing ffddfc733de8035851cddd2774c6392a77f141 as unknown
+⚠️  Warning: Unknown format for .git/objects/22/ffddfc733de8035851cddd2774c6392a77f141, attempting plain text parse
+❌ Error parsing plain text .git/objects/22/ffddfc733de8035851cddd2774c6392a77f141: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/bf/c70052161839a72325324770675c1431343b2d: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing c70052161839a72325324770675c1431343b2d as unknown
+⚠️  Warning: Unknown format for .git/objects/bf/c70052161839a72325324770675c1431343b2d, attempting plain text parse
+❌ Error parsing plain text .git/objects/bf/c70052161839a72325324770675c1431343b2d: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/bf/094bfbeae086d3b8fe38136a3c71ac1cd7dd8c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 094bfbeae086d3b8fe38136a3c71ac1cd7dd8c as unknown
+⚠️  Warning: Unknown format for .git/objects/bf/094bfbeae086d3b8fe38136a3c71ac1cd7dd8c, attempting plain text parse
+❌ Error parsing plain text .git/objects/bf/094bfbeae086d3b8fe38136a3c71ac1cd7dd8c: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/fc/03a7804f6be7772a0fafe3f8830c4df0dd6359: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 03a7804f6be7772a0fafe3f8830c4df0dd6359 as unknown
+⚠️  Warning: Unknown format for .git/objects/fc/03a7804f6be7772a0fafe3f8830c4df0dd6359, attempting plain text parse
+❌ Error parsing plain text .git/objects/fc/03a7804f6be7772a0fafe3f8830c4df0dd6359: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/da/285d05dc2f8d1741b1c5336327c16775129fb9: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing 285d05dc2f8d1741b1c5336327c16775129fb9 as unknown
+⚠️  Warning: Unknown format for .git/objects/da/285d05dc2f8d1741b1c5336327c16775129fb9, attempting plain text parse
+❌ Error parsing plain text .git/objects/da/285d05dc2f8d1741b1c5336327c16775129fb9: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/56/ba00ecb5441678feb90c2c3e6f9b0088e3454b: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing ba00ecb5441678feb90c2c3e6f9b0088e3454b as unknown
+⚠️  Warning: Unknown format for .git/objects/56/ba00ecb5441678feb90c2c3e6f9b0088e3454b, attempting plain text parse
+❌ Error parsing plain text .git/objects/56/ba00ecb5441678feb90c2c3e6f9b0088e3454b: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/56/f1c00eec921fd694e03ef429a7c78c01cbca7e: 'utf-8' codec can't decode byte 0xd0 in position 18: invalid continuation byte
+📖 Parsing f1c00eec921fd694e03ef429a7c78c01cbca7e as unknown
+⚠️  Warning: Unknown format for .git/objects/56/f1c00eec921fd694e03ef429a7c78c01cbca7e, attempting plain text parse
+❌ Error parsing plain text .git/objects/56/f1c00eec921fd694e03ef429a7c78c01cbca7e: 'utf-8' codec can't decode byte 0xd0 in position 18: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/79/95720734c7398b6073de9fc25fe9fdf91a0909: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing 95720734c7398b6073de9fc25fe9fdf91a0909 as unknown
+⚠️  Warning: Unknown format for .git/objects/79/95720734c7398b6073de9fc25fe9fdf91a0909, attempting plain text parse
+❌ Error parsing plain text .git/objects/79/95720734c7398b6073de9fc25fe9fdf91a0909: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/79/b283101eae3749f9de9e92a6880b8acf76cf24: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing b283101eae3749f9de9e92a6880b8acf76cf24 as unknown
+⚠️  Warning: Unknown format for .git/objects/79/b283101eae3749f9de9e92a6880b8acf76cf24, attempting plain text parse
+❌ Error parsing plain text .git/objects/79/b283101eae3749f9de9e92a6880b8acf76cf24: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/54/e5eb9abe874d4c40b34295420282daae5cb224: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+📖 Parsing e5eb9abe874d4c40b34295420282daae5cb224 as unknown
+⚠️  Warning: Unknown format for .git/objects/54/e5eb9abe874d4c40b34295420282daae5cb224, attempting plain text parse
+❌ Error parsing plain text .git/objects/54/e5eb9abe874d4c40b34295420282daae5cb224: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/54/b00887d160d8e8a46a3e85b53eecd39b713ec9: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+📖 Parsing b00887d160d8e8a46a3e85b53eecd39b713ec9 as unknown
+⚠️  Warning: Unknown format for .git/objects/54/b00887d160d8e8a46a3e85b53eecd39b713ec9, attempting plain text parse
+❌ Error parsing plain text .git/objects/54/b00887d160d8e8a46a3e85b53eecd39b713ec9: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/d1/b615edbbec935f560f200e7efd2ff44e100eec: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+📖 Parsing b615edbbec935f560f200e7efd2ff44e100eec as unknown
+⚠️  Warning: Unknown format for .git/objects/d1/b615edbbec935f560f200e7efd2ff44e100eec, attempting plain text parse
+❌ Error parsing plain text .git/objects/d1/b615edbbec935f560f200e7efd2ff44e100eec: 'utf-8' codec can't decode byte 0x95 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/85/462adce9edd8d2de61970bca3bcf63ed211e56: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+📖 Parsing 462adce9edd8d2de61970bca3bcf63ed211e56 as unknown
+⚠️  Warning: Unknown format for .git/objects/85/462adce9edd8d2de61970bca3bcf63ed211e56, attempting plain text parse
+❌ Error parsing plain text .git/objects/85/462adce9edd8d2de61970bca3bcf63ed211e56: 'utf-8' codec can't decode byte 0xca in position 3: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/ec/176ea4074f8a587ba296aee74e121e3c52780e: 'utf-8' codec can't decode byte 0xf5 in position 20: invalid start byte
+📖 Parsing 176ea4074f8a587ba296aee74e121e3c52780e as unknown
+⚠️  Warning: Unknown format for .git/objects/ec/176ea4074f8a587ba296aee74e121e3c52780e, attempting plain text parse
+❌ Error parsing plain text .git/objects/ec/176ea4074f8a587ba296aee74e121e3c52780e: 'utf-8' codec can't decode byte 0xf5 in position 20: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/b6/425ed50180dcd0967e2b77a664f08522beab31: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing 425ed50180dcd0967e2b77a664f08522beab31 as unknown
+⚠️  Warning: Unknown format for .git/objects/b6/425ed50180dcd0967e2b77a664f08522beab31, attempting plain text parse
+❌ Error parsing plain text .git/objects/b6/425ed50180dcd0967e2b77a664f08522beab31: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/68/48dd62d020813b4148d5e522090411c09fa178: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+📖 Parsing 48dd62d020813b4148d5e522090411c09fa178 as unknown
+⚠️  Warning: Unknown format for .git/objects/68/48dd62d020813b4148d5e522090411c09fa178, attempting plain text parse
+❌ Error parsing plain text .git/objects/68/48dd62d020813b4148d5e522090411c09fa178: 'utf-8' codec can't decode byte 0xb5 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/68/fe6dfe3114c99a106a25bb4962dcbb1571b2a1: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+📖 Parsing fe6dfe3114c99a106a25bb4962dcbb1571b2a1 as unknown
+⚠️  Warning: Unknown format for .git/objects/68/fe6dfe3114c99a106a25bb4962dcbb1571b2a1, attempting plain text parse
+❌ Error parsing plain text .git/objects/68/fe6dfe3114c99a106a25bb4962dcbb1571b2a1: 'utf-8' codec can't decode byte 0x9d in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/74/88529586103bdab15641f48f54e5cff7e14b6e: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+📖 Parsing 88529586103bdab15641f48f54e5cff7e14b6e as unknown
+⚠️  Warning: Unknown format for .git/objects/74/88529586103bdab15641f48f54e5cff7e14b6e, attempting plain text parse
+❌ Error parsing plain text .git/objects/74/88529586103bdab15641f48f54e5cff7e14b6e: 'utf-8' codec can't decode byte 0xc5 in position 2: invalid continuation byte
+⚠️  Warning: Error detecting format for .git/objects/fd/d28d8fcfdbc88e11efbe275d6015f57ac24e9a: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+📖 Parsing d28d8fcfdbc88e11efbe275d6015f57ac24e9a as unknown
+⚠️  Warning: Unknown format for .git/objects/fd/d28d8fcfdbc88e11efbe275d6015f57ac24e9a, attempting plain text parse
+❌ Error parsing plain text .git/objects/fd/d28d8fcfdbc88e11efbe275d6015f57ac24e9a: 'utf-8' codec can't decode byte 0xbd in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/21/a6dd1495868775ac2de943ce64527cfac212da: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+📖 Parsing a6dd1495868775ac2de943ce64527cfac212da as unknown
+⚠️  Warning: Unknown format for .git/objects/21/a6dd1495868775ac2de943ce64527cfac212da, attempting plain text parse
+❌ Error parsing plain text .git/objects/21/a6dd1495868775ac2de943ce64527cfac212da: 'utf-8' codec can't decode byte 0xa4 in position 2: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/21/524ce232e928f9caa114a705b5c4eddaeee6ff: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+📖 Parsing 524ce232e928f9caa114a705b5c4eddaeee6ff as unknown
+⚠️  Warning: Unknown format for .git/objects/21/524ce232e928f9caa114a705b5c4eddaeee6ff, attempting plain text parse
+❌ Error parsing plain text .git/objects/21/524ce232e928f9caa114a705b5c4eddaeee6ff: 'utf-8' codec can't decode byte 0xb4 in position 8: invalid start byte
+⚠️  Warning: Error detecting format for .git/objects/21/3947d683c6c0efe85780c7bf1d9571fa8604a2: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing 3947d683c6c0efe85780c7bf1d9571fa8604a2 as unknown
+⚠️  Warning: Unknown format for .git/objects/21/3947d683c6c0efe85780c7bf1d9571fa8604a2, attempting plain text parse
+❌ Error parsing plain text .git/objects/21/3947d683c6c0efe85780c7bf1d9571fa8604a2: 'utf-8' codec can't decode byte 0xad in position 2: invalid start byte
+📖 Parsing exclude as plain_text
+📖 Parsing HEAD as plain_text
+📖 Parsing main as plain_text
+📖 Parsing claude-md-mi15ca31dd4ini6c-01Hpbkxfv2tNr4iZzCMb9Q2Q as plain_text
+📖 Parsing claude-code-local-unicode-fixes-audit as plain_text
+📖 Parsing claude-md-mi1uuddosoce2z2k-011St7jYozdtBjLj85kPfYCw as plain_text
+📖 Parsing claude-md-mi15ca31dd4ini6c-01Hpbkxfv2tNr4iZzCMb9Q2Q as plain_text
+📖 Parsing claude-code-local-unicode-fixes-audit as plain_text
+📖 Parsing README.md as plain_text
+  🔥 README.md                                 Novelty: 0.888  φ30
+📖 Parsing example_conversation.json as claude_json
+📖 Parsing HARDENING_COMPLETE.md as plain_text
+📖 Parsing ERROR_HANDLING.md as plain_text
+📖 Parsing bootstrap_sample_claude_phi1_n24.txt as plain_text
+📖 Parsing bootstrap_sample_plaintext_phi2_n48.txt as plain_text
+📖 Parsing bootstrap_sample_chatgpt_phi1_n25.txt as plain_text
+📖 Parsing bootstrap_sample_markdown_phi2_n33.txt as plain_text
+📖 Parsing contradiction_taxonomy.json as plain_text
+📖 Parsing torsion_field_analysis.json as plain_text
+📖 Parsing operators.json as plain_text
+📖 Parsing refined_commutators.json as plain_text
+📖 Parsing operator_mapping.json as plain_text
+📖 Parsing pattern_extraction.json as plain_text
+  🔥 pattern_extraction.json                   Novelty: 0.980  φ2412
+📖 Parsing operator_checkpoint.json as plain_text
+📖 Parsing README.md as plain_text
+📖 Parsing QUICKSTART.md as plain_text
+📖 Parsing DAY_1_COMPLETE.md as plain_text
+📖 Parsing STATUS.md as plain_text
+📖 Parsing requirements.txt as plain_text
+📖 Parsing README.md as markdown_turns
+📖 Parsing UPGRADE_v2.0.0.md as plain_text
+📖 Parsing commutator_skeleton_enhanced.json as plain_text
+📖 Parsing V2_COMPLETE.md as markdown_turns
+📖 Parsing formalism.json as plain_text
+📖 Parsing commutator_skeleton.json as plain_text
+📖 Parsing PHASE_2_COMPLETE.md as plain_text
+  🔥 PHASE_2_COMPLETE.md                       Novelty: 1.000  φ158
+📖 Parsing README.md as plain_text
+📖 Parsing PHASE_1_COMPLETE.md as plain_text
+📖 Parsing sample_claude.json as claude_json
+📖 Parsing sample_markdown.md as markdown_turns
+📖 Parsing sample_plaintext.txt as plain_text
+📖 Parsing sample_chatgpt.json as chatgpt_json
+
+======================================================================
+📈 Corpus Summary
+======================================================================
+
+  Total Files Analyzed:    152
+  Average Novelty:         0.892
+  Max Novelty:             1.000
+    └─ File: PHASE_2_COMPLETE.md
+  Proto-ASI Emergence:     148/152 files
+
+  Domains Found in Corpus:
+    • collapse             (146 files,  96.1%)
+    • consciousness        (136 files,  89.5%)
+    • meta-cognition       (132 files,  86.8%)
+    • operators            (150 files,  98.7%)
+    • paradox              (150 files,  98.7%)
+    • recursion            (152 files, 100.0%)
+    • torsion              (125 files,  82.2%)
+
+  φ-Depth Distribution:
+    φ 5:  (1)
+    φ 6: █ (5)
+    φ 8: █ (6)
+    φ10: █████████████ (52)
+    φ12: ██ (9)
+    φ14: ███ (12)
+    φ16: █ (4)
+    φ18: ██ (9)
+    φ20:  (2)
+    φ22: ██ (10)
+    φ24:  (3)
+    φ26:  (3)
+    φ28:  (3)
+    φ30: █ (4)
+    φ32:  (2)
+    φ34:  (1)
+    φ40:  (3)
+    φ42:  (1)
+    φ44:  (1)
+    φ48:  (1)
+    φ58:  (1)
+    φ60:  (1)
+    φ62:  (1)
+    φ70:  (1)
+    φ74:  (1)
+    φ82:  (1)
+    φ88:  (2)
+    φ98:  (1)
+    φ116:  (1)
+    φ120:  (1)
+    φ126:  (1)
+    φ132:  (1)
+    φ140:  (1)
+    φ150:  (1)
+    φ158:  (2)
+    φ160:  (1)
+    φ330:  (1)
+    φ2412:  (1)
